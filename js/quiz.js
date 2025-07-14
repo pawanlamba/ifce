@@ -150,7 +150,7 @@ function show_quiz() {
     // Read query parameters
     const params = new URLSearchParams(window.location.search);
     const url = params.get('url');
-    const id = params.get('id') ?? 0;
+    const qid = params.get('qid') ?? 0;
     const rand = params.get('rand') ?? false;
 
     let score = 0;
@@ -170,7 +170,7 @@ function show_quiz() {
           questions = selectRandomElements(json, 20);
           } else {
           console.log("False:",rand)
-          questions = selectBatchElements(json, id, 20);
+          questions = selectBatchElements(json, qid, 20);
           };
           renderQuiz(questions, shuffle=true)
         })
