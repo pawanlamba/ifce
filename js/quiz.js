@@ -1,13 +1,7 @@
-function renderQuiz(questions, shuffle=false) {
+function renderQuiz(questions) {
     const quizContainer = document.getElementById('quiz-questions');
 
-    questions.forEach((unshuffled_q, index) => {
-        if (shuffle){
-        q =shuffleAndUpdate(unshuffled_q)
-        }else{
-        q=unshuffled_q
-        };
-
+    questions.forEach((q, index) => {
         const card = document.createElement('div');
         card.className = 'card p-4';
 
@@ -172,7 +166,7 @@ function show_quiz() {
           console.log("False:",rand)
           questions = selectBatchElements(json, qid, 20);
           };
-          renderQuiz(questions, shuffle=true)
+          renderQuiz(questions)
         })
         .catch(err => {
           console.error("Error fetching or parsing JSON:", err);
