@@ -140,16 +140,7 @@ function selectBatchElements(arr, n, batch_size) {
   return arr.slice(begin_idx, end_idx);
 };
 
-function show_quiz() {
-    // Read query parameters
-    const params = new URLSearchParams(window.location.search);
-    const url = params.get('url');
-    const qid = params.get('qid') ?? 0;
-    const rand = params.get('rand') ?? false;
-
-    let score = 0;
-    let answered = 0;
-
+function show_quiz(url, qid, rand) {
     if (url) {
       fetch(url)
         .then(response => {

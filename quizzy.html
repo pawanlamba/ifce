@@ -110,7 +110,16 @@
 
 <script src="js/quiz.js"></script>
 <script>
-    show_quiz();
+    // Read query parameters
+    const params = new URLSearchParams(window.location.search);
+    const url = params.get('url');
+    const qid = params.get('qid') ?? 0;
+    const rand = params.get('rand') ?? false;
+
+    //Assign default var
+    let score = 0;
+    let answered = 0;
+    show_quiz(url, qid, rand);
 </script>
 
 <footer class="py-5 bg-dark">
