@@ -151,7 +151,6 @@ function show_quiz(url, qid, rand) {
           // select random Sequential questions
           if (rand) {
           console.log("True:",rand)
-          console.log(rand)
           questions = selectRandomElements(json, 20);
           } else {
           console.log("False:",rand)

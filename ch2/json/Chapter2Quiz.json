@@ -1,0 +1,1811 @@
+[
+  {
+    "Question": "What is the role of the General Secretariat of the Council of Cooperative Health Insurance?",
+    "1": "To prepare and implement policies for health insurance",
+    "2": "To regulate the stock market",
+    "3": "To license insurance brokers",
+    "4": "To manage foreign investments",
+    "correct": "1",
+    "reason": "The General Secretariat prepares and implements health insurance policies."
+  },
+  {
+    "Question": "Which authority investigates cases of electronic violations, such as providing investment advice without a license through websites or mobile messages?",
+    "1": "HRSD",
+    "2": "CMA",
+    "3": "MISA",
+    "4": "SAMA",
+    "correct": "2",
+    "reason": "CMA investigates cases of electronic violations, calling and interrogating violators... that occur through websites and forums, or through mobile phone messages, e.g., providing advice... without a CMA license. "
+  },
+  {
+    "Question": "What is the purpose of the National Network of Cooperative Health Insurance System?",
+    "1": "To manage health insurance claims",
+    "2": "To provide a database of policyholders",
+    "3": "To regulate health insurance premiums",
+    "4": "To license health insurance companies",
+    "correct": "2",
+    "reason": "It provides a database by uploading policyholder names."
+  },
+  {
+    "Question": "Which ministry is responsible for enforcing labor laws related to insurance?",
+    "1": "Ministry of Health",
+    "2": "Ministry of Commerce",
+    "3": "Ministry of Investment",
+    "4": "Ministry of Human Resources and Social Development",
+    "correct": "4",
+    "reason": "HRSD enforces labor laws, including insurance-related ones."
+  },
+  {
+    "Question": "Which of the following is NOT a document required when submitting a license application for an insurance company to SAMA?",
+    "1": "A five-year business plan",
+    "2": "Economic feasibility study",
+    "3": "A list of potential large clients",
+    "4": "Articles of Association",
+    "correct": "3",
+    "reason": "The required documents include the application form, Articles of Association, Bylaws, organizational structure, and an economic feasibility study. A list of potential clients is not mentioned. "
+  },
+  {
+    "Question": "What is the role of the Ministry of Commerce (MC) in relation to insurance companies?",
+    "1": "Licensing insurance companies",
+    "2": "Regulating health insurance",
+    "3": "Managing foreign investments",
+    "4": "Issuing Commercial Registers (CR)",
+    "correct": "4",
+    "reason": "MC issues Commercial Registers."
+  },
+  {
+    "Question": "What is one of MISA\u00e2\u20ac\u2122s key tasks in the insurance field?",
+    "1": "Licensing insurance brokers",
+    "2": "Regulating health insurance",
+    "3": "Protecting rights of policyholders and beneficiaries",
+    "4": "Issuing insurance policies",
+    "correct": "3",
+    "reason": "Protecting rights is a key task of MISA."
+  },
+  {
+    "Question": "An insurance agent represents the __________ while an insurance broker represents the __________.",
+    "1": "SAMA, CCHI",
+    "2": "Policyholder, Insurance Company",
+    "3": "Insurance Company, Policyholder",
+    "4": "Insurance Company, Reinsurance Company",
+    "correct": "3",
+    "reason": "An agent represents an insurance company , while a broker negotiates on behalf of policyholders. "
+  },
+  {
+    "Question": "Which of the following is NOT a requirement for licensing self-employment insurance professions?",
+    "1": "Passing an approved exam for the required profession",
+    "2": "Holding a university degree",
+    "3": "Owning an insurance company",
+    "4": "Having at least five years of insurance experience",
+    "correct": "3",
+    "reason": "Owning an insurance company is not a listed requirement."
+  },
+  {
+    "Question": "What is the role of the Chambers of Commerce and Industry in the insurance sector?",
+    "1": "Providing data and information on commercial matters",
+    "2": "Licensing insurance companies",
+    "3": "Managing foreign investments",
+    "4": "Regulating health insurance",
+    "correct": "1",
+    "reason": "The Chambers provide data and information."
+  },
+  {
+    "Question": "Before practicing cooperative health insurance, what two approvals must an insurance company obtain?",
+    "1": "A permit from the Ministry of Commerce and a qualification from the CMA.",
+    "2": "A permit from MISA and a qualification from the Chamber of Commerce.",
+    "3": "A permit from SAMA and then a qualification from CCHI.",
+    "4": "A permit from CCHI and then a qualification from SAMA.",
+    "correct": "3",
+    "reason": "To enter the health insurance market, insurance companies must obtain a permit from SAMA, and then be qualified to practice cooperative health insurance by CCHI. "
+  },
+  {
+    "Question": "What are insurance companies obligated to do to guarantee policyholders' rights and manage underwritten risks?",
+    "1": "Refuse to cover high-value assets.",
+    "2": "Only invest in government bonds.",
+    "3": "Maintain a very high level of capital reserves.",
+    "4": "Contract with rated reinsurance companies.",
+    "correct": "4",
+    "reason": "All of such companies are obligated to contract with rated reinsurance companies to guarantee policyholders\u2019 rights and maintain the company\u2019s position in terms of managing underwritten risks. "
+  },
+  {
+    "Question": "How is an 'insurance broker' defined in the text?",
+    "1": "A legal person who represents a single insurance company.",
+    "2": "A natural person who provides consulting services on insurance.",
+    "3": "A legal person who negotiates with insurance companies on behalf of policyholders for a fee.",
+    "4": "A company that adjusts insurance claims.",
+    "correct": "3",
+    "reason": "An insurance broker is defined as a legal person who, in return for a fee, negotiates with insurance companies to complete the insurance process for the benefit of policyholders. "
+  },
+  {
+    "Question": "What is the minimum permissible capital for insurance companies in KSA?",
+    "1": "SAR 100 million",
+    "2": "SAR 50 million",
+    "3": "SAR 500 million",
+    "4": "SAR 200 million",
+    "correct": "1",
+    "reason": "All licensed insurance companies in KSA adhere to the minimum permissible capital, which is SAR 100 million. "
+  },
+  {
+    "Question": "Which of the following is a competency of the Chambers of Commerce and Industry?",
+    "1": "Conducting studies and research related to trade and industry",
+    "2": "Licensing insurance brokers",
+    "3": "Issuing insurance policies",
+    "4": "Regulating reinsurance companies",
+    "correct": "1",
+    "reason": "Conducting studies and research is a competency."
+  },
+  {
+    "Question": "What is the role of the Insurance Supervision Department at SAMA?",
+    "1": "To manage government investments",
+    "2": "To issue currency",
+    "3": "To supervise and control the insurance sector",
+    "4": "To regulate the stock market",
+    "correct": "3",
+    "reason": "The department supervises and controls the insurance sector."
+  },
+  {
+    "Question": "What is the primary governmental body responsible for regulating and monitoring the Saudi insurance sector?",
+    "1": "The Saudi Central Bank (SAMA)",
+    "2": "The Capital Market Authority (CMA)",
+    "3": "The Ministry of Commerce (MC)",
+    "4": "The Council of Cooperative Health Insurance (CCHI)",
+    "correct": "1",
+    "reason": "The governmental body responsible for regulating and monitoring the Saudi insurance sector is the Saudi Central Bank (SAMA). "
+  },
+  {
+    "Question": "What was one of the main reasons for regulating the insurance sector in KSA?",
+    "1": "To reduce the number of insurance companies",
+    "2": "To limit foreign investment in the insurance sector",
+    "3": "To increase taxes on insurance premiums",
+    "4": "To address the burden of free healthcare on the economy",
+    "correct": "4",
+    "reason": "Mandatory medical insurance was introduced to mitigate the economic burden of free healthcare for foreign workers."
+  },
+  {
+    "Question": "Which ministry is responsible for regulating the use of manpower, enforcing the Labor Law, and settling labor disputes in the private sector?",
+    "1": "Ministry of Commerce (MC)",
+    "2": "Ministry of the Interior (MOI)",
+    "3": "Ministry of Justice (MOJ)",
+    "4": "Ministry of Human Resources and Social Development (HRSD)",
+    "correct": "4",
+    "reason": "The Ministry of Human Resources and Social Development (HRSD)\u2019s overall objective is to regulate the use of manpower through enforcing the Labor Law and settling labor disputes in the private sector. "
+  },
+  {
+    "Question": "What is the role of the Council of Cooperative Health Insurance (CCHHI)?",
+    "1": "To regulate the stock market",
+    "2": "To oversee the implementation of the Cooperative Health Insurance Law",
+    "3": "To manage foreign investments in KSA",
+    "4": "To license insurance companies",
+    "correct": "2",
+    "reason": "CCHHI oversees the implementation of the Cooperative Health Insurance Law."
+  },
+  {
+    "Question": "What is a key power of SAMA regarding insurance products?",
+    "1": "Approving insurance products for insurance companies.",
+    "2": "Mandating which products a company must sell.",
+    "3": "Marketing new products to the public.",
+    "4": "Setting the price for all products.",
+    "correct": "1",
+    "reason": "SAMA's powers include approving insurance products for insurance companies. "
+  },
+  {
+    "Question": "The Cooperative Insurance Companies Control Law prohibits insurance companies from dealing with whom?",
+    "1": "Any unlicensed broker.",
+    "2": "Any broker who has been in business for less than 5 years.",
+    "3": "Any broker who is not a Saudi national.",
+    "4": "Any broker that also deals with a competing insurance company.",
+    "correct": "1",
+    "reason": "The Cooperative Insurance Companies Control Law prohibited insurance companies from dealing with any unlicensed broker, and this applies to all insurance self-employment professions. "
+  },
+  {
+    "Question": "Which of the following is a requirement for obtaining a license for an insurance profession company?",
+    "1": "Operating in all regions of KSA",
+    "2": "Having a minimum capital of SAR 10 million",
+    "3": "Submitting a three-year business plan",
+    "4": "Employing only Saudi nationals",
+    "correct": "3",
+    "reason": "A three-year business plan is required."
+  },
+  {
+    "Question": "What is one of the stated aims of the SAMA Insurance Supervision Department?",
+    "1": "To ensure all insurance companies achieve a minimum level of profitability.",
+    "2": "To foster, develop, and grow the KSA insurance market.",
+    "3": "To limit the number of licensed insurance companies to reduce competition.",
+    "4": "To manage the day-to-day operations of struggling insurance companies.",
+    "correct": "2",
+    "reason": "One of the department's powers is to foster, develop and grow the KSA insurance market, through innovating tools to do so, and spreading insurance awareness across the market. "
+  },
+  {
+    "Question": "What is required for natural persons (self-employed professionals) to obtain a license for an insurance profession from SAMA?",
+    "1": "Proof of a personal investment of SAR 1 million.",
+    "2": "A recommendation letter from a licensed insurance company.",
+    "3": "Passing a SAMA-approved exam or having an equivalent qualification.",
+    "4": "A high school diploma and one year of experience.",
+    "correct": "3",
+    "reason": "To obtain a SAMA license, a natural person must hold a university degree with experience or a specialized certificate, AND pass the approved exam for the required profession or obtain an equivalent qualification. "
+  },
+  {
+    "Question": "What law made it mandatory for employers to provide health insurance to their foreign employees in KSA?",
+    "1": "The Companies Law.",
+    "2": "The Cooperative Insurance Companies Control Law.",
+    "3": "The Cooperative Health Insurance Law.",
+    "4": "The Foreign Investment Act.",
+    "correct": "3",
+    "reason": "The Cooperative Health Insurance Law, issued by Royal Decree No. (71) in 1999, obliges employers to provide private health insurance to their foreign employees and their families. "
+  },
+  {
+    "Question": "Which of the following businesses is NOT required to register with MISA if it involves non-Saudi investors?",
+    "1": "Insurance or reinsurance companies.",
+    "2": "Insurance broker companies.",
+    "3": "Insurance actuaries and consultants.",
+    "4": "Companies that purchase insurance for their employees.",
+    "correct": "4",
+    "reason": "The law requires non-Saudi establishments and persons practicing insurance business, such as insurers, brokers, actuaries, and consultants, to register with MISA. A company simply buying insurance is not practicing insurance business. "
+  },
+  {
+    "Question": "What action does HRSD take regarding health insurance for Saudi employees in the private sector?",
+    "1": "It obligates all private sector institutions to provide cooperative health insurance to their Saudi employees and their families.",
+    "2": "It only regulates health insurance for expatriate workers, not for Saudis.",
+    "3": "It provides subsidies to companies that offer health insurance to Saudi employees.",
+    "4": "It encourages, but does not mandate, health insurance coverage.",
+    "correct": "1",
+    "reason": "HRSD places emphasis on obligating all private sector-owned institutions and companies to apply cooperative health insurance to Saudis working for it as well as their families. "
+  },
+  {
+    "Question": "How many surveyors and loss adjusters are listed as licensed in the document?",
+    "1": "13",
+    "2": "20",
+    "3": "5",
+    "4": "10",
+    "correct": "1",
+    "reason": "The document lists 13 licensed surveyors and loss adjusters."
+  },
+  {
+    "Question": "What is the purpose of the five-year business plan required for insurance company licensing?",
+    "1": "To list all employees and their qualifications",
+    "2": "To outline the company\u00e2\u20ac\u2122s expected growth and financial projections",
+    "3": "To detail the company\u00e2\u20ac\u2122s marketing strategy",
+    "4": "To provide a history of the insurance industry",
+    "correct": "2",
+    "reason": "The plan includes growth and financial projections."
+  },
+  {
+    "Question": "Which body is responsible for monitoring the financial solvency of insurance companies?",
+    "1": "MISA",
+    "2": "SAMA",
+    "3": "CCHHI",
+    "4": "CMA",
+    "correct": "2",
+    "reason": "SAMA monitors financial solvency."
+  },
+  {
+    "Question": "Which law governs the operations of joint stock companies, including insurance companies, in KSA?",
+    "1": "Cooperative Insurance Companies Control Law",
+    "2": "Capital Market Law",
+    "3": "Companies Law",
+    "4": "Labor Law",
+    "correct": "3",
+    "reason": "Insurance companies are subject to the Companies Law."
+  },
+  {
+    "Question": "Which of the following is a requirement for self-employed insurance professionals?",
+    "1": "Being a Saudi national",
+    "2": "Owning an insurance company",
+    "3": "Having at least 10 years of experience",
+    "4": "Having a university degree or equivalent experience",
+    "correct": "4",
+    "reason": "A degree with five years of experience or certification is required."
+  },
+  {
+    "Question": "What is the minimum capital required for an actuarial services company in KSA?",
+    "1": "SAR 3 million",
+    "2": "SAR 150,000",
+    "3": "SAR 500,000",
+    "4": "SAR 1 million",
+    "correct": "2",
+    "reason": "The minimum required capital of an actuarial company is SAR 150,000. "
+  },
+  {
+    "Question": "What is the minimum capital requirement for a surveyors and loss adjusters company in KSA?",
+    "1": "SAR 1 million",
+    "2": "SAR 500,000",
+    "3": "SAR 150,000",
+    "4": "SAR 3 million",
+    "correct": "2",
+    "reason": "The minimum capital of surveyors and loss adjusters is SAR 500,000. "
+  },
+  {
+    "Question": "What is one of the general tasks of the Ministry of Human Resources and Social Development (HRSD)?",
+    "1": "To issue Commercial Registers for new businesses.",
+    "2": "To supervise the recruitment and use of manpower in the private sector.",
+    "3": "To regulate the stock market.",
+    "4": "To license insurance brokerage companies.",
+    "correct": "2",
+    "reason": "HRSD's general tasks include supervising recruitment and transfer of services and use of manpower, licensing them to work for private sector establishments. "
+  },
+  {
+    "Question": "Which of the following is NOT a licensed insurance profession in KSA?",
+    "1": "Insurance Agents",
+    "2": "Surveyors and Loss Adjusters",
+    "3": "Insurance Brokers",
+    "4": "Insurance Underwriters",
+    "correct": "4",
+    "reason": "Underwriters are not listed as a separate profession."
+  },
+  {
+    "Question": "Which body is NOT a founding shareholder of Tawuniya?",
+    "1": "Pension Fund",
+    "2": "General Organization for Social Insurance",
+    "3": "Ministry of Commerce",
+    "4": "Public Investment Fund",
+    "correct": "3",
+    "reason": "The founding shareholders were the Public Investment Fund, the Pension Fund, and the General Organization for Social Insurance. The Ministry of Commerce was not a founding shareholder. "
+  },
+  {
+    "Question": "How did KSA's accession to the WTO influence the insurance sector?",
+    "1": "It banned foreign insurance companies from operating in KSA",
+    "2": "It increased the capital requirements for insurance companies",
+    "3": "It required KSA to open its insurance market to foreign investment",
+    "4": "It led to the closure of many insurance companies",
+    "correct": "3",
+    "reason": "The WTO Accession Agreement included opening KSA\u00e2\u20ac\u2122s insurance market to foreign investment."
+  },
+  {
+    "Question": "The need to make certain types of insurance compulsory is a means of achieving what?",
+    "1": "Simplified market regulation.",
+    "2": "Broad protection for all segments of society.",
+    "3": "Higher profits for insurance companies.",
+    "4": "Increased government revenue.",
+    "correct": "2",
+    "reason": "One of the main objectives of insurance regulation is the need to make certain types of insurance compulsory as a means of achieving broad protection for all segments of society. "
+  },
+  {
+    "Question": "Which body is responsible for qualifying health insurance companies to practice cooperative health insurance?",
+    "1": "SAMA",
+    "2": "CMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "4",
+    "reason": "CCHHI qualifies health insurance companies, as per the document."
+  },
+  {
+    "Question": "How is an 'actuary' defined in the text?",
+    "1": "A person who provides legal advice to insurance companies.",
+    "2": "A person who sells insurance policies.",
+    "3": "A person who applies probability and statistics to price services and establish obligations.",
+    "4": "A person who investigates the cause of loss after an incident.",
+    "correct": "3",
+    "reason": "An actuary is defined as the person who applies the theory of probability and statistics according to which services are priced, obligations are established and provisions are made. "
+  },
+  {
+    "Question": "How many insurance brokerage companies are listed as licensed in the document?",
+    "1": "30",
+    "2": "52",
+    "3": "20",
+    "4": "10",
+    "correct": "2",
+    "reason": "The document lists 52 licensed insurance brokerage companies."
+  },
+  {
+    "Question": "Which governmental body is responsible for regulating and monitoring the Saudi insurance sector?",
+    "1": "Ministry of Commerce",
+    "2": "Saudi Central Bank (SAMA)",
+    "3": "Ministry of Investment (MISA)",
+    "4": "Capital Market Authority (CMA)",
+    "correct": "2",
+    "reason": "SAMA is identified as the key regulator of the insurance sector."
+  },
+  {
+    "Question": "What is the significance of the Cooperative Insurance Companies Control Law in KSA?",
+    "1": "It nationalized all insurance companies",
+    "2": "It opened the insurance market to foreign investment",
+    "3": "It established the first insurance company",
+    "4": "It banned all forms of insurance",
+    "correct": "2",
+    "reason": "The law opened the market to foreign investment."
+  },
+  {
+    "Question": "What was a significant burden on the healthcare sector in Saudi Arabia before the regulation of the insurance sector?",
+    "1": "The small number of hospitals and clinics.",
+    "2": "The lack of qualified medical professionals.",
+    "3": "The high cost of medical technology.",
+    "4": "Free healthcare for both Saudi citizens and over six million foreign residents.",
+    "correct": "4",
+    "reason": "Healthcare in Saudi Arabia was free for both citizens and foreign residents, and with over six million foreign workers and their dependents, this placed a significant burden on the healthcare sector and the economy. "
+  },
+  {
+    "Question": "What is the difference between an insurance broker and an insurance agent?",
+    "1": "Brokers represent the insurance company, while agents represent the policyholder",
+    "2": "Agents represent the insurance company, while brokers represent the policyholder",
+    "3": "Both represent the policyholder",
+    "4": "Both represent the insurance company",
+    "correct": "2",
+    "reason": "Agents represent insurers, brokers represent policyholders."
+  },
+  {
+    "Question": "What is the purpose of the Commercial Register (CR) for insurance companies?",
+    "1": "To regulate insurance premiums",
+    "2": "To monitor employee salaries",
+    "3": "To provide a legal identity and details of the company",
+    "4": "To list all insurance policies offered",
+    "correct": "3",
+    "reason": "The CR provides legal identity and company details."
+  },
+  {
+    "Question": "What was the name of the first insurance company established in KSA?",
+    "1": "Malath Cooperative Insurance Co.",
+    "2": "Saudi Reinsurance Company",
+    "3": "Bupa Arabia",
+    "4": "National Cooperative Insurance Company (Tawuniya)",
+    "correct": "4",
+    "reason": "The National Cooperative Insurance Company (Tawuniya) was established in 1405 AH (1985 AD)."
+  },
+  {
+    "Question": "The Ministry of Commerce (MC) provides e-services to facilitate applications. What can an applicant do if there is a delay in the implementation of an e-service?",
+    "1": "Resubmit the application.",
+    "2": "Wait for an automatic notification.",
+    "3": "Visit the MC premises in person.",
+    "4": "Contact the CRM center directly to object.",
+    "correct": "4",
+    "reason": "The applicant can, in case of delay in implementation, contact the CRM center directly to object. "
+  },
+  {
+    "Question": "All licensed insurance companies in KSA are what type of company?",
+    "1": "Foreign branch offices",
+    "2": "Sole proprietorships",
+    "3": "Private limited companies",
+    "4": "Public joint-stock companies",
+    "correct": "4",
+    "reason": "All of such companies are public joint-stock companies, and a large part of Saudis are shareholders therein. "
+  },
+  {
+    "Question": "According to SAMA's instructions, what must every insurance company have?",
+    "1": "Its own in-house law firm.",
+    "2": "A direct line of credit from SAMA.",
+    "3": "A board member appointed by the Ministry of Commerce.",
+    "4": "An actuary.",
+    "correct": "4",
+    "reason": "Each insurance company must have an actuary according to SAMA\u2019s instructions. "
+  },
+  {
+    "Question": "What is one of the objectives of the Insurance Supervision Department at SAMA?",
+    "1": "To promote market transparency",
+    "2": "To issue currency",
+    "3": "To manage government investments",
+    "4": "To regulate banks",
+    "correct": "1",
+    "reason": "Promoting market transparency is an objective."
+  },
+  {
+    "Question": "Which body is responsible for fostering insurance awareness in KSA?",
+    "1": "MISA",
+    "2": "SAMA",
+    "3": "CMA",
+    "4": "CCHHI",
+    "correct": "2",
+    "reason": "SAMA\u00e2\u20ac\u2122s Insurance Supervision Department fosters awareness."
+  },
+  {
+    "Question": "Which law regulates the insurance sector in KSA?",
+    "1": "Labor Law",
+    "2": "Cooperative Insurance Companies Control Law",
+    "3": "Banking Control Law",
+    "4": "Capital Market Law",
+    "correct": "2",
+    "reason": "The Cooperative Insurance Companies Control Law is the key legislation."
+  },
+  {
+    "Question": "What is the time frame for insurance companies to settle service provider claims?",
+    "1": "30 days",
+    "2": "90 days",
+    "3": "120 days",
+    "4": "60 days",
+    "correct": "4",
+    "reason": "Claims must be settled within 60 days."
+  },
+  {
+    "Question": "Within how many working days must an insurance company issue insurance cards to policyholders?",
+    "1": "5 working days",
+    "2": "2 working days",
+    "3": "There is no specified time limit.",
+    "4": "10 working days",
+    "correct": "1",
+    "reason": "Insurance companies must issue insurance cards to policyholders within (5) working days at most from the date of policy validity. "
+  },
+  {
+    "Question": "Which body is responsible for preparing the Implementing Regulations for the Insurance Law in the Kingdom?",
+    "1": "The Saudi Central Bank (SAMA)",
+    "2": "The Capital Market Authority (CMA)",
+    "3": "The Ministry of Finance",
+    "4": "The Council of Ministers",
+    "correct": "1",
+    "reason": "SAMA is specialized in monitoring cooperative insurance companies, which includes preparing the Implementing Regulations for the Insurance Law. "
+  },
+  {
+    "Question": "What is the only licensed cooperative reinsurance company mentioned in the document?",
+    "1": "Tawuniya",
+    "2": "Malath Cooperative Insurance Co.",
+    "3": "Saudi Reinsurance Company (Saudi Re)",
+    "4": "Bupa Arabia",
+    "correct": "3",
+    "reason": "Saudi Re is the only licensed cooperative reinsurance company."
+  },
+  {
+    "Question": "What is 'good governance' as it applies to insurance companies in KSA?",
+    "1": "The requirement to disclose any data related to financial results or decisions that could affect the company's position.",
+    "2": "A commitment to providing the lowest possible premiums.",
+    "3": "An obligation to invest only in government-issued bonds.",
+    "4": "A focus on customer service above all other metrics.",
+    "correct": "1",
+    "reason": "All licensed companies are subject to 'good governance', which requires the disclosure of any data related to results and financial decisions or any decisions that may affect the company\u2019s legal or financial position. "
+  },
+  {
+    "Question": "What is a key responsibility of the CMA regarding insurance companies?",
+    "1": "Setting the minimum capital requirements for insurers.",
+    "2": "Approving new insurance products.",
+    "3": "Regulating and monitoring the disclosure of information related to securities and issuers.",
+    "4": "Conducting medical audits of healthcare providers.",
+    "correct": "3",
+    "reason": "One of the CMA's key responsibilities is to regulate and monitor the disclosure of information related to securities and their issuers. "
+  },
+  {
+    "Question": "Who chairs the Board of Directors of the Council of Cooperative Health Insurance (CCHI)?",
+    "1": "His Excellency the Minister of Finance",
+    "2": "The Governor of SAMA",
+    "3": "His Excellency the Minister of Commerce",
+    "4": "His Excellency the Minister of Health",
+    "correct": "4",
+    "reason": "The CCHI's Board of Directors is chaired by His Excellency the Minister of Health. "
+  },
+  {
+    "Question": "Which body monitors the publication of financial statements by listed companies, including insurance companies?",
+    "1": "SAMA",
+    "2": "CMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "2",
+    "reason": "CMA monitors financial statement publication."
+  },
+  {
+    "Question": "What is the definition of a surveyor and loss adjuster?",
+    "1": "A legal person who examines and inspects assets before insurance and after damage",
+    "2": "An employee of an insurance company",
+    "3": "A person who sells insurance policies",
+    "4": "A government official who regulates insurance companies",
+    "correct": "1",
+    "reason": "The document defines them as inspectors of assets before and after damage."
+  },
+  {
+    "Question": "Which body is responsible for qualifying health insurance companies?",
+    "1": "CMA",
+    "2": "SAMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "4",
+    "reason": "CCHHI qualifies health insurance companies."
+  },
+  {
+    "Question": "What is the consequence for employers who do not subscribe to cooperative health insurance for their workers?",
+    "1": "A fine not exceeding the annual subscription amount",
+    "2": "No consequences",
+    "3": "Immediate closure of the business",
+    "4": "A prison sentence",
+    "correct": "1",
+    "reason": "Article 14 mentions a fine not exceeding the annual subscription."
+  },
+  {
+    "Question": "What is the role of surveyors and loss adjusters in the insurance process?",
+    "1": "To sell insurance policies",
+    "2": "To assess damages and determine liability",
+    "3": "To provide actuarial services",
+    "4": "To manage investments",
+    "correct": "2",
+    "reason": "They assess damages and determine liability."
+  },
+  {
+    "Question": "What is one of the general tasks of the Ministry of Human Resources and Social Development (HRSD)?",
+    "1": "Regulating the insurance market",
+    "2": "Licensing insurance companies",
+    "3": "Managing foreign investments",
+    "4": "Drawing up policies for labor affairs",
+    "correct": "4",
+    "reason": "HRSD draws up labor affairs policies."
+  },
+  {
+    "Question": "Which of the following is mentioned as a party related to the insurance sector, but with a lesser role?",
+    "1": "The Saudi Central Bank",
+    "2": "The Capital Market Authority",
+    "3": "The Ministry of Finance",
+    "4": "The General Department of Traffic",
+    "correct": "4",
+    "reason": "The text mentions that there are some parties related to the insurance sector with fewer roles, including The General Department of Traffic, Civil Defense, and municipalities. "
+  },
+  {
+    "Question": "Which of the following is a power of the CMA?",
+    "1": "Issuing currency",
+    "2": "Protecting investors from unfair practices",
+    "3": "Managing government budgets",
+    "4": "Regulating health insurance",
+    "correct": "2",
+    "reason": "CMA protects investors from unfair practices."
+  },
+  {
+    "Question": "What is the role of the Ministry of Human Resources and Social Development (HRSD) in the insurance sector?",
+    "1": "Enforcing the application of cooperative health insurance in the private sector",
+    "2": "Managing foreign investments",
+    "3": "Licensing insurance companies",
+    "4": "Regulating the stock market",
+    "correct": "1",
+    "reason": "HRSD enforces cooperative health insurance for private sector Saudis."
+  },
+  {
+    "Question": "When was the Saudi Central Bank (SAMA) established?",
+    "1": "1957 AD",
+    "2": "1999 AD",
+    "3": "2003 AD",
+    "4": "1952 AD",
+    "correct": "4",
+    "reason": "SAMA was established in 1952. "
+  },
+  {
+    "Question": "The Capital Market Law, which established the CMA, was issued in what year?",
+    "1": "2015",
+    "2": "2003",
+    "3": "1999",
+    "4": "1980",
+    "correct": "2",
+    "reason": "In accordance with the 'Capital Market Law' issued by virtue of Royal Decree No. (M/30) dated 02/06/1424 AH (which corresponds to 2003 AD), the CMA was established. "
+  },
+  {
+    "Question": "What is the minimum capital required for an actuarial company?",
+    "1": "SAR 500,000",
+    "2": "SAR 150,000",
+    "3": "SAR 100,000",
+    "4": "SAR 1 million",
+    "correct": "2",
+    "reason": "The minimum capital for an actuarial company is SAR 150,000."
+  },
+  {
+    "Question": "What is the main objective of the Cooperative Insurance Companies Control Law?",
+    "1": "To limit the number of insurance policies sold",
+    "2": "To reduce competition in the insurance market",
+    "3": "To protect the rights of the insured and investors",
+    "4": "To increase the profits of insurance companies",
+    "correct": "3",
+    "reason": "Article 2 of the Implementing Regulations states this objective."
+  },
+  {
+    "Question": "What is the legal status of the Council of Cooperative Health Insurance (CCHI)?",
+    "1": "A Saudi governmental body with an independent legal authority",
+    "2": "An ad-hoc committee under the Ministry of Commerce",
+    "3": "A private non-profit organization",
+    "4": "A subsidiary of the Saudi Central Bank",
+    "correct": "1",
+    "reason": "CCHI is a Saudi governmental body with an independent legal authority established under Cabinet Resolution No. (71). "
+  },
+  {
+    "Question": "Which body is responsible for regulating and supervising cooperative insurance companies?",
+    "1": "CMA",
+    "2": "SAMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "2",
+    "reason": "SAMA regulates and supervises cooperative insurance companies."
+  },
+  {
+    "Question": "What is a key role of MISA in the insurance sector for foreign investors?",
+    "1": "To directly manage the operations of foreign-owned insurance companies.",
+    "2": "To act as an investment gateway and provide support to investors.",
+    "3": "To conduct the final audits of insurance companies' accounts.",
+    "4": "To set the premium rates for health insurance.",
+    "correct": "2",
+    "reason": "MISA's role includes acting as an investment gateway to the Kingdom and providing efficient, effective, and appropriate support to investors. "
+  },
+  {
+    "Question": "The business plan submitted by an applicant for an insurance profession license (e.g., broker, agent) should cover how many years?",
+    "1": "Three years",
+    "2": "One year",
+    "3": "Ten years",
+    "4": "Five years",
+    "correct": "1",
+    "reason": "Applicants for an insurance profession license must submit a three-year business plan. "
+  },
+  {
+    "Question": "What is the maximum time frame for an insurance company to settle service provider claims, according to CCHI regulations?",
+    "1": "90 days",
+    "2": "30 days",
+    "3": "60 days",
+    "4": "45 days",
+    "correct": "3",
+    "reason": "Insurance companies must settle service provider claims as quickly as possible within (60) days. "
+  },
+  {
+    "Question": "What is one of the items that must be included in the five-year business plan when applying for an insurance company license?",
+    "1": "A commitment to not use reinsurance for the first five years.",
+    "2": "A plan to merge with a competitor within ten years.",
+    "3": "A guarantee of profitability in the first year.",
+    "4": "A statement of the technical bases of insurance operations and a certificate from actuaries.",
+    "correct": "4",
+    "reason": "A five-year business plan must include a statement of the technical bases of insurance operations and a certificate from actuaries. "
+  },
+  {
+    "Question": "What is the significance of the Cooperative Health Insurance Law?",
+    "1": "It regulated health insurance for non-Saudi residents",
+    "2": "It banned private health insurance",
+    "3": "It made health insurance mandatory for all citizens",
+    "4": "It provided free healthcare to foreign workers",
+    "correct": "1",
+    "reason": "The law regulates healthcare for non-Saudi residents."
+  },
+  {
+    "Question": "Which of the following is NOT listed as an objective of the Cooperative Insurance Companies Control Law and its Implementing Regulations?",
+    "1": "Maximizing the profitability of insurance companies.",
+    "2": "Protecting the rights of the insured and investors.",
+    "3": "Developing the insurance sector in the Kingdom, including training and job localization.",
+    "4": "Encouraging fair and effective competition.",
+    "correct": "1",
+    "reason": "The objectives include protecting rights, encouraging competition, promoting stability, and developing the sector. Maximizing profitability is a company goal, not a regulatory objective. "
+  },
+  {
+    "Question": "What is the role of the Ministry of Investment (MISA) in the insurance sector?",
+    "1": "Licensing insurance agents",
+    "2": "Regulating health insurance policies",
+    "3": "Monitoring traffic insurance claims",
+    "4": "Managing and supervising investment environment for foreign investors",
+    "correct": "4",
+    "reason": "MISA manages the investment environment for foreign investors in the insurance sector."
+  },
+  {
+    "Question": "The CMA checks for 'solvency problems' of companies. Why is this activity particularly important for the insurance industry?",
+    "1": "Because insurance companies are all new and lack financial history.",
+    "2": "Because solvency is a key issue facing insurance companies, which need to be able to pay future claims.",
+    "3": "Because insurance companies are not required to be profitable.",
+    "4": "Because the CMA provides bailout funds to insolvent companies.",
+    "correct": "2",
+    "reason": "Checking solvency problems is an important activity for the insurance industry, since solvency is a key issue facing insurance companies. "
+  },
+  {
+    "Question": "What type of guarantee must be provided to SAMA when applying for an insurance company license?",
+    "1": "A personal guarantee from the CEO.",
+    "2": "A pledge of the company's future profits.",
+    "3": "A corporate bond from an international firm.",
+    "4": "An irrevocable bank guarantee equal to the required capital from a local bank.",
+    "correct": "4",
+    "reason": "An irrevocable bank guarantee in an amount equal to the required capital, issued by a local bank, is required. "
+  },
+  {
+    "Question": "Which department within SAMA is directly concerned with carrying out supervisory tasks on the insurance sector?",
+    "1": "The Banking Supervision Department",
+    "2": "The Legal Affairs Department",
+    "3": "The Insurance Supervision Department",
+    "4": "The Investment Department",
+    "correct": "3",
+    "reason": "SAMA formed a team of supervisors that now works within a general department called the Insurance Supervision Department. "
+  },
+  {
+    "Question": "When was the Cooperative Insurance Company Control Law issued in KSA?",
+    "1": "2005",
+    "2": "2010",
+    "3": "2003",
+    "4": "2000",
+    "correct": "3",
+    "reason": "The law was issued on August 01, 2003, per Royal Decree No. M/3."
+  },
+  {
+    "Question": "What is one of the key responsibilities of the Capital Market Authority (CMA) regarding insurance companies?",
+    "1": "Issuing health insurance policies",
+    "2": "Licensing insurance brokers",
+    "3": "Regulating reinsurance companies",
+    "4": "Monitoring solvency problems of insurance companies",
+    "correct": "4",
+    "reason": "CMA monitors solvency, critical for insurance companies."
+  },
+  {
+    "Question": "Which of the following is NOT a type of insurance profession mentioned in the document?",
+    "1": "Insurance Agents",
+    "2": "Insurance Underwriters",
+    "3": "Insurance Brokers",
+    "4": "Actuaries",
+    "correct": "2",
+    "reason": "Underwriters are not specifically mentioned as a profession."
+  },
+  {
+    "Question": "According to the Cooperative Health Insurance Law, what is the penalty for an employer who fails to provide health insurance for a worker?",
+    "1": "The employer must pay all due premiums plus a fine, and may be denied the right to recruit expatriate workers.",
+    "2": "The employee is responsible for paying their own premiums.",
+    "3": "A warning for the first offense, followed by a small fine.",
+    "4": "The employer's business license will be immediately revoked.",
+    "correct": "1",
+    "reason": "If an employer does not subscribe or fails to pay premiums, they shall be obligated to pay all due premiums, a fine not exceeding the annual subscription for each individual, and may be denied the right to recruit expatriate workers. "
+  },
+  {
+    "Question": "How is an 'insurance claims adjuster' defined in the text?",
+    "1": "A person who sells insurance products.",
+    "2": "A legal person who manages, reviews, and settles insurance claims on behalf of an insurance company.",
+    "3": "A person who inspects assets before they are insured.",
+    "4": "A consultant who provides general advice on the insurance market.",
+    "correct": "2",
+    "reason": "An insurance claims adjuster is defined as the legal person who manages, reviews and settles insurance claims on behalf of an insurance company. "
+  },
+  {
+    "Question": "What is the role of a 'surveyor and loss adjuster'?",
+    "1": "To market and sell insurance policies.",
+    "2": "To provide actuarial calculations for an insurance company.",
+    "3": "To examine the asset to be insured and to inspect damages after a loss to determine the cause and estimate value.",
+    "4": "To manage the investment portfolio of an insurance company.",
+    "correct": "3",
+    "reason": "A surveyor and loss adjuster is defined as the legal person who examines and inspects the to-be-insured asset before being insured, and inspects damages after their occurrence to know causes of loss, estimate its value and determine liability. "
+  },
+  {
+    "Question": "The Implementing Regulations for the Cooperative Insurance Companies Control Law were issued by a resolution from which entity?",
+    "1": "The Governor of SAMA",
+    "2": "The King",
+    "3": "The Minister of Finance",
+    "4": "The Council of Ministers",
+    "correct": "3",
+    "reason": "The Law's Implementing Regulations were issued under the Minister of Finance's Resolution No. 1/596. "
+  },
+  {
+    "Question": "Which type of insurance is mandatory in KSA?",
+    "1": "Health insurance for foreign workers",
+    "2": "Property insurance",
+    "3": "Travel insurance",
+    "4": "Life insurance",
+    "correct": "1",
+    "reason": "Health insurance for foreign workers is mandatory."
+  },
+  {
+    "Question": "One of SAMA's technical functions regarding insurance is to regulate the investments of insurance companies in what locations?",
+    "1": "Only outside the Kingdom",
+    "2": "Only inside the Kingdom",
+    "3": "Only in government-approved projects",
+    "4": "Both inside and outside the Kingdom",
+    "correct": "4",
+    "reason": "SAMA is responsible for regulating the investments of insurance companies inside and outside the Kingdom. "
+  },
+  {
+    "Question": "How often is the accreditation for most healthcare providers by CCHI typically renewed?",
+    "1": "Every 5 years",
+    "2": "Annually, or every two or three years for some categories.",
+    "3": "Every month",
+    "4": "Only once upon initial setup.",
+    "correct": "2",
+    "reason": "Accreditation of healthcare providers is renewed annually or every two or three years for some categories. "
+  },
+  {
+    "Question": "One of the CCHI's obligations for insurance companies is to upload policyholder names to the National Network within what timeframe?",
+    "1": "48 hours",
+    "2": "Immediately upon policy issuance",
+    "3": "24 hours",
+    "4": "5 working days",
+    "correct": "1",
+    "reason": "CCHI has obligated insurance companies to upload names of policyholders to the National Network of Cooperative Health Insurance System within 48 hours. "
+  },
+  {
+    "Question": "The CCHI accredits healthcare providers wishing to work under its umbrella. Which of the following is NOT a classification of a healthcare provider mentioned in the text?",
+    "1": "Labs / Physiotherapy centers",
+    "2": "Pharmacies / Eyeglasses stores",
+    "3": "Hospitals / Day surgery centers",
+    "4": "Wellness and spa centers",
+    "correct": "4",
+    "reason": "The text lists hospitals, surgery centers, clinics, diagnostic centers, physiotherapy centers, labs, pharmacies, hardware/prosthetic stores, and eyeglasses stores. Wellness and spa centers are not mentioned. "
+  },
+  {
+    "Question": "What is the maximum time allowed for insurance companies to issue insurance cards to policyholders?",
+    "1": "24 hours",
+    "2": "5 working days",
+    "3": "48 hours",
+    "4": "10 working days",
+    "correct": "2",
+    "reason": "Insurance cards must be issued within 5 working days."
+  },
+  {
+    "Question": "Which organization is responsible for protecting the rights of policyholders and shareholders in the insurance sector?",
+    "1": "CMA",
+    "2": "SAMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "2",
+    "reason": "SAMA\u00e2\u20ac\u2122s Insurance Supervision Department protects these rights."
+  },
+  {
+    "Question": "What is the significance of the Cooperative Insurance Companies Control Law\u00e2\u20ac\u2122s Implementing Regulations?",
+    "1": "They regulate the stock market",
+    "2": "They list all licensed insurance companies",
+    "3": "They set the premiums for insurance policies",
+    "4": "They provide detailed guidelines for the law\u00e2\u20ac\u2122s application",
+    "correct": "4",
+    "reason": "The Regulations provide detailed guidelines."
+  },
+  {
+    "Question": "Which body is responsible for registering non-Saudi establishments and persons practicing insurance business?",
+    "1": "SAMA",
+    "2": "CMA",
+    "3": "MISA",
+    "4": "CCHHI",
+    "correct": "3",
+    "reason": "MISA handles registration of non-Saudi entities in the insurance business."
+  },
+  {
+    "Question": "What is the executive body of the CCHI responsible for implementing policies and direct supervision of health insurance?",
+    "1": "The Technical and Medical Department",
+    "2": "The General Secretariat",
+    "3": "The Board of Directors",
+    "4": "The Supervisory Committee",
+    "correct": "2",
+    "reason": "The General Secretariat represents the CCHI's executive body and is responsible for preparing and implementing policies and executive procedures. "
+  },
+  {
+    "Question": "Tawuniya was established to operate on what principle as an alternative to commercial insurance?",
+    "1": "The principle of state-controlled insurance",
+    "2": "The principle of takaful insurance",
+    "3": "The principle of cooperative insurance",
+    "4": "The principle of mutual insurance only",
+    "correct": "3",
+    "reason": "Its establishment came in response to the urgent need for an insurance company in the Kingdom of Saudi Arabia, operating on the principle of cooperative insurance as alternative to commercial insurance. "
+  },
+  {
+    "Question": "To obtain an insurance profession license, a natural person must hold a university degree with how many years of insurance experience?",
+    "1": "At least five years",
+    "2": "At least ten years",
+    "3": "At least one year",
+    "4": "At least three years",
+    "correct": "1",
+    "reason": "A natural person must hold a university degree with at least five years of insurance experience or a specialized insurance certification. "
+  },
+  {
+    "Question": "What is the role of an actuary in the insurance sector?",
+    "1": "To sell insurance policies",
+    "2": "To provide statistical and financial analysis for insurance products",
+    "3": "To negotiate with reinsurers",
+    "4": "To assess and adjust insurance claims",
+    "correct": "2",
+    "reason": "Actuaries typically provide statistical and financial analysis."
+  },
+  {
+    "Question": "What is the role of the Capital Market Authority (CMA) in relation to insurance companies?",
+    "1": "Regulating reinsurance",
+    "2": "Providing health insurance",
+    "3": "Monitoring financial solvency and market conduct",
+    "4": "Licensing insurance companies",
+    "correct": "3",
+    "reason": "CMA monitors solvency and market conduct."
+  },
+  {
+    "Question": "What is the minimum capital required for an insurance agency license in KSA?",
+    "1": "SAR 500,000",
+    "2": "SAR 3 million",
+    "3": "SAR 150,000",
+    "4": "SAR 1 million",
+    "correct": "1",
+    "reason": "The minimum required capital for an insurance agency license is SAR 500,000. "
+  },
+  {
+    "Question": "Chambers of Commerce and Industry are particularly focused on supporting what type of enterprises, which constitute 80-90% of their affiliates?",
+    "1": "State-owned enterprises",
+    "2": "Small and medium enterprises (SMEs)",
+    "3": "Non-profit organizations",
+    "4": "Large multinational corporations",
+    "correct": "2",
+    "reason": "The environment of the Saudi private sector is dominated by small and medium enterprises (SMEs), which range between 80% - 90% of the total affiliates of each chamber, making their support a priority. "
+  },
+  {
+    "Question": "Why must all insurance companies in KSA interact with the Capital Market Authority (CMA)?",
+    "1": "Because all insurance companies are required to be public joint stock companies.",
+    "2": "Because the CMA handles all consumer complaints against insurers.",
+    "3": "Because the CMA provides the initial license to operate as an insurer.",
+    "4": "Because the CMA sets the prices for all insurance products.",
+    "correct": "1",
+    "reason": "All insurance companies according to the Law must be public joint stock companies, and the CMA is the body responsible for regulating the offering of shares to the public. "
+  },
+  {
+    "Question": "What information is typically shown on a company's Commercial Register (CR)?",
+    "1": "The names of all policyholders and their coverage details.",
+    "2": "The company's reinsurance agreements and investment portfolio.",
+    "3": "The company's trade name, board members, capital, and nature of activity.",
+    "4": "The company's marketing plan and projected growth rates.",
+    "correct": "3",
+    "reason": "The CR shows the company\u2019s trade name, names of Board members, general manager, company\u2019s capital, and nature of activity intended to be practiced. "
+  },
+  {
+    "Question": "Which body is responsible for ensuring that insurance companies publish reliable and audited data?",
+    "1": "MISA",
+    "2": "SAMA",
+    "3": "CMA",
+    "4": "CCHHI",
+    "correct": "2",
+    "reason": "SAMA promotes market transparency with reliable data."
+  },
+  {
+    "Question": "Why do governments regulate the insurance industry even in free market economies?",
+    "1": "To promote monopolies in the insurance sector",
+    "2": "To control the prices of insurance policies",
+    "3": "To ensure fair dealing by insurance companies and brokers",
+    "4": "To limit the types of insurance available",
+    "correct": "3",
+    "reason": "Regulation ensures fair dealing towards policyholders and beneficiaries, as noted in the document."
+  },
+  {
+    "Question": "Which ministry is responsible for managing the investment environment for foreign investors in KSA, including those in the insurance sector?",
+    "1": "Ministry of Foreign Affairs (MOFA)",
+    "2": "Ministry of Commerce (MC)",
+    "3": "Ministry of Investment (MISA)",
+    "4": "Ministry of Finance (MOF)",
+    "correct": "3",
+    "reason": "The Ministry of Investment (MISA) is the authority responsible for managing and supervising the investment environment for foreign investors in KSA, including controlling insurance companies involving non-Saudi investors. "
+  },
+  {
+    "Question": "What must a self-employed professional obtain after fulfilling the licensing requirements from SAMA?",
+    "1": "A list of pre-approved clients from SAMA.",
+    "2": "A professional liability insurance policy for negligence, omission, and fault.",
+    "3": "A membership in the Chamber of Commerce.",
+    "4": "An office space in a designated financial district.",
+    "correct": "2",
+    "reason": "After completing the requirements, the self-employed professional must obtain an insurance policy that covers risks of professional liability for negligence, omission and fault. "
+  },
+  {
+    "Question": "What is one of the general tasks of the Ministry of Human Resources and Social Development (HRSD)?",
+    "1": "Licensing insurance companies",
+    "2": "Managing foreign investments",
+    "3": "Drawing up the general policy for labor affairs",
+    "4": "Regulating the insurance market",
+    "correct": "3",
+    "reason": "HRSD draws up labor affairs policy."
+  },
+  {
+    "Question": "Which body is responsible for accrediting healthcare providers for cooperative health insurance?",
+    "1": "MC",
+    "2": "CCHHI",
+    "3": "SAMA",
+    "4": "CMA",
+    "correct": "2",
+    "reason": "CCHHI\u00e2\u20ac\u2122s General Secretariat accredits healthcare providers."
+  },
+  {
+    "Question": "What was the government's rationale for not expanding the state-owned insurance industry to handle the mandatory health insurance for millions of people?",
+    "1": "The government lacked the funds to expand the state-owned company.",
+    "2": "The state-owned company was not profitable enough to expand.",
+    "3": "The government wanted to promote the private sector's contribution to the economy and the task could exceed one company's capacity.",
+    "4": "Foreign investors demanded that the state-owned company be dissolved.",
+    "correct": "3",
+    "reason": "The expansion of the state-owned industry did not align with government policy to promote the private sector, and providing health insurance to millions in a short period could exceed one company's capacity. "
+  },
+  {
+    "Question": "What is the minimum percentage of shares that insurance companies must offer to the public?",
+    "1": "50%",
+    "2": "30%",
+    "3": "40%",
+    "4": "20%",
+    "correct": "3",
+    "reason": "Insurance companies must offer 40% of shares to the public."
+  },
+  {
+    "Question": "What must be included in the five-year business plan submitted to SAMA for an insurance company license?",
+    "1": "A list of all competing insurance companies and their weaknesses.",
+    "2": "The salaries of the top five executives.",
+    "3": "A plan for hiring and qualifying Saudi nationals.",
+    "4": "A detailed advertising campaign for the first year.",
+    "correct": "3",
+    "reason": "The five-year business plan must include a plan for hiring and qualifying Saudis. "
+  },
+  {
+    "Question": "According to the text, what is a primary reason that even free market economies regulate their insurance industry?",
+    "1": "To prevent insurance companies from using funds for any type of investment.",
+    "2": "To ensure that insurance companies attract huge sums of money.",
+    "3": "To monitor and regulate the industry to secure the funds of shareholders and the insured.",
+    "4": "To encourage insurance companies to undertake unsecured risks for higher returns.",
+    "correct": "3",
+    "reason": "Governments regulate the insurance industry to ensure the funds entrusted to insurance companies are secured and to prevent them from being used in unsecured risks. "
+  },
+  {
+    "Question": "Which ministry provides the Commercial Register (CR) for an insurance company, a prerequisite for obtaining a license from SAMA?",
+    "1": "Ministry of Health (MOH)",
+    "2": "Ministry of Investment (MISA)",
+    "3": "Ministry of Commerce (MC)",
+    "4": "Ministry of Human Resources and Social Development (HRSD)",
+    "correct": "3",
+    "reason": "Obtaining a commercial register (CR) from the Ministry of Commerce (MC) is a prerequisite for getting an insurance business license from SAMA. "
+  },
+  {
+    "Question": "Article 14 of the KSA Cooperative Health Insurance Law deals with penalties for employers who do not subscribe to health insurance. Who is obligated to pay the fine?",
+    "1": "The government",
+    "2": "The insurance company",
+    "3": "The employer",
+    "4": "The employee",
+    "correct": "3",
+    "reason": "The employer shall be obligated to pay all due premiums, in addition to a fine not exceeding the amount of the annual subscription for each individual. "
+  },
+  {
+    "Question": "What is the minimum capital requirement for an insurance claim adjusting company?",
+    "1": "SAR 1 million",
+    "2": "SAR 5 million",
+    "3": "SAR 500,000",
+    "4": "SAR 3 million",
+    "correct": "4",
+    "reason": "The minimum capital is SAR 3 million."
+  },
+  {
+    "Question": "What are the three main historical objectives of insurance regulation?",
+    "1": "Encouraging high-risk investments, protecting company executives, and minimizing consumer protection.",
+    "2": "Maintaining financial solvency of insurers, ensuring fair dealing with policyholders, and making certain insurance types compulsory.",
+    "3": "Maximizing profits for shareholders, expanding market share, and reducing competition.",
+    "4": "Lowering insurance premiums, deregulating the market, and promoting foreign investment exclusively.",
+    "correct": "2",
+    "reason": "The main objectives have always been to maintain the financial solvency of insurance companies, ensure fair dealing towards policyholders, and make certain types of insurance compulsory for societal protection. "
+  },
+  {
+    "Question": "What is a key task of MISA in the insurance field?",
+    "1": "To conduct the final approval of insurance policy wording.",
+    "2": "To set the pricing for all insurance products sold to foreign investors.",
+    "3": "To protect the rights of policyholders and beneficiaries (for investors).",
+    "4": "To directly manage the reinsurance needs of companies with foreign investment.",
+    "correct": "3",
+    "reason": "One of MISA's key tasks in insurance fields is protecting the rights of policyholders and beneficiaries (for investors). "
+  },
+  {
+    "Question": "Which body is responsible for resolving commercial and industrial disputes by arbitration?",
+    "1": "CCHHI",
+    "2": "Chambers of Commerce and Industry",
+    "3": "SAMA",
+    "4": "CMA",
+    "correct": "2",
+    "reason": "The Chambers can resolve disputes by arbitration."
+  },
+  {
+    "Question": "What is a key competence of the Chambers of Commerce and Industry?",
+    "1": "Enforcing the Labor Law for private sector employees.",
+    "2": "Issuing licenses for insurance companies to operate.",
+    "3": "Resolving commercial disputes by arbitration if the parties agree.",
+    "4": "Setting the capital requirements for insurance brokers.",
+    "correct": "3",
+    "reason": "Chambers of Commerce and Industry are responsible for resolving commercial and industrial disputes by arbitration if parties to the dispute agree to refer the case to them. "
+  },
+  {
+    "Question": "Which of the following is a key function of the Saudi Central Bank (SAMA) in the insurance sector?",
+    "1": "Managing government budgets",
+    "2": "Regulating the stock market",
+    "3": "Licensing insurance companies",
+    "4": "Issuing currency",
+    "correct": "3",
+    "reason": "SAMA licenses insurance companies."
+  },
+  {
+    "Question": "The founding shareholders of the National Cooperative Insurance Company (Tawuniya) included which of the following?",
+    "1": "A consortium of foreign insurance companies",
+    "2": "A group of private Saudi citizens",
+    "3": "The Public Investment Fund, the Pension Fund, and the General Organization for Social Insurance",
+    "4": "The Ministry of Commerce and the Ministry of Finance",
+    "correct": "3",
+    "reason": "The founding shareholders were the Public Investment Fund, the Pension Fund, and the General Organization for Social Insurance. "
+  },
+  {
+    "Question": "What is one advantage of insurance companies in KSA mentioned in the document?",
+    "1": "They are all privately owned",
+    "2": "They can operate without a minimum capital requirement",
+    "3": "They are all licensed by SAMA",
+    "4": "They do not need to comply with any regulations",
+    "correct": "3",
+    "reason": "All insurance companies are licensed by SAMA."
+  },
+  {
+    "Question": "An insurance agent can be assigned for...?",
+    "1": "Only reinsurance companies.",
+    "2": "Multiple competing insurance companies.",
+    "3": "Any number of insurance companies without restriction.",
+    "4": "Only one insurance company/product.",
+    "correct": "4",
+    "reason": "An agent can be assigned for one insurance company/product. "
+  },
+  {
+    "Question": "What is the minimum capital for an insurance claim adjusting company?",
+    "1": "SAR 500,000",
+    "2": "SAR 1 million",
+    "3": "SAR 150,000",
+    "4": "SAR 3 million",
+    "correct": "4",
+    "reason": "The minimum capital of an insurance claim adjusting company is SAR 3 million. "
+  },
+  {
+    "Question": "Which ministry is responsible for issuing Commercial Registers (CR) for insurance companies?",
+    "1": "Ministry of Human Resources and Social Development (HRSD)",
+    "2": "Ministry of Investment (MISA)",
+    "3": "Ministry of Health",
+    "4": "Ministry of Commerce (MC)",
+    "correct": "4",
+    "reason": "MC issues Commercial Registers for companies, including insurance firms."
+  },
+  {
+    "Question": "In insurance, what does 'solvency' refer to?",
+    "1": "The investment returns of the company",
+    "2": "The number of policies sold",
+    "3": "The profitability of the insurance company",
+    "4": "The ability to pay claims when due",
+    "correct": "4",
+    "reason": "Solvency is the ability to meet financial obligations."
+  },
+  {
+    "Question": "According to CCHI regulations, within how many minutes must an insurance company grant approvals for treatment to service providers?",
+    "1": "120 minutes",
+    "2": "30 minutes",
+    "3": "60 minutes",
+    "4": "90 minutes",
+    "correct": "3",
+    "reason": "The insurance company must quickly grant approvals to provide treatment to beneficiaries to service providers within (60) minutes. "
+  },
+  {
+    "Question": "How is an 'insurance agent' defined in the text?",
+    "1": "An employee of SAMA who supervises insurance companies.",
+    "2": "A consultant who analyzes risks for a fee.",
+    "3": "A legal person representing an insurance company to market and sell its policies.",
+    "4": "An independent entity that works for the policyholder.",
+    "correct": "3",
+    "reason": "An insurance agent is defined as the legal person who, for a fee, represents an insurance company, markets and sells insurance policies, and does all the work it usually carries out for or on behalf of the insurance company. "
+  },
+  {
+    "Question": "What is the role of reinsurance in the insurance industry?",
+    "1": "To sell insurance policies directly to consumers",
+    "2": "To provide insurance to individuals",
+    "3": "To regulate insurance companies",
+    "4": "To spread risk among multiple insurers",
+    "correct": "4",
+    "reason": "Reinsurance spreads risk among insurers."
+  },
+  {
+    "Question": "What is the deadline for a company to publish its quarterly financial statements according to CMA regulations?",
+    "1": "20 working days",
+    "2": "10 working days",
+    "3": "30 working days",
+    "4": "15 working days",
+    "correct": "4",
+    "reason": "A company must announce its quarterly financial statements as soon as they are approved within a period not exceeding fifteen working days from the end of the financial period. "
+  },
+  {
+    "Question": "What dual structure did Tawuniya's Articles of Association require it to manage?",
+    "1": "An account for Saudi citizens and an account for foreign residents.",
+    "2": "An account for life insurance and an account for general insurance.",
+    "3": "An account for its policyholders and an account for its stockholders.",
+    "4": "An account for government contracts and an account for private contracts.",
+    "correct": "3",
+    "reason": "In accordance with Tawuniya's AoA, the company had to manage two separate main accounts, the first for its policyholders, and the second for its stockholders. "
+  },
+  {
+    "Question": "What type of organization is the Chamber of Commerce and Industry?",
+    "1": "A governmental regulatory body.",
+    "2": "A judicial body for resolving commercial disputes.",
+    "3": "A non-governmental agency that supports the private sector.",
+    "4": "A state-owned enterprise.",
+    "correct": "3",
+    "reason": "The Chamber of Commerce and Industry is one of the non-governmental agencies that regulate support, supervision and follow-up of the private sector, including insurance companies. "
+  },
+  {
+    "Question": "Which licensed insurance profession specifically requires that its fees are collected from the entity to which the advice is provided?",
+    "1": "Insurance Consultant",
+    "2": "Insurance Claims Adjuster",
+    "3": "Insurance Agent",
+    "4": "Insurance Broker",
+    "correct": "1",
+    "reason": "An insurance consultant is defined as the person who provides consulting services in insurance business, so that its fees are collected from the entity to which the advice is provided. "
+  },
+  {
+    "Question": "Under what system must all licensed insurance companies in KSA operate?",
+    "1": "Cooperative insurance system",
+    "2": "Commercial insurance system",
+    "3": "Takaful-only system",
+    "4": "Mutual insurance system",
+    "correct": "1",
+    "reason": "All licensed insurance companies in KSA must operate under the cooperative system. "
+  },
+  {
+    "Question": "What is one of the main objectives of insurance regulation?",
+    "1": "To maintain the financial solvency of insurance companies",
+    "2": "To increase competition among insurance brokers",
+    "3": "To maximize profits for insurance companies",
+    "4": "To limit the number of insurance policies sold",
+    "correct": "1",
+    "reason": "The document states that a primary objective is to maintain the financial solvency of insurance companies and their ability to meet obligations."
+  },
+  {
+    "Question": "What is the primary purpose of insurance regulation?",
+    "1": "To increase government revenue",
+    "2": "To limit competition in the insurance market",
+    "3": "To protect policyholders and ensure market stability",
+    "4": "To maximize insurance company profits",
+    "correct": "3",
+    "reason": "Regulation protects policyholders and ensures market stability."
+  },
+  {
+    "Question": "Which of the following is a task of the General Secretariat of CCHHI?",
+    "1": "Licensing insurance companies",
+    "2": "Managing foreign investments",
+    "3": "Accrediting healthcare providers",
+    "4": "Regulating the stock market",
+    "correct": "3",
+    "reason": "The General Secretariat accredits healthcare providers."
+  },
+  {
+    "Question": "According to the text, a new Companies Law was issued in what year?",
+    "1": "2003 AD",
+    "2": "1985 AD",
+    "3": "2000 AD",
+    "4": "2015 AD",
+    "correct": "4",
+    "reason": "A new Companies Law was issued in 1437 AH / 2015 AD. "
+  },
+  {
+    "Question": "What is the minimum capital requirement for an insurance agency company?",
+    "1": "SAR 100,000",
+    "2": "SAR 1 million",
+    "3": "SAR 500,000",
+    "4": "SAR 3 million",
+    "correct": "3",
+    "reason": "The minimum capital is SAR 500,000."
+  },
+  {
+    "Question": "What is the time frame for insurance companies to grant approvals for treatment to beneficiaries?",
+    "1": "2 hours",
+    "2": "60 minutes",
+    "3": "24 hours",
+    "4": "30 minutes",
+    "correct": "2",
+    "reason": "Approvals must be granted within 60 minutes."
+  },
+  {
+    "Question": "What is the role of an insurance claim adjuster?",
+    "1": "To manage, review, and settle insurance claims on behalf of an insurance company",
+    "2": "To provide actuarial services",
+    "3": "To negotiate with reinsurers",
+    "4": "To sell insurance policies",
+    "correct": "1",
+    "reason": "The document defines them as managing and settling claims."
+  },
+  {
+    "Question": "What is the purpose of the Implementing Regulations of the Cooperative Insurance Companies Control Law?",
+    "1": "To set the premiums for insurance policies",
+    "2": "To provide detailed guidelines for the application of the law",
+    "3": "To list all licensed insurance companies",
+    "4": "To regulate the stock market",
+    "correct": "2",
+    "reason": "The Implementing Regulations provide detailed guidelines."
+  },
+  {
+    "Question": "Which law requires insurance companies to be public joint stock companies?",
+    "1": "Labor Law",
+    "2": "Cooperative Insurance Companies Control Law",
+    "3": "Companies Law",
+    "4": "Capital Market Law",
+    "correct": "2",
+    "reason": "The Law mandates public joint stock status."
+  },
+  {
+    "Question": "What must health insurance companies provide to beneficiaries at the start of their coverage?",
+    "1": "Explanatory brochures including the policy, scope of coverage, and provider network.",
+    "2": "A discount voucher for future renewals.",
+    "3": "The company's latest financial statements.",
+    "4": "A list of all other policyholders.",
+    "correct": "1",
+    "reason": "Companies must provide beneficiaries at the start of insurance coverage with explanatory brochures that include the policy, scope and limits of coverage, as well as the network of approved service providers. "
+  },
+  {
+    "Question": "What is the minimum capital required to license an insurance brokerage company in KSA?",
+    "1": "SAR 500,000",
+    "2": "SAR 1 million",
+    "3": "SAR 150,000",
+    "4": "SAR 3 million",
+    "correct": "4",
+    "reason": "The minimum capital required to license an insurance broker is SAR 3 million. "
+  },
+  {
+    "Question": "What is one of the requirements for submitting a license application for an insurance company to SAMA?",
+    "1": "An economic feasibility study",
+    "2": "A marketing plan for the next 10 years",
+    "3": "A list of all employees",
+    "4": "A list of all insurance policies to be offered",
+    "correct": "1",
+    "reason": "An economic feasibility study is a listed requirement."
+  },
+  {
+    "Question": "Which of the following is NOT a typical objective of insurance regulation?",
+    "1": "Promoting fair competition",
+    "2": "Ensuring solvency of insurers",
+    "3": "Maximizing insurance premiums",
+    "4": "Protecting consumer rights",
+    "correct": "3",
+    "reason": "Maximizing premiums is not an objective; fair pricing is."
+  },
+  {
+    "Question": "Which of the following is NOT a responsibility of health insurance companies as per the document?",
+    "1": "Providing insurance coverage to policyholders",
+    "2": "Uploading policyholder names to the national network",
+    "3": "Issuing insurance cards within 5 working days",
+    "4": "Providing free healthcare to all citizens",
+    "correct": "4",
+    "reason": "Free healthcare is not their responsibility."
+  },
+  {
+    "Question": "Which entity is responsible for informing traders and manufacturers about new investment opportunities in commercial and industrial fields, in coordination with competent authorities?",
+    "1": "Chamber of Commerce and Industry",
+    "2": "SAMA",
+    "3": "CMA",
+    "4": "MISA",
+    "correct": "1",
+    "reason": "The Chamber of Commerce and Industry is responsible for informing traders and manufacturers of new investment opportunities in commercial and industrial fields through coordination with the competent authorities. "
+  },
+  {
+    "Question": "SAMA's role in supervising insurance companies includes determining the educational requirements for which group?",
+    "1": "Only senior executives of insurance companies.",
+    "2": "Only actuaries and loss adjusters.",
+    "3": "Only the employees working in the SAMA Insurance Supervision Department.",
+    "4": "Employees of insurance companies, brokers, and agents.",
+    "correct": "4",
+    "reason": "SAMA's role includes indicating educational requirements and qualifications for employees of insurance companies, brokers and agents. "
+  },
+  {
+    "Question": "What is one of the stated powers of the Insurance Supervision Department at SAMA?",
+    "1": "Managing the investment portfolios of insurance companies.",
+    "2": "Setting premium prices for all insurance products.",
+    "3": "Promoting market transparency by obligating companies to publish reliable data.",
+    "4": "Hiring executives for insurance companies.",
+    "correct": "3",
+    "reason": "One of the powers of the Department is to promote market transparency by obligating insurance companies to publish reliable and audited data to the public. "
+  },
+  {
+    "Question": "What is the minimum capital required for an insurance claim adjusting company?",
+    "1": "SAR 500,000",
+    "2": "SAR 1 million",
+    "3": "SAR 3 million",
+    "4": "SAR 5 million",
+    "correct": "3",
+    "reason": "The minimum capital is SAR 3 million."
+  },
+  {
+    "Question": "Which of these entities is explicitly mentioned as having a role that intersects with the insurance sector?",
+    "1": "Civil Defense",
+    "2": "Ministry of Tourism",
+    "3": "Ministry of Sports",
+    "4": "Ministry of Education",
+    "correct": "1",
+    "reason": "The text mentions other bodies with related roles, including... Civil Defense. "
+  },
+  {
+    "Question": "Which of the following is NOT a task of the CMA?",
+    "1": "Protecting investors",
+    "2": "Regulating and developing the financial market",
+    "3": "Licensing insurance companies",
+    "4": "Monitoring securities transactions",
+    "correct": "3",
+    "reason": "Licensing is SAMA\u00e2\u20ac\u2122s responsibility, not CMA\u00e2\u20ac\u2122s."
+  },
+  {
+    "Question": "Prior to the Cooperative Insurance Companies Control Law of 2003, approximately how many insurance companies were operating in KSA?",
+    "1": "Exactly 50",
+    "2": "More than 75",
+    "3": "Around 25",
+    "4": "Less than 10",
+    "correct": "2",
+    "reason": "Prior to the issuance of the Law, there were more than 75 insurance companies operating in KSA. "
+  },
+  {
+    "Question": "What is one of the powers of the Insurance Supervision Department at SAMA?",
+    "1": "Managing government investments",
+    "2": "Issuing currency",
+    "3": "Promoting market transparency",
+    "4": "Regulating banks",
+    "correct": "3",
+    "reason": "Promoting market transparency is a listed power."
+  },
+  {
+    "Question": "What is the minimum capital required for surveyors and loss adjusters?",
+    "1": "SAR 3 million",
+    "2": "SAR 500,000",
+    "3": "SAR 1 million",
+    "4": "SAR 100,000",
+    "correct": "2",
+    "reason": "The minimum capital is SAR 500,000."
+  },
+  {
+    "Question": "What is the minimum capital requirement for insurance companies in KSA?",
+    "1": "SAR 200 million",
+    "2": "SAR 100 million",
+    "3": "SAR 500 million",
+    "4": "SAR 50 million",
+    "correct": "2",
+    "reason": "The minimum permissible capital is SAR 100 million."
+  },
+  {
+    "Question": "What is the purpose of an actuary in an insurance company?",
+    "1": "To assess risk and calculate premiums",
+    "2": "To sell insurance policies",
+    "3": "To adjust insurance claims",
+    "4": "To manage investments",
+    "correct": "1",
+    "reason": "Actuaries assess risk and calculate premiums."
+  },
+  {
+    "Question": "When was the National Cooperative Insurance Company (now Tawuniya) established?",
+    "1": "1999 AD",
+    "2": "2003 AD",
+    "3": "1985 AD",
+    "4": "1957 AD",
+    "correct": "3",
+    "reason": "The National Cooperative Insurance Company was established in 1405 AH (1985 AD) by Royal Decree. "
+  },
+  {
+    "Question": "The CCHI's General Secretariat is responsible for the continuous technical and medical follow-up for all those concerned with the law to achieve what goal?",
+    "1": "Reduce the number of claims submitted.",
+    "2": "Foster protection of policyholders' rights.",
+    "3": "Maximize profits for healthcare providers.",
+    "4": "Ensure insurance companies have high-profit margins.",
+    "correct": "2",
+    "reason": "Its tasks are to... direct supervision of health insurance, including continuous technical and medical follow-up for all those concerned with the Law as well as to foster protection of policyholders' rights. "
+  },
+  {
+    "Question": "What is a primary role of MISA in relation to the global business community?",
+    "1": "To restrict foreign access to the Saudi market.",
+    "2": "To enforce Saudi labor laws on foreign companies.",
+    "3": "To collect taxes from foreign investors.",
+    "4": "To act as a mediator between the global business community and the Saudi government.",
+    "correct": "4",
+    "reason": "MISA serves as a mediator between the global business community and the Saudi government, its ministries and departments. "
+  },
+  {
+    "Question": "As of January 1, 2020, what identification can be used to receive healthcare services, replacing the need for a physical health insurance card?",
+    "1": "Driver's license and national ID",
+    "2": "Passport and Iqama",
+    "3": "A digital copy of the insurance card on a smartphone",
+    "4": "The citizen's personal ID and the resident's permit (Iqama)",
+    "correct": "4",
+    "reason": "CCHI issued a decision that the citizen's personal ID and the resident's permit are sufficient as basic IDs for policyholders, eliminating the need to present the health insurance card. "
+  },
+  {
+    "Question": "What does Article 3 of the Cooperative Health Insurance Law state regarding residence permits (Iqama)?",
+    "1": "A residence permit can be issued for up to 5 years without insurance.",
+    "2": "A residence permit may not be granted or renewed except after obtaining a cooperative health insurance policy.",
+    "3": "Only the primary foreign worker needs health insurance, not their dependents.",
+    "4": "Health insurance is recommended but not mandatory for renewing a residence permit.",
+    "correct": "2",
+    "reason": "Article 3 indicated that 'A residence permit may not be granted or renewed except after obtaining the cooperative health insurance policy, provided that said policy covers the duration of the residence permit'. "
+  },
+  {
+    "Question": "How many cooperative insurance companies are licensed in KSA as of the document's date?",
+    "1": "35",
+    "2": "10",
+    "3": "28",
+    "4": "20",
+    "correct": "3",
+    "reason": "The document lists 28 licensed cooperative insurance companies."
+  },
+  {
+    "Question": "How many actuarial service companies are listed as licensed in the document?",
+    "1": "2",
+    "2": "15",
+    "3": "5",
+    "4": "10",
+    "correct": "3",
+    "reason": "The document lists 5 licensed actuarial service companies."
+  },
+  {
+    "Question": "What is the purpose of the bank guarantee required when applying for an insurance company license?",
+    "1": "To cover potential claims",
+    "2": "To ensure the company has sufficient capital",
+    "3": "To pay for employee salaries",
+    "4": "To fund marketing campaigns",
+    "correct": "2",
+    "reason": "The guarantee ensures sufficient capital."
+  },
+  {
+    "Question": "What major international organization's accession agreement prompted Saudi Arabia to open its insurance market to foreign investment?",
+    "1": "The World Trade Organization (WTO)",
+    "2": "The Organisation for Economic Co-operation and Development (OECD)",
+    "3": "The International Monetary Fund (IMF)",
+    "4": "The United Nations (UN)",
+    "correct": "1",
+    "reason": "The second main motive for regulating insurance in KSA was its insistence on joining the World Trade Organization, as the accession agreement required opening the insurance market to foreign investment. "
+  },
+  {
+    "Question": "According to CMA regulations, within how many working days must a company publish its annual financial statements after the end of the financial period?",
+    "1": "60 working days",
+    "2": "15 working days",
+    "3": "30 working days",
+    "4": "40 working days",
+    "correct": "4",
+    "reason": "A company must announce its annual financial statements as soon as they are approved within a period not exceeding forty working days from the end of the annual financial period. "
+  },
+  {
+    "Question": "How many cooperative reinsurance companies are mentioned as being licensed in the material?",
+    "1": "Two",
+    "2": "Three",
+    "3": "One",
+    "4": "Five",
+    "correct": "3",
+    "reason": "There is only one company engaged in cooperative reinsurance business mentioned, which is the Saudi Reinsurance Company (Saudi Re). "
+  },
+  {
+    "Question": "What is the purpose of the irrevocable bank guarantee in the licensing process?",
+    "1": "To cover potential claims",
+    "2": "To fund advertising campaigns",
+    "3": "To pay for employee training",
+    "4": "To ensure the company has sufficient capital",
+    "correct": "4",
+    "reason": "The guarantee ensures sufficient capital."
+  },
+  {
+    "Question": "How is an 'insurance consultant' defined in the text?",
+    "1": "A person who provides consulting services in insurance business, with fees collected from the entity receiving the advice.",
+    "2": "A person who works for SAMA to regulate the industry.",
+    "3": "A person who settles claims after a loss.",
+    "4": "A person who represents one specific insurance company.",
+    "correct": "1",
+    "reason": "An insurance consultant is defined as the person who provides consulting services in insurance business, so that its fees are collected from the entity to which the advice is provided. "
+  },
+  {
+    "Question": "Which body is responsible for protecting the rights of policyholders and shareholders?",
+    "1": "CCHHI",
+    "2": "CMA",
+    "3": "MISA",
+    "4": "SAMA",
+    "correct": "4",
+    "reason": "SAMA\u00e2\u20ac\u2122s Insurance Supervision Department protects these rights."
+  },
+  {
+    "Question": "Which ministry is responsible for managing the investment environment for foreign investors in KSA?",
+    "1": "Ministry of Investment (MISA)",
+    "2": "Ministry of Finance",
+    "3": "Ministry of Commerce",
+    "4": "Ministry of Economy and Planning",
+    "correct": "1",
+    "reason": "MISA manages the investment environment."
+  },
+  {
+    "Question": "What is the minimum capital requirement for an insurance consultant company in KSA?",
+    "1": "SAR 3 million",
+    "2": "SAR 150,000",
+    "3": "SAR 1 million",
+    "4": "SAR 500,000",
+    "correct": "2",
+    "reason": "The minimum capital of an insurance consultant company is SAR 150,000. "
+  },
+  {
+    "Question": "What is the maximum time allowed for insurance companies to grant treatment approvals?",
+    "1": "24 hours",
+    "2": "30 minutes",
+    "3": "2 hours",
+    "4": "60 minutes",
+    "correct": "4",
+    "reason": "The document specifies 60 minutes."
+  },
+  {
+    "Question": "What was the first piece of Saudi legislation for governmental supervision of insurance?",
+    "1": "The Capital Market Law.",
+    "2": "The Cooperative Insurance Companies Control Law.",
+    "3": "The establishment of the National Cooperative Insurance Company.",
+    "4": "The Cooperative Health Insurance Law.",
+    "correct": "2",
+    "reason": "The Cooperative Insurance Companies Control Law, issued by Royal Decree No. M/32 on August 01, 2003, is the first Saudi legislation for government supervision of insurance. "
+  },
+  {
+    "Question": "What is the minimum capital required for an insurance agency company?",
+    "1": "SAR 100,000",
+    "2": "SAR 1 million",
+    "3": "SAR 500,000",
+    "4": "SAR 3 million",
+    "correct": "3",
+    "reason": "The minimum required capital for an insurance agency is SAR 500,000."
+  },
+  {
+    "Question": "Which of the following is a requirement for insurance companies under the Cooperative Insurance Companies Control Law?",
+    "1": "To be privately owned",
+    "2": "To operate only in KSA",
+    "3": "To have a minimum capital of SAR 50 million",
+    "4": "To be public joint stock companies",
+    "correct": "4",
+    "reason": "The law requires public joint stock status."
+  },
+  {
+    "Question": "How do insurance companies manage the risk they take on from policyholders?",
+    "1": "By distributing the risk among a large pool of policyholders and using capital reserves.",
+    "2": "By transferring all risk to the government.",
+    "3": "By refusing to pay out large claims.",
+    "4": "By investing in high-risk assets.",
+    "correct": "1",
+    "reason": "The insurance company, in turn, distributes the risk attributed thereto to the large pool of its policyholders, using capital reserves, so as to bear any compensatory costs. "
+  },
+  {
+    "Question": "What is the purpose of the Capital Market Authority (CMA) in KSA?",
+    "1": "To provide health insurance",
+    "2": "To manage foreign investments",
+    "3": "To license insurance companies",
+    "4": "To regulate and develop the financial market",
+    "correct": "4",
+    "reason": "CMA regulates and develops the financial market."
+  },
+  {
+    "Question": "What is the consequence for employers who fail to provide cooperative health insurance to their workers?",
+    "1": "No consequences",
+    "2": "Immediate closure of the business",
+    "3": "A fine and possible denial of recruiting expatriate workers",
+    "4": "A prison sentence",
+    "correct": "3",
+    "reason": "Article 14 mentions a fine and possible recruitment denial."
+  },
+  {
+    "Question": "What is the role of an insurance agent as defined in the document?",
+    "1": "To represent an insurance company, market and sell insurance policies",
+    "2": "To provide actuarial services",
+    "3": "To assess and adjust insurance claims",
+    "4": "To negotiate with insurance companies on behalf of policyholders",
+    "correct": "1",
+    "reason": "An insurance agent represents an insurance company and markets policies."
+  },
+  {
+    "Question": "One of the CMA's powers is to protect investors from unfair practices. Which of the following is NOT listed as an unfair practice?",
+    "1": "Market fluctuation due to supply and demand",
+    "2": "Manipulation or scamming",
+    "3": "Fraud",
+    "4": "Insider trading",
+    "correct": "1",
+    "reason": "The CMA protects investors from unfair and improper practices like fraud, deception, scamming, manipulation, or insider trading. Market rise and fall based on supply and demand is a normal market function, not an illegitimate practice. "
+  },
+  {
+    "Question": "What is the definition of an insurance broker according to the document?",
+    "1": "A person who sells insurance policies directly to customers",
+    "2": "A government official who regulates insurance companies",
+    "3": "A legal person who negotiates with insurance companies for the benefit of policyholders",
+    "4": "An employee of an insurance company",
+    "correct": "3",
+    "reason": "The document defines an insurance broker as a negotiator for policyholders."
+  },
+  {
+    "Question": "Which of the following is NOT a requirement for health insurance companies as per CCHHI?",
+    "1": "Granting treatment approvals within 60 minutes",
+    "2": "Uploading names of policyholders to the national network within 48 hours",
+    "3": "Issuing insurance cards within 5 working days",
+    "4": "Providing free healthcare to all citizens",
+    "correct": "4",
+    "reason": "Free healthcare is not an insurance company responsibility."
+  },
+  {
+    "Question": "Who is responsible for determining the capital requirements and financial solvency for each type of insurance activity?",
+    "1": "The Ministry of Finance",
+    "2": "The Capital Market Authority (CMA)",
+    "3": "The insurance companies themselves",
+    "4": "The Saudi Central Bank (SAMA)",
+    "correct": "4",
+    "reason": "SAMA's functions include determining capital requirements and financial solvency of each type of insurance activity that companies request to practice. "
+  },
+  {
+    "Question": "What is one of the competencies of the Chambers of Commerce and Industry related to insurance?",
+    "1": "Providing data and information on commercial and industrial matters",
+    "2": "Licensing insurance brokers",
+    "3": "Issuing insurance policies",
+    "4": "Regulating reinsurance companies",
+    "correct": "1",
+    "reason": "The Chambers provide data and information, as per the document."
+  },
+  {
+    "Question": "What is the minimum capital required for an insurance brokerage company?",
+    "1": "SAR 5 million",
+    "2": "SAR 500,000",
+    "3": "SAR 1 million",
+    "4": "SAR 3 million",
+    "correct": "4",
+    "reason": "The minimum capital for an insurance broker is SAR 3 million."
+  },
+  {
+    "Question": "What is the role of the Ministry of Investment (MISA) in the insurance sector?",
+    "1": "Licensing insurance companies",
+    "2": "Issuing Commercial Registers",
+    "3": "Regulating health insurance",
+    "4": "Managing investment environment for foreign investors",
+    "correct": "4",
+    "reason": "MISA manages the investment environment."
+  },
+  {
+    "Question": "What is a key feature of all licensed insurance companies regarding their shareholders?",
+    "1": "All shareholders must be institutional investors.",
+    "2": "They are all 100% Saudi-owned.",
+    "3": "They are all public joint-stock companies, with many Saudis as shareholders.",
+    "4": "They are privately held by a small group of founders.",
+    "correct": "3",
+    "reason": "All such companies are public joint-stock companies, and a large part of Saudis are shareholders therein. "
+  }
+]
