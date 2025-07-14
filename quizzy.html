@@ -108,111 +108,11 @@
 
 <!-- Bootstrap JS (optional for interactivity) -->
 
+<script src="js/quiz.js"></script>
 <script>
-    // Read query parameters
-    const params = new URLSearchParams(window.location.search);
-    const url = params.get('url');
-
-    let score = 0;
-    let answered = 0;
-
-    if (url) {
-      fetch(url)
-        .then(response => {
-          if (!response.ok) throw new Error("Network response was not ok");
-          return response.json();
-        })
-        .then(questions => renderQuiz(questions))
-        .catch(err => {
-          console.error("Error fetching or parsing JSON:", err);
-          document.getElementById('ErrorBox').textContent = 'Error fetching data.';
-        });
-    } else {
-      document.getElementById('ErrorBox').textContent = 'Missing JSON URL parameter.';
-    }
-
-    function renderQuiz(questions) {
-        const quizContainer = document.getElementById('quiz-questions');
-
-        questions.forEach((q, index) => {
-            const card = document.createElement('div');
-            card.className = 'card p-4';
-
-            const questionTitle = document.createElement('h5');
-            questionTitle.textContent = `${index + 1}. ${q.Question}`;
-            card.appendChild(questionTitle);
-
-            const optionsGroup = document.createElement('div');
-            optionsGroup.className = 'mt-3';
-
-            for (let i = 1; i <= 4; i++) {
-                const optionId = `q${index}_opt${i}`;
-                const wrapper = document.createElement('div');
-                wrapper.className = 'form-check';
-
-                const input = document.createElement('input');
-                input.className = 'form-check-input';
-                input.type = 'radio';
-                input.name = `question${index}`;
-                input.id = optionId;
-                input.value = i;
-                input.onclick = () => handleAnswer(input, q, index);
-
-                const label = document.createElement('label');
-                label.className = 'form-check-label option-label';
-                label.htmlFor = optionId;
-                label.textContent = q[i];
-
-                wrapper.appendChild(input);
-                wrapper.appendChild(label);
-                optionsGroup.appendChild(wrapper);
-            }
-
-            const feedback = document.createElement('div');
-            feedback.className = 'feedback text-muted';
-            feedback.id = `feedback${index}`;
-
-            card.appendChild(optionsGroup);
-            card.appendChild(feedback);
-            quizContainer.appendChild(card);
-        });
-    }
-
-    function handleAnswer(input, question, index) {
-        const selected = input.value;
-        const feedback = document.getElementById(`feedback${index}`);
-        const options = document.getElementsByName(`question${index}`);
-
-        options.forEach(opt => opt.disabled = true); // Disable all options
-
-        const labels = Array.from(document.querySelectorAll(`input[name="question${index}"]`)).map(input => {
-            return document.querySelector(`label[for="${input.id}"]`);
-        });
-
-        if (selected === question.correct) {
-            input.nextElementSibling.classList.add('correct');
-            score++;
-            document.getElementById('score').textContent = score;
-        } else {
-            input.nextElementSibling.classList.add('incorrect');
-            const correctInput = Array.from(options).find(opt => opt.value === question.correct);
-            if (correctInput) {
-                correctInput.nextElementSibling.classList.add('correct');
-            }
-        }
-        // Handle Percentage
-        answered++;
-        score_percent = (score / answered * 100.0).toFixed(2);
-        incorrect = answered - score;
-        document.getElementById('incorrect').textContent = incorrect;
-        document.getElementById('answered').textContent = answered;
-        document.getElementById('score_percent').textContent = score_percent;
-
-        feedback.textContent = "Correct Answer: " + question.correct + ",Explanation: " + question.reason;
-    };
-
+    show_quiz();
 </script>
-</div>
+
 <footer class="py-5 bg-dark">
     <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Your Website 2025</p>
