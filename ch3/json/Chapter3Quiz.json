@@ -1,0 +1,1766 @@
+[
+    {
+        "Question": "What must insurance policies be written in?",
+        "1": "English only",
+        "2": "Any language",
+        "3": "Arabic only",
+        "4": "Arabic, optionally English",
+        "correct": "4",
+        "reason": "Policies must be in Arabic and can be provided in English."
+    },
+    {
+        "Question": "What is the purpose of the geographical extension in motor insurance?",
+        "1": "Covers only Saudi Arabia",
+        "2": "Limits coverage to urban areas",
+        "3": "Excludes international travel",
+        "4": "Extends coverage to GCC countries and beyond",
+        "correct": "4",
+        "reason": "It extends coverage to GCC countries, Jordan, or Egypt."
+    },
+    {
+        "Question": "Which risk is covered by Hajj insurance?",
+        "1": "Flight upgrades",
+        "2": "Personal shopping",
+        "3": "Medical care due to illness",
+        "4": "Lost luggage only",
+        "correct": "3",
+        "reason": "Hajj insurance covers medical care due to accidents or illness during pilgrimage."
+    },
+    {
+        "Question": "What does pilot loss of license insurance compensate?",
+        "1": "Passenger injuries",
+        "2": "Loss of license due to medical issues",
+        "3": "Aircraft damage",
+        "4": "Flight delays",
+        "correct": "2",
+        "reason": "It compensates pilots for license loss due to medical unsuitability."
+    },
+    {
+        "Question": "What does 'comprehensive insurance for motor vehicles' cover in Section 1?",
+        "1": "Only civil liability to third parties",
+        "2": "Only theft of the vehicle",
+        "3": "Damage to the vehicle from accidents, fire, theft, and natural hazards",
+        "4": "Only mechanical failure",
+        "correct": "3",
+        "reason": "Section 1: Damage to the body of the vehicle as a result of a fortuitous accident... It also covers damage caused by collision, overturning, fire, theft, and natural hazards. "
+    },
+    {
+        "Question": "'Clinical Trials Insurance' provides coverage against liability arising from what?",
+        "1": "The cost of developing new drugs",
+        "2": "Unsuccessful research",
+        "3": "Harm sustained by patients participating in the trials",
+        "4": "Theft of medical equipment",
+        "correct": "3",
+        "reason": "Coverage against such treatments includes legal and financial compensation for any harm sustained by the patients participating in these trials. "
+    },
+    {
+        "Question": "Which of the following is a requirement for premium collection?",
+        "1": "Can be kept by agents",
+        "2": "Must be deposited in a premium account",
+        "3": "Can be used for loans",
+        "4": "No specific rules",
+        "correct": "2",
+        "reason": "Premiums must be deposited in an independent premium account."
+    },
+    {
+        "Question": "What does protection and savings insurance pay out?",
+        "1": "Amount including savings proceeds",
+        "2": "Excludes investment returns",
+        "3": "Only on disability",
+        "4": "Only on death",
+        "correct": "1",
+        "reason": "It pays an amount including savings proceeds on a future date."
+    },
+    {
+        "Question": "What must be included in the policy renewal notice?",
+        "1": "Only premium increase",
+        "2": "Renewal or expiry date notification",
+        "3": "Only cancellation terms",
+        "4": "No notice required",
+        "correct": "2",
+        "reason": "Companies must inform customers of renewal or expiry dates in advance."
+    },
+    {
+        "Question": "Which equipment is covered under contractor\u00e2\u20ac\u2122s equipment insurance?",
+        "1": "Household items",
+        "2": "Office furniture",
+        "3": "Construction machinery",
+        "4": "Personal vehicles",
+        "correct": "3",
+        "reason": "It covers construction machinery and equipment used at the workplace."
+    },
+    {
+        "Question": "If an insurer appoints a loss assessor, within how many working days must they notify the customer?",
+        "1": "7 working days",
+        "2": "1 working day",
+        "3": "5 working days",
+        "4": "3 working days",
+        "correct": "4",
+        "reason": "Appoint a loss assessor or a loss adjuster when necessary, and notify the customer of such an appointment within (3) working days. "
+    },
+    {
+        "Question": "What is the maximum co-payment an individual might pay for outpatient clinic services under the corporate medical insurance described?",
+        "1": "SAR 50",
+        "2": "No co-payment is required",
+        "3": "20% of the treatment cost up to a maximum of one hundred SR",
+        "4": "10% of the cost",
+        "correct": "3",
+        "reason": "An amount of %20 of the treatment cost in outpatient clinics up to a maximum of one hundred SR shall be paid. "
+    },
+    {
+        "Question": "What does energy insurance cover?",
+        "1": "Only employee injuries",
+        "2": "All risks including liability and debris removal",
+        "3": "Only equipment damage",
+        "4": "Only fire risks",
+        "correct": "2",
+        "reason": "It covers all risks like fire, explosion, liability, and debris removal."
+    },
+    {
+        "Question": "What is a key feature of the Personal Accident insurance policy?",
+        "1": "It provides coverage worldwide",
+        "2": "It is compulsory for all individuals",
+        "3": "It only covers accidents that happen at work",
+        "4": "It only covers death and not disability",
+        "correct": "1",
+        "reason": "It provides coverage throughout the insurance period worldwide. "
+    },
+    {
+        "Question": "Which of the following is a feature of health insurance for individuals?",
+        "1": "Covers only hospital stays",
+        "2": "Covers preventive measures",
+        "3": "Excludes vaccinations",
+        "4": "Excludes dental care",
+        "correct": "2",
+        "reason": "It covers preventive measures like vaccinations and maternal care."
+    },
+    {
+        "Question": "In addition to the policy number and insured's name, what information must be on the policy?",
+        "1": "The insurance company's profit margin",
+        "2": "Coverage period, description, limits, and deductible",
+        "3": "The agent's sales target",
+        "4": "A list of all other policyholders",
+        "correct": "2",
+        "reason": "Policy contents should include: Insured name... Coverage period... Coverage description and limits... Deductible. "
+    },
+    {
+        "Question": "Which type of International Travel insurance covers any number of trips during a year?",
+        "1": "Short-term insurance",
+        "2": "Single-trip insurance",
+        "3": "Annual travel insurance",
+        "4": "Backpacker insurance",
+        "correct": "3",
+        "reason": "Annual travel insurance covering any number of trips during the entire year. "
+    },
+    {
+        "Question": "Which of the following is NOT a benefit under the individual medical insurance program?",
+        "1": "Dental and vision treatment",
+        "2": "Cosmetic procedures unrelated to an accident",
+        "3": "Repatriation of a corpse to their home country",
+        "4": "Organ harvesting costs from donors",
+        "correct": "2",
+        "reason": "The document lists dental/vision, organ harvesting, and repatriation as covered benefits, but not elective cosmetic procedures. "
+    },
+    {
+        "Question": "In a comprehensive motor insurance policy for a financially leased vehicle, how is the sum insured determined in the first year?",
+        "1": "Based on the finance amount",
+        "2": "Based on the average market value of similar vehicles",
+        "3": "Based on the lessee's driving history",
+        "4": "Based on the retail price from a certified dealership, excluding finance amounts",
+        "correct": "4",
+        "reason": "The Sum Insured is determined in the first year following registration of the Motor Vehicle at the authorized authority based on the retail price offered by the certified dealership for the insured Motor Vehicle (excluding finance amounts or any other future services). "
+    },
+    {
+        "Question": "What is the minimum free look period for protection and savings insurance?",
+        "1": "30 days",
+        "2": "21 days",
+        "3": "7 days",
+        "4": "14 days",
+        "correct": "2",
+        "reason": "A minimum 21-day free look period is required for policy review."
+    },
+    {
+        "Question": "Which of the following is covered by Hajj insurance?",
+        "1": "Flight upgrades",
+        "2": "Medical checkups only",
+        "3": "Repatriation costs in case of death",
+        "4": "Lost personal items only",
+        "correct": "3",
+        "reason": "It covers repatriation costs if the pilgrim dies during Hajj."
+    },
+    {
+        "Question": "What does money insurance cover?",
+        "1": "Building fire",
+        "2": "Employee injuries",
+        "3": "Third-party liability",
+        "4": "Loss of remittances in transit",
+        "correct": "4",
+        "reason": "It covers loss of money, remittances, or checks in transit or at specified locations."
+    },
+    {
+        "Question": "Which of the following is a feature of marine insurance?",
+        "1": "Offers 'all risks' or named risks coverage",
+        "2": "Covers only sea transport",
+        "3": "Covers only air transport",
+        "4": "Excludes imports",
+        "correct": "1",
+        "reason": "It offers coverage for all risks or specific named risks."
+    },
+    {
+        "Question": "When an insurance broker has a financial relationship with an insurer (beyond regular commission), what must they do?",
+        "1": "Keep it confidential",
+        "2": "Disclose it to SAMA only",
+        "3": "Increase the premium to cover it",
+        "4": "Notify the customer",
+        "correct": "4",
+        "reason": "If a financial relationship exists between the broker and the insurer other than regular commission agreements... the customer shall be notified. "
+    },
+    {
+        "Question": "What is the main peril covered by 'Steam Boilers and Pressure Vessels' insurance?",
+        "1": "Rust and corrosion",
+        "2": "Loss or damage by explosion or collapse",
+        "3": "Fuel costs",
+        "4": "Routine maintenance costs",
+        "correct": "2",
+        "reason": "This insurance shall indemnify the insured for loss or damage to boilers and pressure vessels by explosion or collapse in the ordinary course of business. "
+    },
+    {
+        "Question": "What does the contractors all risk policy exclude?",
+        "1": "All risks",
+        "2": "Specifically excluded risks",
+        "3": "Only named risks",
+        "4": "Third-party liability",
+        "correct": "2",
+        "reason": "It covers all risks except those specifically excluded."
+    },
+    {
+        "Question": "Which of the following is covered by product liability insurance?",
+        "1": "Building fire",
+        "2": "Liability for defective products",
+        "3": "Natural disasters",
+        "4": "Employee theft",
+        "correct": "2",
+        "reason": "It covers liability for risks from defective tangible products."
+    },
+    {
+        "Question": "During the free look period, if a customer returns a Protection & Savings policy, what can the insurance company deduct from the refunded premium?",
+        "1": "Expenses incurred, like a medical examination, and a deduction for the period of coverage",
+        "2": "The commission paid to the agent",
+        "3": "The full first-year premium",
+        "4": "A penalty fee for cancellation",
+        "correct": "1",
+        "reason": "The premiums refunded... are subject to... Deduction of the expenses incurred by the insurance company, such as, the medical examination... and Deduction from the premium for the period of coverage. "
+    },
+    {
+        "Question": "Which peril is NOT covered by property insurance against fire and allied perils?",
+        "1": "Theft",
+        "2": "Explosion",
+        "3": "Flood",
+        "4": "Fire",
+        "correct": "1",
+        "reason": "Theft is not listed; it covers fire, explosion, and other named perils."
+    },
+    {
+        "Question": "Under the 'Data Protection' requirement, when can an authorized company disclose customer data to a third party?",
+        "1": "With prior permission from SAMA, or to auditors and actuaries",
+        "2": "Whenever a third party requests it",
+        "3": "Only with the customer's verbal permission",
+        "4": "For marketing purposes",
+        "correct": "1",
+        "reason": "Shall not be disclosed to any third party without prior permission of SAMA, except for auditors of the companies and actuaries. "
+    },
+    {
+        "Question": "Which of the following is covered by personal accident insurance?",
+        "1": "Only flight delays",
+        "2": "Temporary disability from accidents",
+        "3": "Only medical costs",
+        "4": "Property theft",
+        "correct": "2",
+        "reason": "It covers temporary or permanent disability due to accidents."
+    },
+    {
+        "Question": "What is a key requirement for information disclosed to customers by authorized companies?",
+        "1": "It should be brief and to the point",
+        "2": "It must be accurate, clear, in writing, and provided in a timely manner",
+        "3": "It should be verbal only",
+        "4": "It should focus only on the benefits and not the exclusions",
+        "correct": "2",
+        "reason": "Authorized companies shall notify customers of all relevant information in a timely manner... take reasonable procedures to ensure accuracy and clarity of the information provided... and making them available in writing. "
+    },
+    {
+        "Question": "Which of the following is a feature of protection insurance?",
+        "1": "Pays only on death",
+        "2": "Includes savings proceeds",
+        "3": "Covers only temporary disability",
+        "4": "Excludes beneficiaries",
+        "correct": "1",
+        "reason": "It pays beneficiaries upon the insured\u00e2\u20ac\u2122s death."
+    },
+    {
+        "Question": "'Product Liability Insurance' covers the legal liability of manufacturers for what?",
+        "1": "Bodily injury or property damage caused by a defective product",
+        "2": "Advertising expenses",
+        "3": "The cost of product recalls",
+        "4": "Poor product sales",
+        "correct": "1",
+        "reason": "This policy covers the liability for third party bodily injury/death and property damage... due to an error or defect in the product sold. "
+    },
+    {
+        "Question": "What is a feature of medical insurance for companies?",
+        "1": "No emergency coverage",
+        "2": "Annual maximum of 500,000 SR",
+        "3": "Excludes dental care",
+        "4": "Covers only in-hospital stays",
+        "correct": "2",
+        "reason": "It has an annual maximum of 500,000 SR, including various coverages."
+    },
+    {
+        "Question": "Which of the following is a requirement for policy wording?",
+        "1": "Small unreadable print",
+        "2": "Complex language",
+        "3": "Simple and clear text",
+        "4": "English only",
+        "correct": "3",
+        "reason": "Policy wording must use simple, clear, and readable text."
+    },
+    {
+        "Question": "What does aviation hull war insurance cover?",
+        "1": "Third-party liability only",
+        "2": "Routine maintenance",
+        "3": "Damage from war and hijacking",
+        "4": "Passenger injuries",
+        "correct": "3",
+        "reason": "It covers aircraft damage due to war, allied perils, and hijacking."
+    },
+    {
+        "Question": "What is the term of coverage for inherent defect insurance?",
+        "1": "15 years",
+        "2": "10 years",
+        "3": "20 years",
+        "4": "5 years",
+        "correct": "2",
+        "reason": "It covers hidden defects in buildings for a mandatory 10-year period."
+    },
+    {
+        "Question": "Which of the following is a feature of motor third-party liability insurance?",
+        "1": "Covers only vehicle damage",
+        "2": "Optional coverage",
+        "3": "Excludes physical damages",
+        "4": "Covers towing expenses",
+        "correct": "4",
+        "reason": "It covers towing and transport expenses for third parties."
+    },
+    {
+        "Question": "If a conflict of interest arises, what must an authorized company do?",
+        "1": "Terminate the relationship with the customer",
+        "2": "Ignore the conflict if it benefits the company",
+        "3": "Disclose it to the customer and not put its interest before the customer\u2019s",
+        "4": "Resolve the conflict in its own favor",
+        "correct": "3",
+        "reason": "When a conflict of interest arises, the authorized company must disclose it to the customer and must not put its interest before the customer\u2019s. "
+    },
+    {
+        "Question": "What must authorized companies do with customer data?",
+        "1": "Use for marketing only",
+        "2": "Share with competitors",
+        "3": "Disclose without permission",
+        "4": "Protect and keep secure",
+        "correct": "4",
+        "reason": "They must protect customer data, keeping it secure and updated."
+    },
+    {
+        "Question": "Which of the following risks is covered by 'Contractor's All Risk' (CAR) insurance?",
+        "1": "Faulty design by the architect",
+        "2": "Inflation in material costs",
+        "3": "Delays due to bad weather",
+        "4": "Risks subcontractors may be exposed to",
+        "correct": "4",
+        "reason": "providing comprehensive protection for contractors and entrepreneurs as well as subcontractors against all risks they may be exposed to, except what is specifically excluded. "
+    },
+    {
+        "Question": "In addition to risks similar to Hajj insurance, what specific risk has been added to Umrah insurance?",
+        "1": "Theft of personal items",
+        "2": "Lost luggage",
+        "3": "Risks of Covid-19 infection",
+        "4": "Damage to hotel property",
+        "correct": "3",
+        "reason": "The insurance against the risks of Covid-19 has been added. "
+    },
+    {
+        "Question": "Motor Insurance Third Party Liability is a compulsory insurance policy issued by whom?",
+        "1": "Individual insurance companies",
+        "2": "SAMA (Saudi Central Bank)",
+        "3": "The Council of Cooperative Health Insurance",
+        "4": "The Ministry of Interior",
+        "correct": "2",
+        "reason": "It is a compulsory insurance through a unified insurance policy issued by SAMA. "
+    },
+    {
+        "Question": "What must authorized companies do before concluding an insurance policy?",
+        "1": "Perform a credit check on the customer",
+        "2": "Ensure the customer has no other insurance policies",
+        "3": "Collect the full premium for the entire term",
+        "4": "Inform customers of their key obligations, like paying premiums and disclosing all material facts",
+        "correct": "4",
+        "reason": "Before the insurance policy is concluded, authorized companies must inform customers of their key obligations under the insurance policy to pay premiums in time and provide full and fair disclosure of all relevant information. "
+    },
+    {
+        "Question": "Under Domestic Labor Insurance, when does the insurance company cover the costs of replacing a worker?",
+        "1": "If the worker requests a higher salary",
+        "2": "If the employer is unsatisfied with the worker's performance",
+        "3": "If the employer wishes to hire a different nationality",
+        "4": "If the worker escapes, has a health issue preventing work, or refuses to work for personal reasons",
+        "correct": "4",
+        "reason": "The insurance company compensates the sponsor for the costs of replacing workers in the following cases: Personal reasons for domestic labor, Health issues for domestic labor, or Escape of Domestic Workers. "
+    },
+    {
+        "Question": "Medical insurance for individuals in Saudi Arabia covers preventive measures such as:",
+        "1": "Cosmetic surgery",
+        "2": "Nutritional supplements without medical need",
+        "3": "Vaccinations, and maternal and child care",
+        "4": "Experimental treatments",
+        "correct": "3",
+        "reason": "Preventive measures e.g. vaccinations including seasonal vaccinations, and maternal and child care are covered. "
+    },
+    {
+        "Question": "Which general requirement of the Insurance Market Code of Conduct Regulation states that authorized companies must act honestly, fairly, and transparently?",
+        "1": "Integrity",
+        "2": "Development",
+        "3": "Skill, Care, and Diligence",
+        "4": "Adequate Resources",
+        "correct": "1",
+        "reason": "Authorized companies shall act in an honest, fair, and transparent manner and fulfill all their obligations to the customers. "
+    },
+    {
+        "Question": "Under Saudi Labor Law, employers are liable to compensate employees for what?",
+        "1": "Transportation costs to work",
+        "2": "Low job satisfaction",
+        "3": "Death, injury, or illness due to work accidents",
+        "4": "Career development training",
+        "correct": "2",
+        "reason": "Under the Saudi Labor Law, every employer is liable to pay compensation to his employees upon death, injury, illness or disability due to work accidents. "
+    },
+    {
+        "Question": "For Protection and Savings contracts, what information must the annual statement to customers include?",
+        "1": "The personal contact information of the fund manager",
+        "2": "The current sum insured and the total premiums paid in the previous year",
+        "3": "The performance of competitor funds",
+        "4": "The total commissions paid by the company",
+        "correct": "2",
+        "reason": "The annual statement... which include... B. Current sum insured on main and supplementary benefits. C. Total premiums paid in the previous year. "
+    },
+    {
+        "Question": "Medical Malpractice insurance is mandatory for which group of professionals to obtain a license in KSA?",
+        "1": "Doctors",
+        "2": "Teachers",
+        "3": "Lawyers",
+        "4": "Engineers",
+        "correct": "1",
+        "reason": "This cover is a mandatory cover for doctors as a condition for obtaining a license from the Health Affairs Authority in the Kingdom of Saudi Arabia. "
+    },
+    {
+        "Question": "'Event cancellation insurance' covers financial losses for what reason?",
+        "1": "Low ticket sales",
+        "2": "A change in the personal preference of the organizer",
+        "3": "Poor reviews of the event",
+        "4": "Reasons outside the control of the organizer, such as weather conditions",
+        "correct": "4",
+        "reason": "The insurance company covers the financial loss resulting from the cancellation of a certain event... for reasons outside the control of the organizer, such as weather conditions. "
+    },
+    {
+        "Question": "Which of the following is covered by burglary and theft insurance?",
+        "1": "Natural disasters",
+        "2": "Fire damage",
+        "3": "Third-party liability",
+        "4": "Theft with violence",
+        "correct": "4",
+        "reason": "It covers losses from theft or burglary involving violence and force."
+    },
+    {
+        "Question": "What does international travel insurance primarily provide?",
+        "1": "Only trip cancellation",
+        "2": "Only medical coverage",
+        "3": "Comprehensive protection for travel risks",
+        "4": "Only lost baggage coverage",
+        "correct": "3",
+        "reason": "It provides comprehensive protection against travel-related risks like medical expenses and lost baggage."
+    },
+    {
+        "Question": "Who are examples of professionals that would purchase Professional Liability Insurance?",
+        "1": "Construction workers",
+        "2": "Restaurant owners",
+        "3": "Architects, engineers, and lawyers",
+        "4": "Retail shopkeepers",
+        "correct": "3",
+        "reason": "Examples of professional professions include: Architects, civil engineers, consultants, financial consulting firms, lawyers, law firms and accountants. "
+    },
+    {
+        "Question": "What should an authorized company do if it cannot comply with the requirements of the Code of Conduct?",
+        "1": "Promptly notify SAMA",
+        "2": "Try to fix the problem quietly",
+        "3": "Wait for SAMA to notice",
+        "4": "Ask the customer for an exemption",
+        "correct": "1",
+        "reason": "Authorized companies shall promptly notify SAMA of any circumstances that may hinder them from complying with the requirements stipulated in these regulations. "
+    },
+    {
+        "Question": "Homeowners insurance can cover the contents of a home, including what specific items mentioned in the text?",
+        "1": "Pets",
+        "2": "Cash and securities",
+        "3": "Vehicles parked in the garage",
+        "4": "Jewelry, alloys, and gold or silver items",
+        "correct": "4",
+        "reason": "The policy also covers loss caused by... theft... of contents, including jewelry, alloys, gold or silver jewelry or other precious metals. "
+    },
+    {
+        "Question": "Insurance policy wording and contents must adhere to which minimum language requirement in KSA?",
+        "1": "They must be written in Arabic and can be provided in English",
+        "2": "They can be in any language as long as the text is clear",
+        "3": "They must be written in English only",
+        "4": "They must be written in English and can be provided in Arabic",
+        "correct": "1",
+        "reason": "They must be written in Arabic and can be provided in English. "
+    },
+    {
+        "Question": "Which of the following is an exclusion in machinery breakdown insurance?",
+        "1": "Natural explosion",
+        "2": "Defective materials",
+        "3": "Circuit breakage",
+        "4": "Fire damage",
+        "correct": "4",
+        "reason": "Fire damage is typically excluded, covered under property insurance."
+    },
+    {
+        "Question": "What does directors liability insurance cover?",
+        "1": "Employee injuries",
+        "2": "Errors by directors in management",
+        "3": "Third-party property",
+        "4": "Building damage",
+        "correct": "2",
+        "reason": "It covers liability for errors or negligence by directors in managing company affairs."
+    },
+    {
+        "Question": "International Travel insurance is often a mandatory document for what purpose?",
+        "1": "Renting a car abroad",
+        "2": "Booking a hotel",
+        "3": "Obtaining a travel visa for some countries",
+        "4": "Boarding a domestic flight",
+        "correct": "3",
+        "reason": "This coverage is important as it is one of the mandatory documents for obtaining a travel visa for some countries. "
+    },
+    {
+        "Question": "What does a standard Homeowners insurance policy typically cover?",
+        "1": "Only the building structure",
+        "2": "Buildings, contents, or both against perils like fire, theft, and natural disasters",
+        "3": "Personal liability outside the home",
+        "4": "Only the contents of the home",
+        "correct": "2",
+        "reason": "This policy, as required by the applicant, covers: A) buildings B) or their contents only, consisting of other personal effects, or (c) the buildings and their contents. It covers risks like fire, natural disasters, and theft. "
+    },
+    {
+        "Question": "Which of the following is a requirement for customer communication pre-sale?",
+        "1": "Hide financial relationships",
+        "2": "Omit product details",
+        "3": "Focus on commissions",
+        "4": "Disclose if working for an insurer",
+        "correct": "4",
+        "reason": "Companies must disclose if they work for an insurer or independently."
+    },
+    {
+        "Question": "What is the primary purpose of Chapter Three in the KSA IFCE document?",
+        "1": "To describe investment options",
+        "2": "To regulate banking services",
+        "3": "To outline SAMA\u00e2\u20ac\u2122s financial policies",
+        "4": "To discuss prominent insurance products and customer service",
+        "correct": "4",
+        "reason": "Chapter Three focuses on insurance products in the Saudi market and customer service standards."
+    },
+    {
+        "Question": "Who is protected under a 'Director\u2019s Liability Insurance' policy?",
+        "1": "Members of the board or administrative directors",
+        "2": "The company's clients",
+        "3": "The company's shareholders",
+        "4": "The company's employees",
+        "correct": "1",
+        "reason": "The directors and administrative managers liability policy provides insurance coverage for each member or administrative director against liability for which may be legally held. "
+    },
+    {
+        "Question": "What additional coverage does Umrah insurance include compared to Hajj insurance?",
+        "1": "COVID-19 related costs",
+        "2": "Flight entertainment",
+        "3": "Property damage",
+        "4": "Theft protection",
+        "correct": "1",
+        "reason": "Umrah insurance includes coverage for COVID-19 treatment and quarantine costs."
+    },
+    {
+        "Question": "Which of the following is a benefit of medical malpractice insurance?",
+        "1": "Covers property damage",
+        "2": "Excludes long-term coverage",
+        "3": "Covers only legal fees",
+        "4": "Protects against negligence claims",
+        "correct": "4",
+        "reason": "It protects medical practitioners against negligence-related responsibilities."
+    },
+    {
+        "Question": "Property insurance against 'fire and allied perils' can be extended to include which of the following?",
+        "1": "Product liability",
+        "2": "Business interruption",
+        "3": "Explosions, storms, and earthquakes",
+        "4": "Employee dishonesty",
+        "correct": "3",
+        "reason": "The policy can be extended to include the following perils: Explosion on the ground or underground... storms, Cyclones... earthquakes, etc. "
+    },
+    {
+        "Question": "What does 'Group Term Life insurance for employees' provide a benefit for?",
+        "1": "Achieving sales targets",
+        "2": "Resignation",
+        "3": "Death or permanent disability of a covered employee",
+        "4": "Retirement",
+        "correct": "3",
+        "reason": "The policy pays the benefit (the agreed amount of insurance) if any of the covered employees is exposed to death or permanent disability. "
+    },
+    {
+        "Question": "Which of the following is a benefit of medical insurance for companies?",
+        "1": "Covers only emergencies",
+        "2": "Covers pregnancy up to 15,000 SR",
+        "3": "Excludes outpatient clinics",
+        "4": "Covers only dental care",
+        "correct": "2",
+        "reason": "It includes pregnancy and birth coverage up to 15,000 SR."
+    },
+    {
+        "Question": "Where must an insurance broker or agent deposit collected premiums?",
+        "1": "In their personal bank account",
+        "2": "In the company's general operating account",
+        "3": "In a high-interest investment account",
+        "4": "In an independent bank account (premium account) or directly with the insurance company",
+        "correct": "4",
+        "reason": "Any premium collected by the broker or the agent must be deposited in an independent bank account (premium account) created for this purpose or immediately deposited with the insurance company. "
+    },
+    {
+        "Question": "What does property insurance for consequential loss cover?",
+        "1": "Direct property damage",
+        "2": "Loss of profits from interruption",
+        "3": "Third-party liability",
+        "4": "Employee injuries",
+        "correct": "2",
+        "reason": "It covers loss of profits due to business interruption from covered damage."
+    },
+    {
+        "Question": "What does the annual statement for protection and savings insurance include?",
+        "1": "Projected cash value and premiums paid",
+        "2": "Only cancellation terms",
+        "3": "Only premium due dates",
+        "4": "Only investment returns",
+        "correct": "1",
+        "reason": "It includes projected cash value, insured sums, and premiums paid."
+    },
+    {
+        "Question": "What is the standard settlement period for individuals' claims after receiving all necessary documents?",
+        "1": "15 days",
+        "2": "30 days",
+        "3": "7 days",
+        "4": "45 days",
+        "correct": "1",
+        "reason": "Insurance company are obliged to settle the individuals\u2019 claims within (15) days from the date of receiving the claim and necessary documents. "
+    },
+    {
+        "Question": "What does deterioration of stock insurance cover?",
+        "1": "Employee injuries",
+        "2": "Damage to refrigerated inventory",
+        "3": "Building fire",
+        "4": "Third-party liability",
+        "correct": "2",
+        "reason": "It covers loss or damage to inventory in refrigerated warehouses."
+    },
+    {
+        "Question": "Which of the following is covered by homeowners insurance?",
+        "1": "Only building structure",
+        "2": "Only contents",
+        "3": "None of these",
+        "4": "Both building and contents",
+        "correct": "4",
+        "reason": "Homeowners insurance can cover both buildings and their contents, as required by the applicant."
+    },
+    {
+        "Question": "What does personal accident insurance cover?",
+        "1": "Property damage",
+        "2": "Third-party liability",
+        "3": "Death or disability from accidents",
+        "4": "Vehicle repair costs",
+        "correct": "3",
+        "reason": "It compensates for death or disability due to accidents, worldwide."
+    },
+    {
+        "Question": "Which of the following is covered by electronic devices insurance?",
+        "1": "Building fire",
+        "2": "Damage to computers and devices",
+        "3": "Third-party liability",
+        "4": "Employee injuries",
+        "correct": "2",
+        "reason": "It covers unexpected damage to electronic devices and computers."
+    },
+    {
+        "Question": "After receiving a claim, within how many days must an insurer acknowledge the receipt and any missing information?",
+        "1": "7 days",
+        "2": "3 days",
+        "3": "15 days",
+        "4": "10 days",
+        "correct": "1",
+        "reason": "Acknowledge to the customer the receipt of the claim and any missing information within (7) days from receiving the claim\u2019s application form. "
+    },
+    {
+        "Question": "What is the maximum liability for aviation hull liability insurance per incident?",
+        "1": "5 million SR",
+        "2": "15 million SR",
+        "3": "20 million SR",
+        "4": "10 million SR",
+        "correct": "4",
+        "reason": "It covers up to 10 million SR for damage, injury, or death per incident."
+    },
+    {
+        "Question": "Which of the following would be covered by an 'Electronic Devices and Computers' insurance policy?",
+        "1": "Damage to medical devices and communication equipment",
+        "2": "Employee training on new software",
+        "3": "Upgrading to newer computer models",
+        "4": "The cost of electricity to run the devices",
+        "correct": "1",
+        "reason": "The policy covers all types of computers and electronic devices, including microprocessors, electronic information processing, communication devices, medical devices, etc. "
+    },
+    {
+        "Question": "The 'Skill, Care, and Diligence' requirement means authorized companies should increase their efficiency through what means?",
+        "1": "Using advanced software",
+        "2": "Hiring more staff",
+        "3": "Reducing service times",
+        "4": "Training, experience, and working with experts",
+        "correct": "4",
+        "reason": "Authorized companies shall work within their area of competence... with utmost care and diligence to increase their efficiency through training, experience, and working with experts in this area. "
+    },
+    {
+        "Question": "Which of the following is a feature of homeowners insurance?",
+        "1": "Covers only buildings",
+        "2": "Includes liability to servants",
+        "3": "Covers only fire",
+        "4": "Excludes natural disasters",
+        "correct": "2",
+        "reason": "It can include liability to servants and third parties."
+    },
+    {
+        "Question": "What is covered under the 'Envelope' section of Inherent Defect Insurance?",
+        "1": "Interior walls and doors",
+        "2": "Landscaping and pavement",
+        "3": "External walls and roofing, excluding movable elements",
+        "4": "Electrical wiring",
+        "correct": "3",
+        "reason": "Envelope Building envelope that contains all the works forming part of external walls and roofing of the Premises but excluding: Movable elements of external windows and doors... "
+    },
+    {
+        "Question": "What does the annual maximum coverage for company medical insurance include?",
+        "1": "Outpatient and inpatient up to 500,000 SR",
+        "2": "Only dental care",
+        "3": "Excludes pregnancy",
+        "4": "Only emergency coverage",
+        "correct": "1",
+        "reason": "It covers outpatient and inpatient services up to 500,000 SR annually."
+    },
+    {
+        "Question": "What does clinical trials insurance cover?",
+        "1": "Liability from harm to participants",
+        "2": "Only legal fees",
+        "3": "Only equipment damage",
+        "4": "Only property damage",
+        "correct": "1",
+        "reason": "It covers liability for harm to participants in clinical trials."
+    },
+    {
+        "Question": "What form must be completed when selling Protection and Savings insurance policies to support the product recommendation?",
+        "1": "A customer Fact-finding Form",
+        "2": "A commission disclosure form",
+        "3": "A standard application form",
+        "4": "A marketing survey",
+        "correct": "1",
+        "reason": "Authorized companies that sell Protection and Savings insurance policies shall complete a customer Fact-finding Form that contains sufficient information to support the recommended product. "
+    },
+    {
+        "Question": "What does aviation personal accident insurance cover?",
+        "1": "Aircraft repair costs",
+        "2": "Injuries to crew or passengers",
+        "3": "Flight delays",
+        "4": "Third-party property damage",
+        "correct": "2",
+        "reason": "It covers injuries to crew or passengers from aircraft accidents."
+    },
+    {
+        "Question": "What is the minimum notice period for policy cancellation by the insurer?",
+        "1": "30 days",
+        "2": "15 days",
+        "3": "45 days",
+        "4": "60 days",
+        "correct": "1",
+        "reason": "The insurer must give at least 30 days\u00e2\u20ac\u2122 notice prior to cancellation."
+    },
+    {
+        "Question": "What must be clarified in insurance quotations?",
+        "1": "No clarification needed",
+        "2": "Differences in benefits and costs",
+        "3": "Only premium cost",
+        "4": "Only agent commissions",
+        "correct": "2",
+        "reason": "Companies must clarify differences in benefits, coverage, and costs."
+    },
+    {
+        "Question": "What does the principle of 'Non-discrimination' in the Code of Conduct require from authorized companies?",
+        "1": "To insure every single applicant",
+        "2": "To prioritize customers with disabilities over others",
+        "3": "To not unfairly discriminate and to provide reasons for rejecting or cancelling policies",
+        "4": "To offer the same price to all customers regardless of risk",
+        "correct": "3",
+        "reason": "Authorized companies shall not unfairly discriminate against its current or potential customers in the future, and shall provide convincing reasons for rejecting, cancelling, or not renewing insurance policies. "
+    },
+    {
+        "Question": "What must authorized companies avoid in underwriting?",
+        "1": "Fair pricing",
+        "2": "Unfair discrimination",
+        "3": "Standard rates",
+        "4": "Policy renewals",
+        "correct": "2",
+        "reason": "Underwriting must not be unfairly discriminatory."
+    },
+    {
+        "Question": "Which of the following is a requirement for policy amendments?",
+        "1": "No notification needed",
+        "2": "Written confirmation of changes",
+        "3": "Verbal confirmation",
+        "4": "Immediate cancellation",
+        "correct": "2",
+        "reason": "Companies must provide written confirmation of amendments."
+    },
+    {
+        "Question": "Who is considered the 'third party' in a civil third-party liability insurance contract?",
+        "1": "The insured person (policyholder)",
+        "2": "The driver of the insured vehicle",
+        "3": "The insurance company",
+        "4": "The person who is not a party to the contract but is harmed by the insured's actions",
+        "correct": "4",
+        "reason": "The civil third party liability is the responsibility of causing harm to the person who is not a party in the insurance contract, so that the insurance company is the first party, the insured is the second party, and the aggrieved person here is the third party. "
+    },
+    {
+        "Question": "Which of the following must be disclosed in advertising?",
+        "1": "Accurate policy coverage",
+        "2": "Competitor\u00e2\u20ac\u2122s weaknesses",
+        "3": "Exaggerated claims",
+        "4": "Hidden fees",
+        "correct": "1",
+        "reason": "Advertisements must include accurate coverage details without misleading data."
+    },
+    {
+        "Question": "What are the two types of Protection and Saving insurance offered in Saudi Arabia?",
+        "1": "Term Life and Whole Life Insurance",
+        "2": "Protection Insurance and Protection and Saving Insurance",
+        "3": "Protection Insurance and Investment Insurance",
+        "4": "Protection Insurance and Pension Insurance",
+        "correct": "2",
+        "reason": "Insurance companies in Saudi Arabia offer two types of protection and saving insurance: 1- Protection Insurance... 2- Protection and Saving Insurance. "
+    },
+    {
+        "Question": "What is the main difference between protection insurance and protection and savings insurance?",
+        "1": "Protection covers only death",
+        "2": "Savings excludes disability",
+        "3": "Protection is compulsory",
+        "4": "Savings includes future payouts",
+        "correct": "4",
+        "reason": "Protection and savings insurance includes savings proceeds paid out in the future."
+    },
+    {
+        "Question": "What does the group term life insurance program target?",
+        "1": "Individual travelers",
+        "2": "Employers with employees",
+        "3": "Property owners",
+        "4": "Bank borrowers",
+        "correct": "2",
+        "reason": "It targets employers, covering employees for death or disability."
+    },
+    {
+        "Question": "What is the minimum notice period an authorized company must give an insured before the effective date of a policy cancellation?",
+        "1": "15 days",
+        "2": "30 days",
+        "3": "60 days",
+        "4": "7 days",
+        "correct": "2",
+        "reason": "The authorized company shall give the insured a minimum period of 30 days prior to the effective date of cancellation. "
+    },
+    {
+        "Question": "'Energy Insurance' is a specialized type of insurance for what sector?",
+        "1": "Petrochemical, hydrocarbon energy, and oil installations",
+        "2": "The tourism sector",
+        "3": "The renewable energy sector only",
+        "4": "The construction sector",
+        "correct": "1",
+        "reason": "It is a specialized type of insurance related to petrochemical and hydrocarbon energy and oil installations and other important energy resources such as oil, gas and electricity. "
+    },
+    {
+        "Question": "What must authorized companies provide post-sale?",
+        "1": "No customer support",
+        "2": "Timely responses to queries",
+        "3": "Delayed amendments",
+        "4": "Only claim forms",
+        "correct": "2",
+        "reason": "They must provide timely and appropriate responses to customer queries."
+    },
+    {
+        "Question": "What does 'Contractor\u2019s Equipment and Machinery' insurance cover?",
+        "1": "Only when the machinery is operating",
+        "2": "Sudden or unexpected loss or damage to construction machinery at the workplace, whether operating, parked, or being dismantled",
+        "3": "Wear and tear of the machinery",
+        "4": "Only when the machinery is parked",
+        "correct": "2",
+        "reason": "This insurance covers sudden or unexpected loss or damage to the construction machinery and equipment used by the contractor in the workplace either by repair or replacement, whether the machinery or equipment is operating, parked or being dismantled. "
+    },
+    {
+        "Question": "What does hospitality insurance cover?",
+        "1": "Only equipment damage",
+        "2": "Only guest injuries",
+        "3": "Risks to property and worker safety",
+        "4": "Only legal fees",
+        "correct": "3",
+        "reason": "It covers property risks, worker safety, and related liabilities."
+    },
+    {
+        "Question": "Who is responsible for insuring a vehicle annually under a financial lease contract?",
+        "1": "The lessor",
+        "2": "The lessee",
+        "3": "SAMA",
+        "4": "The insurer",
+        "correct": "1",
+        "reason": "The lessor must insure the vehicle annually throughout the finance leasing contract."
+    },
+    {
+        "Question": "What must brokers disclose about commissions?",
+        "1": "Only total premium",
+        "2": "No disclosure required",
+        "3": "Only insurer profits",
+        "4": "All commissions and fees charged",
+        "correct": "4",
+        "reason": "Brokers must disclose all commissions and fees to the customer."
+    },
+    {
+        "Question": "What does 'Pilot Loss of License Insurance' compensate for?",
+        "1": "The risk of a license being withdrawn due to medical unsuitability",
+        "2": "The cost of renewing a license",
+        "3": "The loss of a physical license card",
+        "4": "Failure to pass a recurrent training exam",
+        "correct": "1",
+        "reason": "This insurance compensates any crewmember against the risk of withdrawing his license (temporarily or permanently) due to medical unsuitability resulting from an accident or illness. "
+    },
+    {
+        "Question": "How is the insurance premium calculated for leased motor vehicles?",
+        "1": "By SAMA regulations",
+        "2": "Once at lease start",
+        "3": "Fixed rate of vehicle value",
+        "4": "Annually by the insurer based on sum insured and lessee factors",
+        "correct": "4",
+        "reason": "The premium is calculated annually by the insurer based on the sum insured and pricing factors for the lessee."
+    },
+    {
+        "Question": "Which of the following is a feature of advertising regulations?",
+        "1": "Can mislead about competitors",
+        "2": "No financial data required",
+        "3": "Must clarify if fees are included in price",
+        "4": "Exaggeration is allowed",
+        "correct": "3",
+        "reason": "If price is advertised, it must clarify whether fees are included."
+    },
+    {
+        "Question": "What must authorized companies do with surplus distribution?",
+        "1": "Submit mechanism to SAMA",
+        "2": "Use for investments",
+        "3": "Keep it confidential",
+        "4": "Distribute without approval",
+        "correct": "1",
+        "reason": "They must submit the surplus distribution mechanism to SAMA for approval."
+    },
+    {
+        "Question": "What must an insurance broker disclose if they recommend an insurance company that does not offer the cheapest price?",
+        "1": "Nothing, it is their professional judgment",
+        "2": "That they will receive a higher commission",
+        "3": "The details of the cheaper price and a full justification for their recommendation",
+        "4": "That the cheaper company has poor service",
+        "correct": "3",
+        "reason": "If the insurance company recommended by the broker did not offer the cheapest price... the broker shall provide the customer with details of the cheaper price and a full justification of his recommendation. "
+    },
+    {
+        "Question": "Who is responsible for licensing insurance products in the Saudi Arabian market?",
+        "1": "The Ministry of Finance",
+        "2": "The Ministry of Commerce",
+        "3": "The Insurance Companies Committee",
+        "4": "The Saudi Central Bank (SAMA)",
+        "correct": "4",
+        "reason": "Each insurance company must license any product they offer through the Saudi Central Bank (SAMA). "
+    },
+    {
+        "Question": "What does Section 1 of a comprehensive motor insurance policy cover?",
+        "1": "Legal fees only",
+        "2": "Driver\u00e2\u20ac\u2122s personal accident",
+        "3": "Damage to the vehicle\u00e2\u20ac\u2122s body from accidents, fire, or theft",
+        "4": "Liability to third parties",
+        "correct": "3",
+        "reason": "Section 1 covers damage to the vehicle\u00e2\u20ac\u2122s body due to various perils like accidents, fire, theft, and natural hazards."
+    },
+    {
+        "Question": "Which of the following is covered by Umrah insurance?",
+        "1": "Daily quarantine costs for COVID-19",
+        "2": "Only flight delays",
+        "3": "Only medical evacuation",
+        "4": "Only lost baggage",
+        "correct": "1",
+        "reason": "It covers daily quarantine costs due to COVID-19 infection."
+    },
+    {
+        "Question": "Hajj insurance provides financial compensation for which of the following risks?",
+        "1": "Medical care due to an accident, flight cancellation, and repatriation of the body",
+        "2": "Missing prayer times",
+        "3": "Loss of personal enjoyment",
+        "4": "Theological disputes",
+        "correct": "1",
+        "reason": "Hajj insurance covers several risks, including but not limited to: Medical care due to an accident or illness, transportation costs, costs of delaying or canceling the flight, and costs of returning the body in the event of death. "
+    },
+    {
+        "Question": "What must be included in the insurance policy documentation?",
+        "1": "Only premium amount",
+        "2": "Only insured\u00e2\u20ac\u2122s name",
+        "3": "Policy number and coverage details",
+        "4": "Only exclusions",
+        "correct": "3",
+        "reason": "It must include policy number, insured details, coverage, limits, etc."
+    },
+    {
+        "Question": "What does professional liability insurance protect against?",
+        "1": "Property damage",
+        "2": "Negligence by professionals",
+        "3": "Natural disasters",
+        "4": "Vehicle accidents",
+        "correct": "2",
+        "reason": "It protects professionals against claims of negligence or errors."
+    },
+    {
+        "Question": "According to SAMA's rules for financially leased vehicles, what must the lessor do regarding insurance offers?",
+        "1": "Allow the lessee to find their own insurance",
+        "2": "Select an insurer of their own choice without consulting the lessee",
+        "3": "Choose the offer with the highest premium",
+        "4": "Obtain offers from at least three insurers and choose the best offer at a lower price for the lessee",
+        "correct": "4",
+        "reason": "The Lessor shall obtain insurance offers from at least three Insurers, and chose the best offer and lower price and provide it to the Lessee. "
+    },
+    {
+        "Question": "'Aircraft Hull War & Allied Perils Insurance' covers risks that are typically excluded from what other policy?",
+        "1": "Standard aircraft hull insurance",
+        "2": "Standard property insurance",
+        "3": "Personal accident insurance",
+        "4": "Public liability insurance",
+        "correct": "1",
+        "reason": "This policy covers the loss or damage to the aircraft due to the risks excluded from insurance coverage under the Aircraft hull insurance policy 'against all risks', which are caused by war and allied perils. "
+    },
+    {
+        "Question": "SAMA's regulations on the Insurance Market Code of Conduct apply to whom?",
+        "1": "Insurance companies only",
+        "2": "Branches of foreign insurance companies only",
+        "3": "Insurance and reinsurance services companies only",
+        "4": "All of the above",
+        "correct": "4",
+        "reason": "...minimum standards to be met by insurance companies, including branches of foreign insurance companies and insurance and reinsurance services companies authorized by SAMA... "
+    },
+    {
+        "Question": "What must an authorized company avoid when making recommendations to a customer?",
+        "1": "Explaining the exclusions of a policy",
+        "2": "Comparing different product options",
+        "3": "Providing additional coverages that conflict with the customer\u2019s needs to get a higher premium",
+        "4": "Suggesting the cheapest possible option",
+        "correct": "3",
+        "reason": "Insurance companies shall not provide additional coverages that conflict with the customer\u2019s needs to obtain a higher premium. "
+    },
+    {
+        "Question": "When advertising, what must be clarified if the price of the policy is included?",
+        "1": "Whether the price is negotiable",
+        "2": "Whether the price is the lowest in the market",
+        "3": "Whether the price will increase next year",
+        "4": "Whether the price includes all fees or not",
+        "correct": "4",
+        "reason": "If the advertisement includes the price of the policy, it should be clarified whether the price is inclusive of all fees or not. "
+    },
+    {
+        "Question": "What does the conflict of interest requirement mandate?",
+        "1": "Hide conflicts",
+        "2": "Disclose and address conflicts",
+        "3": "Prioritize company interest",
+        "4": "Ignore customer fairness",
+        "correct": "2",
+        "reason": "Companies must identify, disclose, and address conflicts to ensure fairness."
+    },
+    {
+        "Question": "What does a 'Public Liability Insurance' policy cover?",
+        "1": "Legal liability for accidental bodily injury or property damage to others arising from the insured's work or activities",
+        "2": "Errors in professional service",
+        "3": "Financial losses from bad business decisions",
+        "4": "Damage to the insured's own property",
+        "correct": "1",
+        "reason": "This policy covers legal liability for which the insured is legally held responsible for paying a compensation to others for causing any accidental bodily injury to others... as well as, any loss or damages to the property of third parties arising in performing his work, career, or activities. "
+    },
+    {
+        "Question": "What does the non-discrimination requirement prohibit?",
+        "1": "Setting premium rates",
+        "2": "Providing equal service",
+        "3": "Rejecting policies without reason",
+        "4": "Offering discounts",
+        "correct": "3",
+        "reason": "Companies must not unfairly discriminate or reject policies without valid reasons."
+    },
+    {
+        "Question": "What is the primary purpose of the 'Insurance Market Code of Conduct Regulations' issued by SAMA?",
+        "1": "To dictate the investment strategies of insurance companies",
+        "2": "To set premium rates for all insurance products",
+        "3": "To establish high standards for working in the insurance field and minimum standards for dealing with customers",
+        "4": "To limit the number of insurance companies in the market",
+        "correct": "3",
+        "reason": "The purpose of it is to establish high standards for working in the insurance field and general principles and minimum standards to be met by insurance companies... to deal with their current and potential customers. "
+    },
+    {
+        "Question": "Which risk is covered by marine insurance?",
+        "1": "Office equipment damage",
+        "2": "Building fire",
+        "3": "Employee injuries",
+        "4": "Goods loss during transport",
+        "correct": "4",
+        "reason": "It covers loss or damage to goods during maritime, air, or road transport."
+    },
+    {
+        "Question": "Which of the following is a post-sale notification requirement?",
+        "1": "No customer updates",
+        "2": "Delay claim procedure updates",
+        "3": "Notify changes in contact data",
+        "4": "Hide policy changes",
+        "correct": "3",
+        "reason": "Companies must notify customers of changes in contact data or procedures."
+    },
+    {
+        "Question": "What does it mean for an insurance product to 'keep up with technology' in Saudi Arabia?",
+        "1": "It excludes digital payments",
+        "2": "It requires in-person purchase",
+        "3": "It is only available via agents",
+        "4": "It can be bought online via company websites",
+        "correct": "4",
+        "reason": "Products that keep up with technology allow purchases through insurance company websites, enhancing accessibility."
+    },
+    {
+        "Question": "What does the Credit Life Insurance program target?",
+        "1": "Corporate employees",
+        "2": "Borrowers for banks",
+        "3": "Individual travelers",
+        "4": "Property owners",
+        "correct": "1",
+        "reason": "It insures borrowers, paying loan balances to banks in case of death or disability."
+    },
+    {
+        "Question": "Who is responsible for ensuring that employees and agents comply with the Insurance Market Code of Conduct Regulations?",
+        "1": "The customers",
+        "2": "The individual employees and agents themselves",
+        "3": "The insurance companies",
+        "4": "SAMA",
+        "correct": "3",
+        "reason": "Insurance companies are responsible for ensuring that all persons who deal with customers on their behalf... perform their duties in accordance with these regulations. "
+    },
+    {
+        "Question": "What does the 'Personal Accidents Extension' in a motor insurance policy typically cover?",
+        "1": "Only liability to third parties",
+        "2": "Personal injuries, death, or disability of the driver and/or passengers",
+        "3": "Only damage to the vehicle",
+        "4": "Mechanical breakdowns",
+        "correct": "2",
+        "reason": "This extension offers a coverage to personal injuries to the driver and/or passengers for an additional premium, so the insurer will compensate the insured for the death, and partial or total disability. "
+    },
+    {
+        "Question": "What is the main objective of customer service in the insurance context?",
+        "1": "To process paperwork efficiently",
+        "2": "To sell as many policies as possible",
+        "3": "To minimize the number of claims paid",
+        "4": "To improve customer satisfaction by meeting their needs with high-quality service",
+        "correct": "4",
+        "reason": "Customer service is a set of practices designed to improve customer satisfaction\u2019s level... by providing a high quality service that results in customer satisfaction. "
+    },
+    {
+        "Question": "'Deterioration of Stock Insurance' is designed to cover what specific type of loss?",
+        "1": "Spoilage of goods in refrigerated warehouses",
+        "2": "Damage to the warehouse building",
+        "3": "Theft of stock by employees",
+        "4": "A decrease in the market value of the stock",
+        "correct": "1",
+        "reason": "This insurance is a form of subsequent loss coverage designed specifically to provide insurance coverage of inventory in refrigerated warehouses. "
+    },
+    {
+        "Question": "In the provided example for a financially leased vehicle, what happens to the discount amount?",
+        "1": "It is used to reduce the vehicle's loan amount",
+        "2": "It is kept by the lessor (financing institution)",
+        "3": "It is saved in the lessee insurance account",
+        "4": "It is paid back immediately to the lessee",
+        "correct": "3",
+        "reason": "The financing institution (Lessor) calculates the basic premium of SAR 8,000 and saves discount value and an amount of SAR 2,400 in lessee insurance account. "
+    },
+    {
+        "Question": "Contractor's All Risk (CAR) insurance is specifically designed for what type of projects?",
+        "1": "IT development projects",
+        "2": "Manufacturing projects",
+        "3": "Retail businesses",
+        "4": "Engineering projects like construction of buildings and bridges",
+        "correct": "4",
+        "reason": "Contractor\u2019s all risk policy is designed \u201cagainst all risks\u201d especially for engineering projects such as construction of buildings, construction of bridges, road works, etc. "
+    },
+    {
+        "Question": "For compulsory insurance like Vehicle or Health, when does coverage commence if the application is submitted with the first premium payment?",
+        "1": "After a 7-day waiting period",
+        "2": "The next business day",
+        "3": "From the date the application is completed",
+        "4": "From the date the policy is physically issued",
+        "correct": "3",
+        "reason": "When an application for a compulsory insurance product... with a first premium payment in advance, a receipt must be provided to the customer indicating that coverage will commence from the date the application is completed. "
+    },
+    {
+        "Question": "What is a key feature of motor third-party liability insurance in Saudi Arabia?",
+        "1": "It is compulsory via a unified policy",
+        "2": "It is optional",
+        "3": "It excludes towing costs",
+        "4": "It covers vehicle damage",
+        "correct": "1",
+        "reason": "This is a compulsory insurance through a unified policy issued by SAMA."
+    },
+    {
+        "Question": "What medical condition treatment is covered under individual medical insurance for BMI above 45?",
+        "1": "Gastric bypass",
+        "2": "Liposuction",
+        "3": "CoolSculpting",
+        "4": "Gastric sleeve surgery",
+        "correct": "4",
+        "reason": "Costs of covering procedures treating extreme obesity by the gastric sleeve surgery only, in cases of BMI above 45. "
+    },
+    {
+        "Question": "Which of the following is a feature of domestic labor insurance?",
+        "1": "Compensates for worker replacement",
+        "2": "Covers only flight delays",
+        "3": "Covers only medical costs",
+        "4": "Excludes health insurance",
+        "correct": "1",
+        "reason": "It compensates sponsors for replacement costs in various scenarios."
+    },
+    {
+        "Question": "Which of the following is a characteristic of insurance products in the Saudi market?",
+        "1": "They are not regulated",
+        "2": "They are only for corporations",
+        "3": "They are only available in physical branches",
+        "4": "They must be approved by SAMA",
+        "correct": "4",
+        "reason": "Insurance products in the Saudi market must be approved by SAMA, which grants either a temporary or permanent license."
+    },
+    {
+        "Question": "'Aircraft Hull Liability Insurance' covers loss or accidental damage to what?",
+        "1": "The aircraft itself",
+        "2": "The airline's profits",
+        "3": "The airport terminal",
+        "4": "Passengers' luggage only",
+        "correct": "1",
+        "reason": "This policy covers loss or accidental damage to the aircraft on the basis of either replacement or repair of the damaged aircraft. "
+    },
+    {
+        "Question": "'Group Term Life insurance' is designed for which group?",
+        "1": "Individual customers",
+        "2": "Company directors only",
+        "3": "Bank customers",
+        "4": "Employers for their employees",
+        "correct": "4",
+        "reason": "This program targets employers who have a number of employees working for them, and the policy pays the benefit if any of the covered employees is exposed to death or permanent disability. "
+    },
+    {
+        "Question": "What does domestic labor insurance cover if a worker escapes?",
+        "1": "Flight upgrades",
+        "2": "Nothing",
+        "3": "Replacement costs",
+        "4": "Medical expenses only",
+        "correct": "3",
+        "reason": "It compensates the sponsor for replacement costs if the worker escapes."
+    },
+    {
+        "Question": "What is the annual maximum coverage for the standard corporate medical insurance policy mentioned in the text?",
+        "1": "SAR 250,000",
+        "2": "SAR 100,000",
+        "3": "SAR 1,000,000",
+        "4": "SAR 500,000",
+        "correct": "4",
+        "reason": "The coverage includes outpatient clinics and in-patient in a shared hospital room with an annual maximum of 500,000 SR. "
+    },
+    {
+        "Question": "'Professional Liability Insurance' is designed to protect professionals against claims arising from what?",
+        "1": "Property damage",
+        "2": "Intentional criminal acts",
+        "3": "Bodily injury to clients",
+        "4": "Material losses suffered by clients due to negligence or errors",
+        "correct": "4",
+        "reason": "The omission or error... leads to a claim against those professionals... as a result of causing their clients to suffer material losses. "
+    },
+    {
+        "Question": "Which of the following is covered by engineering insurance?",
+        "1": "Employee theft",
+        "2": "Vehicle damage",
+        "3": "Construction project risks",
+        "4": "Office equipment",
+        "correct": "3",
+        "reason": "It covers risks related to engineering projects like construction."
+    },
+    {
+        "Question": "In what situation does 'Deterioration of Stock' insurance apply?",
+        "1": "When stock is damaged by fire",
+        "2": "When stock becomes obsolete",
+        "3": "When stock spoils due to a breakdown in refrigeration",
+        "4": "When stock is stolen by an employee",
+        "correct": "3",
+        "reason": "This insurance covers loss or damage to the goods or commodity... if they are damaged or corrupted... in refrigerated warehouses. "
+    },
+    {
+        "Question": "Which is a general requirement for authorized companies under the Code of Conduct?",
+        "1": "Lack of skill",
+        "2": "Discrimination",
+        "3": "Integrity",
+        "4": "Inadequate resources",
+        "correct": "3",
+        "reason": "Authorized companies must act with integrity, honesty, and fairness."
+    },
+    {
+        "Question": "What is the settlement period for companies' claims after receiving all necessary documents and the loss assessor's report?",
+        "1": "15 days",
+        "2": "30 days",
+        "3": "60 days",
+        "4": "45 days",
+        "correct": "4",
+        "reason": "The period of settling companies\u2019 claims must not exceed (45) days after receiving all necessary documents and loss assessor\u2019s report. "
+    },
+    {
+        "Question": "Which of the following is NOT a characteristic of insurance products in the Saudi market?",
+        "1": "Standard products",
+        "2": "Inflexible products",
+        "3": "Miscellaneous products",
+        "4": "Licensed products",
+        "correct": "2",
+        "reason": "Insurance products are described as flexible, allowing applicants to choose and add coverages suitable for their needs. "
+    },
+    {
+        "Question": "What must be provided upon policy conclusion?",
+        "1": "Official written coverage confirmation",
+        "2": "Only a verbal agreement",
+        "3": "No documentation",
+        "4": "Only premium receipt",
+        "correct": "1",
+        "reason": "Companies must provide written confirmation of coverage."
+    },
+    {
+        "Question": "What is the 'Free Look Period' for Protection & Savings Insurance policies?",
+        "1": "30 days",
+        "2": "21 days",
+        "3": "14 days",
+        "4": "7 days",
+        "correct": "2",
+        "reason": "A Free Look clause has to be incorporated in all Protection & Savings, which should provide a minimum of 21 days\u2019 period from the date of delivery of the policy to the insured to review it. "
+    },
+    {
+        "Question": "What does 'Property insurance for Consequential Loss' cover?",
+        "1": "Direct physical damage to property",
+        "2": "Loss of profits due to business interruption from a covered peril",
+        "3": "The cost of replacing damaged machinery",
+        "4": "Legal liability to third parties",
+        "correct": "2",
+        "reason": "This policy covers loss of profits due to the decrease in the normal volume of trading resulting from the interruption of work or irregularity due to loss or damage covered under any of the property insurance policies. "
+    },
+    {
+        "Question": "Which section of comprehensive motor insurance covers third-party liability?",
+        "1": "Section 2",
+        "2": "Section 1",
+        "3": "Section 4",
+        "4": "Section 3",
+        "correct": "1",
+        "reason": "Section 2 covers civil liability to third parties up to 10 million SR."
+    },
+    {
+        "Question": "What does the fact-finding form for protection and savings insurance ensure?",
+        "1": "Policy cost reduction",
+        "2": "Appropriateness of the sold policy",
+        "3": "Premium payment schedule",
+        "4": "Agent commission rates",
+        "correct": "2",
+        "reason": "It ensures the recommended policy suits the customer\u00e2\u20ac\u2122s needs."
+    },
+    {
+        "Question": "When is an insurance company considered to have received the premium?",
+        "1": "Once the agent or broker receives the payment",
+        "2": "When the customer mails the check",
+        "3": "When the payment clears in the bank",
+        "4": "At the end of the grace period",
+        "correct": "1",
+        "reason": "Insurance companies are considered to have received the premiums once the agents or brokers receive the payment. "
+    },
+    {
+        "Question": "What is the required format for an insurance policy according to Article 52 of the Implementing Regulations?",
+        "1": "Written in a clear way that can be read by the public at large",
+        "2": "Printed in very small letters to save paper",
+        "3": "Written in English, with Arabic as an option",
+        "4": "A digital-only format",
+        "correct": "1",
+        "reason": "The Insurance Policy shall be written in a clear way that can be read by the public at large. "
+    },
+    {
+        "Question": "Which benefit is typically included in medical insurance for individuals?",
+        "1": "Cosmetic surgery",
+        "2": "Luxury accommodations",
+        "3": "Elective travel expenses",
+        "4": "Outpatient clinic treatment",
+        "correct": "4",
+        "reason": "Medical insurance covers treatment services in outpatient clinics and hospitals, including accommodation."
+    },
+    {
+        "Question": "What does 'Marine Insurance' primarily cover?",
+        "1": "Pollution caused by the vessel",
+        "2": "Damage to the port or harbor",
+        "3": "The wages of the ship's crew",
+        "4": "Loss or damage to goods during maritime, air, or road transport",
+        "correct": "4",
+        "reason": "This type of insurance covers the loss or damage for the goods during maritime, air, or road transport whether within the Kingdom of Saudi Arabia or for those goods destined for export or import to and from Saudi Arabia. "
+    },
+    {
+        "Question": "Which type of vehicle is NOT typically covered under corporate motor vehicle insurance?",
+        "1": "Heavy transport vehicles",
+        "2": "Leased vehicles (rent-to-own)",
+        "3": "High-risk commercial vehicles like fuel trucks",
+        "4": "Personal recreational vehicles",
+        "correct": "4",
+        "reason": "Personal vehicles are covered under individual insurance. Corporate insurance covers leased, rental, light/medium/heavy transport, commercial, high-risk, and diplomatic vehicles. "
+    },
+    {
+        "Question": "If complete policy documents are not immediately available, what must the authorized company issue?",
+        "1": "A letter of apology",
+        "2": "An invoice for the premium",
+        "3": "A verbal confirmation",
+        "4": "A temporary evidence of coverage confirmation",
+        "correct": "4",
+        "reason": "If complete policies were not available, the authorized company must issue a temporary evidence of coverage confirmation that can be legally used as proof of coverage. "
+    },
+    {
+        "Question": "What must authorized companies assess before recommending insurance?",
+        "1": "Customer\u00e2\u20ac\u2122s financial status",
+        "2": "Customer\u00e2\u20ac\u2122s insurance needs",
+        "3": "Competitor offerings",
+        "4": "Agent commissions",
+        "correct": "2",
+        "reason": "They must assess customer needs to ensure suitable recommendations."
+    },
+    {
+        "Question": "'Machinery Breakdown' insurance covers damage resulting from which of the following?",
+        "1": "Design errors, faulty installation, and lack of skills",
+        "2": "Scheduled downtime for maintenance",
+        "3": "Power outages",
+        "4": "Improper use by untrained staff",
+        "correct": "1",
+        "reason": "This policy covers... defects in casting, defective materials, design errors, fabrication defect, faulty installation and operation, lack of skills... or other not specifically excluded causes. "
+    },
+    {
+        "Question": "What is the main purpose of a Protection and Saving insurance policy?",
+        "1": "To pay a certain amount if something bad happens to the insured or at the end of an agreed period",
+        "2": "To cover legal expenses",
+        "3": "To cover property damage",
+        "4": "To provide a daily income in case of illness",
+        "correct": "1",
+        "reason": "An insurance policy, whereby the insurance company pays a certain insurance amount if something bad happens to the insured or at the end of the agreed period according to the insurance contract. "
+    },
+    {
+        "Question": "What is the maximum liability limit for third-party coverage in a comprehensive motor insurance policy?",
+        "1": "5 million SR",
+        "2": "10 million SR",
+        "3": "15 million SR",
+        "4": "20 million SR",
+        "correct": "2",
+        "reason": "The policy covers civil liability up to 10 million SR per incident for property damage, death, or injury."
+    },
+    {
+        "Question": "What is the purpose of the Insurance Market Code of Conduct Regulations?",
+        "1": "Guide claims only",
+        "2": "Set pricing standards",
+        "3": "Establish high standards for insurance practices",
+        "4": "Regulate investments",
+        "correct": "3",
+        "reason": "It establishes high standards and minimum requirements for dealingregisteredsemi companies to ensure fair customer treatment."
+    },
+    {
+        "Question": "What is the purpose of contractors all risk policy?",
+        "1": "Covers only machinery",
+        "2": "Comprehensive protection for engineering projects",
+        "3": "Covers only liability",
+        "4": "Excludes subcontractors",
+        "correct": "2",
+        "reason": "It provides comprehensive protection for engineering projects against all risks except exclusions."
+    },
+    {
+        "Question": "What must an insurer provide to a customer in writing when a claim is denied?",
+        "1": "An offer for a discount on their next policy",
+        "2": "A written reason for denying the claim and copies of documents used if requested",
+        "3": "The name of the employee who denied the claim",
+        "4": "A suggestion for another insurer",
+        "correct": "2",
+        "reason": "For denied claims: Written reason for denying the submitted claim. Copies of documents or information used in reaching the decision, if requested. "
+    },
+    {
+        "Question": "What is the maximum liability limit per incident for third-party damages under a comprehensive motor insurance policy?",
+        "1": "SAR 5,000,000",
+        "2": "SAR 10,000,000",
+        "3": "SAR 1,000,000",
+        "4": "SAR 20,000,000",
+        "correct": "2",
+        "reason": "The insurance company shall pay compensation for such liability up to a maximum of 10 million SR per incident for property damage, death, or bodily injury. "
+    },
+    {
+        "Question": "Which of the following is a post-sale service requirement?",
+        "1": "Provide coverage certificates on request",
+        "2": "Ignore customer queries",
+        "3": "Delay claim responses",
+        "4": "Charge for amendments",
+        "correct": "1",
+        "reason": "Companies must provide coverage certificates when requested."
+    },
+    {
+        "Question": "What is the key condition for a claim under 'Burglary and Theft Insurance'?",
+        "1": "Shoplifting during business hours",
+        "2": "Simple misplacement of items",
+        "3": "Theft must involve violence and force, like breaking in",
+        "4": "Theft by an employee",
+        "correct": "3",
+        "reason": "This policy provides coverage against theft or burglary using violence and force... that occur by breaking into the insured building/s. "
+    },
+    {
+        "Question": "What must be included in the policy for protection and savings insurance?",
+        "1": "Only premium rates",
+        "2": "No refund details",
+        "3": "Only insured amount",
+        "4": "Cash surrender value details",
+        "correct": "4",
+        "reason": "It must state the cash surrender value if applicable."
+    },
+    {
+        "Question": "What does the 'Adequate Resources' requirement in the Code of Conduct entail?",
+        "1": "Having a large number of branches",
+        "2": "Maintaining sufficient administrative, financial, operational, and human resources",
+        "3": "Having a large marketing budget",
+        "4": "Having the most advanced technology",
+        "correct": "2",
+        "reason": "Authorized companies shall take reasonable care to maintain adequate administrative, financial, operational, and human resources to carry out their business and serve their customers. "
+    },
+    {
+        "Question": "What is the term of insurance coverage for an 'Inherent Defect Insurance' policy?",
+        "1": "One year",
+        "2": "Ten years",
+        "3": "The lifetime of the building",
+        "4": "Five years",
+        "correct": "2",
+        "reason": "The term of insurance coverage is ten years. "
+    },
+    {
+        "Question": "Which of the following is a feature of travel insurance?",
+        "1": "Covers only medical emergencies",
+        "2": "Covers only lost baggage",
+        "3": "Excludes emergency services",
+        "4": "Includes short-term and annual options",
+        "correct": "4",
+        "reason": "It offers short-term (up to 6 months) and annual coverage options."
+    },
+    {
+        "Question": "Which of the following is a requirement for premium accounts?",
+        "1": "Must be independent",
+        "2": "Can be mixed with agent funds",
+        "3": "Can be used as collateral",
+        "4": "No banking required",
+        "correct": "1",
+        "reason": "Premium accounts must be independent and not treated as agent property."
+    },
+    {
+        "Question": "What are insurance companies obliged to send to customers whose motor vehicle policies are expiring or have expired?",
+        "1": "A registered letter",
+        "2": "A renewal gift",
+        "3": "An email with a new quote",
+        "4": "A mobile text message reminder",
+        "correct": "4",
+        "reason": "SAMA's circular... obliges all insurance companies working in vehicle insurance to send a mobile text message to all their customers whose insurance policies for their vehicles have expired, or with 30 days or less until their expiration. "
+    },
+    {
+        "Question": "For non-linked Protection and Savings programs, what information about past performance must be made clear to the customer?",
+        "1": "That past performance is a good indicator of future performance",
+        "2": "That past performance data is confidential",
+        "3": "That past performance guarantees future returns",
+        "4": "That past performance is not indicative of future performance",
+        "correct": "4",
+        "reason": "It should be made clear to the customer that past performance is not indicative of future performance and does not necessarily guarantee future returns. "
+    },
+    {
+        "Question": "What does the pricing requirement for authorized companies entail?",
+        "1": "Use unapproved rates",
+        "2": "Set arbitrary prices",
+        "3": "Exclude fees",
+        "4": "Use SAMA-approved pricing",
+        "correct": "4",
+        "reason": "They must use pricing approved by SAMA during product approval."
+    },
+    {
+        "Question": "Which of the following is covered by public liability insurance?",
+        "1": "Accidental bodily injury to third parties",
+        "2": "Vehicle damage",
+        "3": "Natural disasters",
+        "4": "Employee theft",
+        "correct": "1",
+        "reason": "It covers legal liability for accidental injury or damage to third parties."
+    },
+    {
+        "Question": "If a customer requests their personal data, what must the authorized company do?",
+        "1": "Provide the data to the customer upon written request",
+        "2": "Charge a fee for accessing the data",
+        "3": "Explain that the data is confidential",
+        "4": "Ask for a reason for the request",
+        "correct": "1",
+        "reason": "[Data] Shall be given to the customer when he submits a request in writing to do so. "
+    },
+    {
+        "Question": "Which of the following is a feature of fidelity insurance?",
+        "1": "Covers employee fraud",
+        "2": "Covers third-party liability",
+        "3": "Covers vehicle damage",
+        "4": "Covers natural disasters",
+        "correct": "1",
+        "reason": "It covers financial losses from employee fraud or dishonesty."
+    },
+    {
+        "Question": "In the example of a leased vehicle worth SAR 200,000, what is the premium after a 30% discount in year one?",
+        "1": "5,600 SR",
+        "2": "4,200 SR",
+        "3": "8,000 SR",
+        "4": "6,400 SR",
+        "correct": "1",
+        "reason": "The basic premium is 8,000 SR, with a 30% discount (2,400 SR), resulting in 5,600 SR."
+    },
+    {
+        "Question": "What does Protection and Saving Insurance provide?",
+        "1": "A lump sum payment only upon death",
+        "2": "Coverage for medical expenses",
+        "3": "Payment on a future date or in case of death/disability, in return for monthly premiums",
+        "4": "A stream of income during retirement",
+        "correct": "3",
+        "reason": "The insurance company pay an amount/s, including the proceeds of savings on a future date, in return for payment of the monthly premiums agreed upon in the contract. "
+    },
+    {
+        "Question": "What does 'Money Insurance' typically cover?",
+        "1": "Loss of money, remittances, and securities while on the job site or in transit",
+        "2": "Devaluation of currency",
+        "3": "The cost of printing new currency",
+        "4": "Loss of projected profits",
+        "correct": "1",
+        "reason": "This policy covers the loss of money, remittances, checks, securities, etc. while on the job site or institution... or while in transit. "
+    },
+    {
+        "Question": "'Airport Owners and Operators Liability Insurance' protects against liability to whom?",
+        "1": "Airport employees",
+        "2": "Third parties such as passengers and airline companies",
+        "3": "Aircraft manufacturers",
+        "4": "Government regulators",
+        "correct": "2",
+        "reason": "A branch of aviation insurance provides full protection to aircraft owner... by compensating them for their legal liability to third parties such as passengers and airlines companies. "
+    },
+    {
+        "Question": "'Aquaculture insurance' was created to cover losses in what type of business?",
+        "1": "Poultry farms",
+        "2": "Crop farming",
+        "3": "Livestock farming",
+        "4": "Fish farms",
+        "correct": "4",
+        "reason": "The aquaculture insurance was approved for aquaculture projects, which covers losses resulting from the deaths of fish. "
+    },
+    {
+        "Question": "Upon receiving a complaint, within how many working days must an authorized company aim to settle it?",
+        "1": "5 working days",
+        "2": "20 working days",
+        "3": "10 working days",
+        "4": "15 working days",
+        "correct": "3",
+        "reason": "Settle claims promptly and fairly within (10) working days from receiving the complaint. "
+    },
+    {
+        "Question": "What is the main risk covered by 'Fidelity Insurance'?",
+        "1": "Natural disasters",
+        "2": "Failure of the business",
+        "3": "Financial losses incurred due to fraud or dishonesty by an employee",
+        "4": "Acts of terrorism",
+        "correct": "3",
+        "reason": "This type of insurance covers the financial losses that may be incurred by the insured as a result of any act of fraud or dishonesty committed by any employee in the course of his work with the insured. "
+    },
+    {
+        "Question": "Which of the following is covered by steam boilers insurance?",
+        "1": "Employee theft",
+        "2": "Office equipment",
+        "3": "Liability for surrounding property damage",
+        "4": "Natural disasters only",
+        "correct": "3",
+        "reason": "It covers liability for damage to surrounding property from boiler issues."
+    },
+    {
+        "Question": "What does 'Aviation Personal Accident Insurance' pay for?",
+        "1": "Injuries that an aircraft crewmember or passenger suffers as a result of an accident to the aircraft",
+        "2": "Lost baggage",
+        "3": "Damage to the aircraft",
+        "4": "Flight delays",
+        "correct": "1",
+        "reason": "This insurance pays for injuries that an aircraft crewmember or any of the passengers suffers... as a result of an accident to the insured aircraft. "
+    },
+    {
+        "Question": "What is the primary difference between 'Property insurance against all risks' and 'fire and allied perils' insurance?",
+        "1": "'Fire and allied perils' includes business interruption by default",
+        "2": "'All risks' covers only named perils",
+        "3": "'All risks' provides comprehensive coverage for industrial/commercial property against all risks not specifically excluded",
+        "4": "'Fire and allied perils' is more comprehensive",
+        "correct": "3",
+        "reason": "This policy provides comprehensive and integrated coverage for industrial units or commercial property, etc. against all risks except for what is specifically excluded under the policy. "
+    },
+    {
+        "Question": "Which of the following is a requirement for claims settlement?",
+        "1": "Provide clear claim forms",
+        "2": "Delay responses",
+        "3": "Deny all claims",
+        "4": "No customer notification",
+        "correct": "1",
+        "reason": "Companies must provide claim forms with clear instructions."
+    },
+    {
+        "Question": "What does a 'Credit Life insurance program' for corporate clients typically do?",
+        "1": "Pays the employee's salary in case of disability",
+        "2": "Covers the company's credit card debt",
+        "3": "Provides credit to the company for expansion",
+        "4": "Pays the remaining loan balance to a bank if the borrower dies or becomes permanently disabled",
+        "correct": "4",
+        "reason": "Under this program, the insurance company pays the remaining balance of the loan that has to be paid to the bank or credit company in case the borrower is exposed to death or permanent disability. "
+    },
+    {
+        "Question": "What does property insurance against all risks exclude?",
+        "1": "All risks",
+        "2": "Specifically excluded risks",
+        "3": "Natural disasters",
+        "4": "Fire damage",
+        "correct": "2",
+        "reason": "It covers all risks except those specifically excluded in the policy."
+    },
+    {
+        "Question": "What does machinery breakdown insurance cover?",
+        "1": "Theft only",
+        "2": "Natural disasters only",
+        "3": "Defects requiring repair or replacement",
+        "4": "Fire only",
+        "correct": "3",
+        "reason": "It covers unexpected damage to machines from defects, requiring repair or replacement."
+    }
+]
