@@ -59,9 +59,10 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top justify-content-between">
     <div class="container">
         <a class="navbar-brand" href="/ifce/index.html">IFCE Exam Prep</a>
+        <a class="navbar-brand">Timer: <span id="timer-text">1H : 20M : 00S</span></a>
     </div>
 </nav>
 
@@ -119,6 +120,11 @@
     //Assign default var
     let score = 0;
     let answered = 0;
+    let timeLeft = 30;
+    let timerInterval;
+    let ques_cnt = 20;
+
+    // Render Quiz
     show_quiz(url, qid, rand);
 </script>
 

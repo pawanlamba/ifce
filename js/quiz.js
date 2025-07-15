@@ -75,6 +75,9 @@ function handleAnswer(input, question, index) {
     document.getElementById('answered').textContent = answered;
     document.getElementById('score_percent').textContent = score_percent;
 
+    // if all questions are answered then clear the timer
+    if (answered >= ques_cnt) {clearInterval(timerInterval)};
+
     feedback.textContent = "Correct Answer: " + question.correct + ",Explanation: " + question.reason;
 };
 
@@ -156,7 +159,14 @@ function show_quiz(url, qid, rand) {
           console.log("False:",rand)
           questions = selectBatchElements(json, qid, 20);
           };
+          // render questions
+          quesCnt = questions.length
           renderQuiz(questions)
+
+          // set timer vars clear
+          clearInterval(timerInterval);
+          timeLeft = 72*ques_cnt + 30; // Allocate 72 seconds for each questions
+          startTimer()
         })
         .catch(err => {
           console.error("Error fetching or parsing JSON:", err);
@@ -165,4 +175,42 @@ function show_quiz(url, qid, rand) {
     } else {
       document.getElementById('ErrorBox').textContent = 'Missing JSON URL parameter.';
     }
+};
+
+// Start the timer
+function startTimer() {
+    timerInterval = setInterval(() => {
+        timeLeft--;
+        document.getElementById('timer-text').textContent = formatSecondsToHHMMSS(timeLeft);
+        //if (timeLeft <= -72*ques_cnt) {
+        //    clearInterval(timerInterval);
+        //}
+    }, 1000);
+};
+
+// Formatting Function
+function formatSecondsToHHMMSS(totalSeconds) {
+    const abs_sec = Math.abs(totalSeconds)
+    const hours = Math.floor(abs_sec / 3600);
+    const minutes = Math.floor((abs_sec % 3600) / 60);
+    const seconds = abs_sec % 60;
+
+    // Pad single-digit numbers with a leading zero
+    const paddedHours = String(hours).padStart(2, '0') + 'h';
+    const paddedMinutes = String(minutes).padStart(2, '0') + 'm';
+    const paddedSeconds = String(seconds).padStart(2, '0') + 's';
+
+    let time_str = ""
+    if (minutes>0 && paddedHours>0){
+        time_str =  `${paddedHours} : ${paddedMinutes} : ${paddedSeconds}`;
+    } else if (minutes>0){
+        time_str =  `${paddedMinutes} : ${paddedSeconds}`;
+    } else {
+        time_str =  `${paddedSeconds}`;
+    }
+
+    if (totalSeconds<0){
+        time_str = `${time_str} OverTime !!`;
+    }
+    return time_str
 };
