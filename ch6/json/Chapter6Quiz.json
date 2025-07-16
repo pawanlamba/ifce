@@ -1,0 +1,1802 @@
+[
+  {
+    "Question": "What is underwriting risk defined as?",
+    "1": "The risk associated with the assessment process of the risk presented to insurance companies for approval.",
+    "2": "The risk associated with the claims settlement process.",
+    "3": "The risk associated with the investment of premiums.",
+    "4": "The risk associated with the marketing of insurance products.",
+    "correct": "1",
+    "reason": "Underwriting risk is the risk linked to the evaluation process of risks that are submitted to insurance companies for their approval. "
+  },
+  {
+    "Question": "Terminating a policy at an early stage in the event of a loss and giving the refund check to a third party is an indicator of what?",
+    "1": "A potential money laundering scheme.",
+    "2": "Poor customer service by the insurance company.",
+    "3": "A misunderstanding of the policy terms.",
+    "4": "A change in the insured's financial needs.",
+    "correct": "1",
+    "reason": "An early policy termination following a loss, where the refund is directed to a third party, is flagged as a potential indicator of money laundering. "
+  },
+  {
+    "Question": "How can insurance companies mitigate credit risk?",
+    "1": "Avoid reinsuring policies",
+    "2": "Request collateral and enforce strict payment schedules",
+    "3": "Lower premiums for all clients",
+    "4": "Increase underwriting scrutiny",
+    "correct": "2",
+    "reason": "The document suggests collateral and strict payment schedules as effective measures."
+  },
+  {
+    "Question": "What is SAMA\u00e2\u20ac\u2122s role in fighting insurance fraud?",
+    "1": "Settling claims",
+    "2": "Setting premium rates",
+    "3": "Developing anti-fraud regulations",
+    "4": "Underwriting policies",
+    "correct": "3",
+    "reason": "SAMA develops regulations to combat insurance fraud."
+  },
+  {
+    "Question": "Why is there a shortage of qualified staff in KSA insurance?",
+    "1": "High training availability",
+    "2": "Excessive job opportunities",
+    "3": "Limited insurance education programs",
+    "4": "Strong regulatory support",
+    "correct": "3",
+    "reason": "Limited education programs contribute to the shortage."
+  },
+  {
+    "Question": "How might service providers inflate costs?",
+    "1": "Overbilling for unperformed services",
+    "2": "Underbilling",
+    "3": "Reducing fees",
+    "4": "Prompt service",
+    "correct": "1",
+    "reason": "Overbilling for services not rendered is a common fraud tactic."
+  },
+  {
+    "Question": "An insurance company's reputation can be affected by the actions of whom?",
+    "1": "Only its own employees.",
+    "2": "Only the media.",
+    "3": "Itself, its customers, and third-party administrators.",
+    "4": "Only its competitors.",
+    "correct": "3",
+    "reason": "Reputation risk can be influenced by the company's own actions (like late payments) and the services of those it contracts with, such as third-party administrators. "
+  },
+  {
+    "Question": "What is internal fraud in an insurance company?",
+    "1": "Fraud committed by the chairman, a manager, or an employee, potentially in conspiracy with others.",
+    "2": "Fraud committed by policyholders against the company.",
+    "3": "Fraud committed by government regulators.",
+    "4": "Fraud committed by external service providers like auto repair shops.",
+    "correct": "1",
+    "reason": "Internal fraud is when individuals within the company, such as board members, managers, or employees, defraud the company, sometimes with external accomplices. "
+  },
+  {
+    "Question": "Which of the following is a type of insurance fraud?",
+    "1": "Filing false claims",
+    "2": "Miscalculating premiums",
+    "3": "Rejecting valid claims",
+    "4": "Submitting incomplete applications",
+    "correct": "1",
+    "reason": "The document lists filing false claims as a common type of fraud."
+  },
+  {
+    "Question": "Which types of insurance are noted as exceptions to the view that insurance is a non-priority product?",
+    "1": "Homeowners' insurance and life insurance.",
+    "2": "Professional indemnity insurance and engineering insurance.",
+    "3": "Travel insurance and marine insurance.",
+    "4": "Third-party liability motor insurance and medical insurance.",
+    "correct": "4",
+    "reason": "Mandatory products like third-party motor insurance and medical insurance are exceptions to the general perception of insurance as non-essential. "
+  },
+  {
+    "Question": "Internal fraud is more likely to occur in insurance companies with what kind of policies?",
+    "1": "Policies that promote teamwork and collaboration.",
+    "2": "Policies that are determined by an independent committee.",
+    "3": "Transparent and fair reward and promotion policies.",
+    "4": "Reward and promotion policies where an employee's status and salary depend on achieving certain objectives.",
+    "correct": "4",
+    "reason": "The motivation for fraud can be higher if an employee's compensation and career progression are tied to the achievement of specific, often financial, targets. "
+  },
+  {
+    "Question": "A sudden change in the lifestyle or sudden wealth of an employee can be an indicator of what?",
+    "1": "A wise investment outside of work.",
+    "2": "Internal fraud.",
+    "3": "A recent promotion or salary increase.",
+    "4": "A family inheritance.",
+    "correct": "2",
+    "reason": "Sudden wealth or a lifestyle that appears to be above an employee's income level are considered traditional indicators of internal fraud. "
+  },
+  {
+    "Question": "What is medical identity fraud?",
+    "1": "The use of another person\u2019s identity to benefit from health care.",
+    "2": "A patient pretending to have a medical condition.",
+    "3": "An insurance company using a patient's identity without permission.",
+    "4": "A doctor using a fake identity to practice medicine.",
+    "correct": "1",
+    "reason": "Medical identity fraud is defined as using someone else's identity to obtain healthcare benefits. "
+  },
+  {
+    "Question": "Which fraud type involves company employees?",
+    "1": "Policyholder fraud",
+    "2": "Broker fraud",
+    "3": "Service provider fraud",
+    "4": "Internal fraud",
+    "correct": "4",
+    "reason": "Internal fraud involves fraudulent acts by company employees."
+  },
+  {
+    "Question": "What should a company do when facing pricing risk?",
+    "1": "Lower prices to attract more customers.",
+    "2": "Engage actuarial experts in product pricing.",
+    "3": "Focus solely on business losses when setting prices.",
+    "4": "Ignore potential risks to keep prices low.",
+    "correct": "2",
+    "reason": "To mitigate pricing risk, it is essential to involve actuarial experts in the process of setting product prices. "
+  },
+  {
+    "Question": "What is solvency risk in insurance?",
+    "1": "The risk of excessive profits",
+    "2": "The risk of regulatory non-compliance",
+    "3": "The risk of not meeting financial obligations",
+    "4": "The risk of overfunding reserves",
+    "correct": "3",
+    "reason": "Solvency risk is the risk that an insurance company cannot meet its financial obligations."
+  },
+  {
+    "Question": "What is one of the 'moral losses' that can occur within a company due to fraud?",
+    "1": "The need to invest in new security systems.",
+    "2": "Doubt and blame directed at employees, affecting loyalty and productivity.",
+    "3": "The cost of hiring additional auditors.",
+    "4": "A decrease in the company's stock price.",
+    "correct": "2",
+    "reason": "Internal fraud can lead to moral losses, such as suspicion and blame among employees, which negatively impacts their loyalty, ambition, psychological well-being, and ultimately, their productivity. "
+  },
+  {
+    "Question": "What economic factor can worsen credit risk?",
+    "1": "Adverse economic conditions",
+    "2": "Stable conditions",
+    "3": "High insurance awareness",
+    "4": "Simplified regulations",
+    "correct": "1",
+    "reason": "Adverse economic conditions can impair parties\u00e2\u20ac\u2122 ability to meet obligations."
+  },
+  {
+    "Question": "What links underwriting and reinsurance risks?",
+    "1": "Staff training",
+    "2": "Risk assessment accuracy",
+    "3": "Premium pricing",
+    "4": "Customer trust",
+    "correct": "2",
+    "reason": "Both depend on accurately assessing risks."
+  },
+  {
+    "Question": "What connects fraud and money laundering?",
+    "1": "Claims processing",
+    "2": "Premium pricing",
+    "3": "Staff training",
+    "4": "Intentional deception",
+    "correct": "4",
+    "reason": "Both involve intentional deception for illicit gain."
+  },
+  {
+    "Question": "What are the three stages of money laundering?",
+    "1": "Collection, Distribution, and Integration.",
+    "2": "Hiding, Moving, and Spending.",
+    "3": "Placement, Investment, and Spending.",
+    "4": "Placement, Layering, and Integration.",
+    "correct": "4",
+    "reason": "The process of money laundering is universally recognized as occurring in three stages: placement, layering, and integration. "
+  },
+  {
+    "Question": "What is a source of non-compliance risk?",
+    "1": "Violating corporate rules",
+    "2": "High profits",
+    "3": "Following regulations",
+    "4": "Staff training",
+    "correct": "1",
+    "reason": "Violating rules, regulatory or corporate, causes non-compliance risk."
+  },
+  {
+    "Question": "What is the term for using another person's identity to receive healthcare?",
+    "1": "Vaccinations Fraud",
+    "2": "Medical Identity Fraud",
+    "3": "Medical Transference",
+    "4": "Billing Fraud",
+    "correct": "2",
+    "reason": "Medical identity fraud is explicitly defined as using another person's identity to benefit from health care services. "
+  },
+  {
+    "Question": "What is a key responsibility of SAMA regarding the training of insurance personnel?",
+    "1": "It mandates a minimum number of training hours for each employee.",
+    "2": "It provides all the training directly through its own programs.",
+    "3": "It requires insurance companies to set out a training and qualification plan in their annual plans.",
+    "4": "It has no role in the training of insurance company employees.",
+    "correct": "3",
+    "reason": "The Saudi Central Bank (SAMA) mandates that insurance and insurance services companies must include a training and qualification plan in their annual strategies to enhance the skill level of employees in the sector. "
+  },
+  {
+    "Question": "What must a company do when facing pricing risk regarding its business performance?",
+    "1": "Set prices without considering potential losses.",
+    "2": "Evaluate profits and business losses to determine the effects of adjusting the premium rate.",
+    "3": "Ignore profits and focus on market share.",
+    "4": "Only engage actuarial experts if there is a significant loss.",
+    "correct": "2",
+    "reason": "When facing pricing risk, a company must evaluate its profits and losses to understand how adjusting the premium rate will affect its financial results. "
+  },
+  {
+    "Question": "What is a sign of internal fraud?",
+    "1": "Regular audits",
+    "2": "Simplified policies",
+    "3": "Unexplained wealth of staff",
+    "4": "High customer trust",
+    "correct": "3",
+    "reason": "Unexplained staff wealth is a traditional indicator of internal fraud."
+  },
+  {
+    "Question": "What does credit risk in insurance involve?",
+    "1": "The risk of inaccurate premium pricing",
+    "2": "The risk of other parties failing to meet obligations",
+    "3": "The risk of over-insuring clients",
+    "4": "The risk of rejecting valid claims",
+    "correct": "2",
+    "reason": "Credit risk arises when other parties, like reinsurers or insureds, fail to meet obligations."
+  },
+  {
+    "Question": "What should an insurance company do to address pricing risk?",
+    "1": "Consider all potential risks and engage actuarial experts",
+    "2": "Base premiums solely on competitors\u00e2\u20ac\u2122 rates",
+    "3": "Avoid pricing new products",
+    "4": "Use only historical data",
+    "correct": "1",
+    "reason": "The document recommends considering all risks and using actuarial expertise for accurate pricing."
+  },
+  {
+    "Question": "How does reputation risk impact insurance companies?",
+    "1": "Increases policy sales",
+    "2": "Reduces operational costs",
+    "3": "Simplifies compliance",
+    "4": "Harms ability to maintain relationships",
+    "correct": "4",
+    "reason": "Negative reputation hinders maintaining or establishing business relationships."
+  },
+  {
+    "Question": "What happens if a reinsurer fails?",
+    "1": "Policyholders lose coverage",
+    "2": "Insurers are exempt from obligations",
+    "3": "Insurers remain liable for obligations",
+    "4": "Premiums are refunded",
+    "correct": "3",
+    "reason": "The document states that insurers remain liable even if reinsurers fail."
+  },
+  {
+    "Question": "Under the anti-money laundering law, is financing terrorism a crime even if the funds used were legitimate?",
+    "1": "Yes, it is considered a money-laundering crime regardless of the origin of the funds.",
+    "2": "No, it is only a crime if the funds were obtained illegally.",
+    "3": "It is a civil offense, not a criminal one.",
+    "4": "The law is unclear on this point.",
+    "correct": "1",
+    "reason": "The anti-money laundering law stipulates that financing terrorism is a money-laundering offense, even if the funds used were from legitimate sources. "
+  },
+  {
+    "Question": "How can policyholder fraud occur?",
+    "1": "Only during underwriting",
+    "2": "At policy inception or claim stage",
+    "3": "Only at renewal",
+    "4": "Only through brokers",
+    "correct": "2",
+    "reason": "The document states fraud can occur at inception or during claims."
+  },
+  {
+    "Question": "What is a key defense against Information Technology (IT) risk?",
+    "1": "Restricting internet access for all employees.",
+    "2": "Using only proprietary software developed in-house.",
+    "3": "Updating computer hardware every six months.",
+    "4": "Implementing a modern anti-virus system on all company devices.",
+    "correct": "4",
+    "reason": "A critical measure to manage IT risk is to install and maintain a modern anti-virus system across all of the company's devices. "
+  },
+  {
+    "Question": "Which obstacle most affects solvency?",
+    "1": "Low awareness",
+    "2": "Fraud",
+    "3": "Reinsurer failure",
+    "4": "Lack of staff",
+    "correct": "3",
+    "reason": "Reinsurer failure directly threatens solvency."
+  },
+  {
+    "Question": "What is terrorism financing risk?",
+    "1": "Rejecting policies",
+    "2": "Funding illegal acts through insurance",
+    "3": "Low premiums",
+    "4": "Overfunding claims",
+    "correct": "2",
+    "reason": "Terrorism financing involves using insurance to fund illegal acts."
+  },
+  {
+    "Question": "What is a typical behavioral indicator of fraud by a policyholder?",
+    "1": "The claimant demonstrates in-depth knowledge of insurance terms and claims procedures.",
+    "2": "The claimant provides all communication in writing.",
+    "3": "The claimant is very cooperative and provides consistent statements.",
+    "4": "The claimant is patient about the settlement process.",
+    "correct": "1",
+    "reason": "A claimant showing an unusually deep understanding of insurance terminology and claim processes can be an indicator of potential fraud. "
+  },
+  {
+    "Question": "Which risk requires cross-industry collaboration?",
+    "1": "IT risk",
+    "2": "Reinsurance risk",
+    "3": "Claims risk",
+    "4": "Money laundering",
+    "correct": "4",
+    "reason": "Money laundering requires collaboration across financial sectors."
+  },
+  {
+    "Question": "What is secondary fraud in insurance?",
+    "1": "Staging a large-scale, complex accident involving multiple parties.",
+    "2": "An honest person making a small lie to maximize their dues from the insurance company.",
+    "3": "An underwriter accepting a bribe to approve a risky policy.",
+    "4": "Creating a fake insurance policy.",
+    "correct": "2",
+    "reason": "Secondary fraud occurs when a generally honest individual tells minor falsehoods to inflate a legitimate claim for undue financial gain. "
+  },
+  {
+    "Question": "How might changes in country risk affect insurers?",
+    "1": "Simplify underwriting",
+    "2": "Guarantee higher profits",
+    "3": "Reduce fraud rates",
+    "4": "Impact investment climate and profitability",
+    "correct": "4",
+    "reason": "The document notes that such changes affect the investment climate and profitability."
+  },
+  {
+    "Question": "What is a method money launderers use to make large amounts of cash less suspicious?",
+    "1": "Splitting large amounts into smaller amounts to deposit or purchase items.",
+    "2": "Purchasing a single, very expensive asset with the cash.",
+    "3": "Exchanging the cash for foreign currency all at once.",
+    "4": "Depositing the entire amount in a single transaction.",
+    "correct": "4",
+    "reason": "A common money laundering technique is 'retailing' or 'smurfing', which involves breaking down large sums of money into smaller, less conspicuous amounts for deposits or purchases. "
+  },
+  {
+    "Question": "Which risk requires the most regulatory oversight?",
+    "1": "Solvency",
+    "2": "IT risk",
+    "3": "Reputation",
+    "4": "Product development",
+    "correct": "1",
+    "reason": "Solvency requires extensive oversight to protect the market."
+  },
+  {
+    "Question": "What is reputation risk for an insurance company?",
+    "1": "The risk of receiving positive reviews from the public.",
+    "2": "The risk of the company's reputation being too strong, leading to overconfidence.",
+    "3": "The risk that competitors will try to copy the company's business model.",
+    "4": "The risk resulting from negative public reviews, which can limit the company's ability to do business.",
+    "correct": "4",
+    "reason": "Reputation risk arises from negative public or competitor perception that hinders the company's ability to form new relationships or maintain existing ones. "
+  },
+  {
+    "Question": "In the context of KSA, what is the contribution of insurance to the GDP?",
+    "1": "Less than 1%",
+    "2": "Over 5%",
+    "3": "1.48%",
+    "4": "Approximately 10%",
+    "correct": "3",
+    "reason": "In the Kingdom of Saudi Arabia, the insurance sector contributes 1.48% to the Gross Domestic Product (GDP). "
+  },
+  {
+    "Question": "What is an economic impact of fraud?",
+    "1": "Higher operational costs",
+    "2": "Reduced regulations",
+    "3": "Lower premiums",
+    "4": "Increased profits",
+    "correct": "1",
+    "reason": "Fraud raises operational costs, affecting insurers economically."
+  },
+  {
+    "Question": "Why might claims settlement risk increase?",
+    "1": "Accurate liability estimates",
+    "2": "Reduced policy sales",
+    "3": "Improved IT systems",
+    "4": "Unexpectedly high claim volumes",
+    "correct": "4",
+    "reason": "High claim volumes exceeding estimates increase this risk."
+  },
+  {
+    "Question": "What is an example of policyholder fraud?",
+    "1": "Paying premiums on time",
+    "2": "Submitting claims with fabricated losses",
+    "3": "Requesting policy clarifications",
+    "4": "Renewing policies early",
+    "correct": "2",
+    "reason": "Policyholder fraud includes submitting claims with fabricated losses."
+  },
+  {
+    "Question": "What is a major negative effect of fraud on insurance companies?",
+    "1": "It forces them to improve their customer service.",
+    "2": "It reduces the amount of time spent on administrative tasks.",
+    "3": "It encourages them to develop new and innovative products.",
+    "4": "It leads to huge financial losses due to payments for non-existent or exaggerated claims.",
+    "correct": "4",
+    "reason": "Insurance companies suffer significant financial losses from paying indemnities for fraudulent claims on accidents that were not real or genuine. "
+  },
+  {
+    "Question": "Defrauding insurance companies is considered an obstacle that impedes the progress of what?",
+    "1": "The construction industry.",
+    "2": "The banking industry.",
+    "3": "The cooperative insurance industry.",
+    "4": "The technology sector.",
+    "correct": "3",
+    "reason": "Fraud is viewed as one of the obstacles that hinder the advancement of the cooperative insurance industry. "
+  },
+  {
+    "Question": "What is the primary purpose of the 'layering' stage in money laundering?",
+    "1": "To physically move the cash across borders.",
+    "2": "To invest the funds in the stock market.",
+    "3": "To obscure the audit trail and make it difficult to trace the funds.",
+    "4": "To make the illegal funds appear legitimate.",
+    "correct": "3",
+    "reason": "The layering stage involves complex transactions with the aim of misleading auditors and making the process of tracking the funds difficult for administrators. "
+  },
+  {
+    "Question": "A broker having a high number of policies with early cancellations could be an indicator of what?",
+    "1": "A competitive market.",
+    "2": "Effective sales techniques.",
+    "3": "High customer satisfaction.",
+    "4": "Fraud.",
+    "correct": "4",
+    "reason": "A high level of early policy cancellations within a broker's portfolio is listed as a typical indicator of fraud. "
+  },
+  {
+    "Question": "How should insurance companies manage underwriting risk?",
+    "1": "Reduce the number of underwriters",
+    "2": "Avoid underwriting entirely",
+    "3": "Ensure clear policy articulation and complete applications",
+    "4": "Increase premiums randomly",
+    "correct": "3",
+    "reason": "Clear policies and complete applications ensure accurate risk assessment, mitigating underwriting risk."
+  },
+  {
+    "Question": "What is a major factor currently affecting insurance risk, especially in motor and medical claims?",
+    "1": "A decrease in the frequency of claims.",
+    "2": "A stable and predictable claims environment.",
+    "3": "The exceptional competitive nature of the market and the increased frequency and severity of claims.",
+    "4": "A decline in the cost of claim settlements.",
+    "correct": "3",
+    "reason": "The insurance risk is influenced by intense market competition and a rise in both the number and cost of claims, particularly for motor and medical insurance. "
+  },
+  {
+    "Question": "What is one reason for the lack of insurance awareness and education in Saudi society?",
+    "1": "Insurance products are viewed as a top priority for all citizens.",
+    "2": "The novelty of the insurance industry in its regular form.",
+    "3": "The media focuses exclusively on the positive aspects of the industry.",
+    "4": "Educational institutions are actively promoting the benefits of insurance.",
+    "correct": "2",
+    "reason": "The regulated insurance industry is relatively new in Saudi Arabia, having started around 2004, which contributes to the lack of awareness. "
+  },
+  {
+    "Question": "What happens during the 'Placement' stage of money laundering?",
+    "1": "The source of the funds is disguised through complex transactions.",
+    "2": "The actual entry of illegally obtained money into financial institutions.",
+    "3": "The money is used to finance terrorist activities.",
+    "4": "The money is integrated into the legitimate financial system.",
+    "correct": "2",
+    "reason": "Placement is the initial stage where illicit funds are physically introduced into financial and non-financial institutions. "
+  },
+  {
+    "Question": "What does underwriting risk refer to?",
+    "1": "The risk associated with assessing risks presented for insurance",
+    "2": "The risk of not underwriting policies",
+    "3": "The risk of underwriting too many policies",
+    "4": "The risk of underwriting without documentation",
+    "correct": "1",
+    "reason": "Underwriting risk is defined as the risk tied to the assessment process of risks for insurance coverage."
+  },
+  {
+    "Question": "How does fraud negatively affect insurance companies?",
+    "1": "Raises operational costs and premiums",
+    "2": "Increases customer trust",
+    "3": "Improves market reputation",
+    "4": "Reduces regulatory oversight",
+    "correct": "1",
+    "reason": "Fraud increases costs and premiums, harming insurers."
+  },
+  {
+    "Question": "According to the text, what is the primary concern with new products?",
+    "1": "That they are too expensive for the target market.",
+    "2": "That they are not different enough from existing products.",
+    "3": "That they are put on the market without proper testing.",
+    "4": "That the marketing campaign will be ineffective.",
+    "correct": "3",
+    "reason": "The risk is in new products put on the market without testing, whereas development focuses on improving an existing product. "
+  },
+  {
+    "Question": "What is a measure to prevent insurance fraud?",
+    "1": "Increase premium rates",
+    "2": "Reduce claim reviews",
+    "3": "Limit policy offerings",
+    "4": "Implement fraud detection systems",
+    "correct": "4",
+    "reason": "The document highlights fraud detection systems as a key prevention measure."
+  },
+  {
+    "Question": "What links solvency and credit risk?",
+    "1": "Customer trust",
+    "2": "Ability to meet obligations",
+    "3": "Staff training",
+    "4": "Premium pricing",
+    "correct": "2",
+    "reason": "Both involve ensuring obligations can be met, linking solvency and credit."
+  },
+  {
+    "Question": "What is a combined effect of fraud and non-compliance?",
+    "1": "Simplified processes",
+    "2": "Regulatory penalties and higher costs",
+    "3": "Lower costs",
+    "4": "Increased sales",
+    "correct": "2",
+    "reason": "Both lead to penalties and increased operational costs."
+  },
+  {
+    "Question": "Which is a traditional indicator of internal fraud?",
+    "1": "Improved customer feedback",
+    "2": "High employee turnover",
+    "3": "Increased policy sales",
+    "4": "Unusual financial transactions",
+    "correct": "4",
+    "reason": "Unusual financial transactions are listed as a key indicator of internal fraud."
+  },
+  {
+    "Question": "How might insurance brokers commit fraud?",
+    "1": "Providing accurate policy advice",
+    "2": "Offering competitive premiums",
+    "3": "Misrepresenting policy terms for profit",
+    "4": "Assisting with claim submissions",
+    "correct": "3",
+    "reason": "Brokers may misrepresent terms to gain illicit profits."
+  },
+  {
+    "Question": "What might indicate broker fraud?",
+    "1": "Customer loyalty",
+    "2": "Unusual payment requests",
+    "3": "Accurate advice",
+    "4": "High policy sales",
+    "correct": "2",
+    "reason": "Unusual payment requests can signal broker fraud."
+  },
+  {
+    "Question": "What is a necessary measure to counter IT risk related to data?",
+    "1": "Allow open access to all data for all employees.",
+    "2": "Save backup copies of all company information.",
+    "3": "Store all data on a single, centralized server.",
+    "4": "Delete old data to free up space.",
+    "correct": "2",
+    "reason": "Keeping backup copies of all company information is a crucial step in managing information technology risk. "
+  },
+  {
+    "Question": "The novelty of the insurance industry in KSA is cited as a reason for both a lack of qualified personnel and what other obstacle?",
+    "1": "Lack of competition.",
+    "2": "Excessive fraud.",
+    "3": "High reinsurance costs.",
+    "4": "Lack of insurance awareness and education.",
+    "correct": "4",
+    "reason": "The recent establishment of the formal insurance industry in the KSA is given as a reason for both the shortage of skilled workers and the low level of public insurance awareness. "
+  },
+  {
+    "Question": "How do pricing and claims risks interact?",
+    "1": "Staff shortages",
+    "2": "High premiums reduce claims",
+    "3": "Inaccurate pricing increases claims risk",
+    "4": "IT failures",
+    "correct": "3",
+    "reason": "Inaccurate pricing can lead to insufficient funds for claims."
+  },
+  {
+    "Question": "What is the risk of negative public perception limiting a company's ability to operate and grow?",
+    "1": "Non-compliance Risk",
+    "2": "Changes in Country Risk",
+    "3": "Reputation Risk",
+    "4": "Credit Risk",
+    "correct": "3",
+    "reason": "Reputation risk is defined as the risk from negative public or competitor reviews that limits a company's ability to establish new relationships or continue serving existing clients. "
+  },
+  {
+    "Question": "What is an example of fraud by a healthcare provider?",
+    "1": "Providing necessary medical services and billing for them accurately.",
+    "2": "Using generic drugs instead of brand-name drugs to save costs.",
+    "3": "Inflating a bill by knowingly providing incorrect numbers or distorting facts.",
+    "4": "Referring a patient to a specialist for a second opinion.",
+    "correct": "3",
+    "reason": "A healthcare provider commits fraud by deliberately inflating bills with incorrect information or misrepresenting the services provided. "
+  },
+  {
+    "Question": "What is a long-term impact of low KSA insurance awareness?",
+    "1": "Higher fraud rates",
+    "2": "Increased profits",
+    "3": "Simplified products",
+    "4": "Reduced market growth",
+    "correct": "4",
+    "reason": "Low awareness limits market expansion and growth."
+  },
+  {
+    "Question": "Who does the International Association of Insurance Supervisors note as potential fraudsters?",
+    "1": "Internal parties, policyholders, brokers, and supplementary service providers.",
+    "2": "Only internal employees and managers.",
+    "3": "Only competitors and government officials.",
+    "4": "Only policyholders and external claimants.",
+    "correct": "1",
+    "reason": "The International Association of Insurance Supervisors identifies several groups as potential fraudsters, including internal staff, policyholders, insurance brokers, and providers of supplementary services. "
+  },
+  {
+    "Question": "What must an insurance company do if it suspects a transaction is related to terrorism financing?",
+    "1": "Notify the Financial Investigation Unit.",
+    "2": "Conduct its own private investigation.",
+    "3": "Ignore the suspicion unless there is concrete proof.",
+    "4": "Refuse the transaction and inform the client of the suspicion.",
+    "correct": "1",
+    "reason": "The anti-money laundering law and its regulations oblige financial institutions to notify the Financial Investigation Unit if they suspect a person or institution is involved in funding unlawful purposes. "
+  },
+  {
+    "Question": "According to the text, what is a reason for the lack of qualified human resources in the KSA insurance industry?",
+    "1": "The industry being seen as low-risk and therefore less challenging.",
+    "2": "A social preference for working in the private sector.",
+    "3": "Lack of specialized training centers in the insurance industry.",
+    "4": "Too much competition from other industries.",
+    "correct": "3",
+    "reason": "The document cites a lack of specialized training centers for the insurance industry as a reason for the shortage of qualified personnel. "
+  },
+  {
+    "Question": "What type of internal fraud is described as particularly costly and difficult to detect?",
+    "1": "Theft of office equipment.",
+    "2": "Claiming overtime for hours not worked.",
+    "3": "Falsifying expense reports for small amounts.",
+    "4": "Employees engaging in bribery and conspiracy with third parties.",
+    "correct": "4",
+    "reason": "Commercial bribery, often involving conspiracies between employees and third parties, is typically more costly and harder to detect than other types of fraud. "
+  },
+  {
+    "Question": "What is credit risk for an insurance company?",
+    "1": "The risk of not having enough credit to cover its own operational costs.",
+    "2": "The risk associated with the inability of another party, such as the insured, to meet its obligations.",
+    "3": "The risk that the company's credit rating will be downgraded.",
+    "4": "The risk of extending too much credit to its employees.",
+    "correct": "2",
+    "reason": "Credit risk is the danger that a counterparty, like a policyholder, will fail to fulfill their financial commitments. "
+  },
+  {
+    "Question": "What does terrorism financing mean?",
+    "1": "Financing any type of illegal activity.",
+    "2": "Investing in countries that are known to harbor terrorists.",
+    "3": "Providing financial services to individuals from certain countries.",
+    "4": "Financing terrorism operations, terrorists, and terrorist organizations.",
+    "correct": "4",
+    "reason": "Terrorism financing is defined as providing funds for terrorism operations, terrorists, and terrorist organizations. "
+  },
+  {
+    "Question": "What is an example of fraud that can be committed by insurance brokers?",
+    "1": "The broker encourages clients to pay premiums directly to the insurance company.",
+    "2": "The broker works within the policyholder's geographical area.",
+    "3": "The broker experiences an exceptional increase in production for no apparent reason.",
+    "4": "The broker has a portfolio with a low claims ratio.",
+    "correct": "3",
+    "reason": "An unexplained and exceptional surge in a broker's production can be an indicator of fraudulent activity. "
+  },
+  {
+    "Question": "What system helps prevent money laundering?",
+    "1": "Fewer policies",
+    "2": "Higher premiums",
+    "3": "Reduced oversight",
+    "4": "Internal control systems",
+    "correct": "4",
+    "reason": "Internal control systems are critical to preventing money laundering."
+  },
+  {
+    "Question": "What must insurance companies do under SAMA\u00e2\u20ac\u2122s anti-fraud regulations?",
+    "1": "Limit insurance offerings",
+    "2": "Reduce staff training",
+    "3": "Report suspicious activities",
+    "4": "Increase policy prices",
+    "correct": "3",
+    "reason": "Companies are required to report suspicious activities to comply with SAMA."
+  },
+  {
+    "Question": "What type of fraud might a service provider commit?",
+    "1": "Submitting accurate repair bills",
+    "2": "Providing prompt services",
+    "3": "Reducing client costs",
+    "4": "Overbilling for services not rendered",
+    "correct": "4",
+    "reason": "Overbilling for unperformed services is a common service provider fraud."
+  },
+  {
+    "Question": "What does claims settlement risk involve?",
+    "1": "The risk of administrative errors in the claims process.",
+    "2": "The risk of fraudulent claims being submitted.",
+    "3": "The risk of not settling claims quickly enough.",
+    "4": "The risk that actual claims will exceed the carrying amount of the insurance liabilities.",
+    "correct": "4",
+    "reason": "This risk materializes when the actual claims payable to policyholders surpass the financial provisions set aside by the insurance company. "
+  },
+  {
+    "Question": "What does Information Technology (IT) risk in an insurance company entail?",
+    "1": "The risk occurring because of an error or failure to operate the business due to an error in information technology.",
+    "2": "The risk of employees misusing social media.",
+    "3": "The risk of the company's website being unavailable.",
+    "4": "The risk of not adopting the latest available technology.",
+    "correct": "1",
+    "reason": "IT risk is the potential for business operations to fail or be disrupted due to errors in the company's technical software and systems. "
+  },
+  {
+    "Question": "What is an example of a violation that constitutes non-compliance risk?",
+    "1": "Setting clear rules for dealing with the insured.",
+    "2": "Selling products that have not been approved by SAMA.",
+    "3": "Following all instructions governing insurance activities.",
+    "4": "Selling products that have been approved by SAMA.",
+    "correct": "2",
+    "reason": "A specific example of a violation leading to non-compliance risk is selling products that have not received approval from SAMA. "
+  },
+  {
+    "Question": "What conflict must companies balance when addressing fraud?",
+    "1": "The conflict between short-term profits and long-term sustainability.",
+    "2": "The requirements to reduce fraud and the drivers of the insurance sector's flourish and customer relationships.",
+    "3": "The conflict between employee morale and customer satisfaction.",
+    "4": "The conflict between regulatory requirements and shareholder expectations.",
+    "correct": "2",
+    "reason": "Companies need to strike a balance between goals for growth and customer satisfaction and the measures required to detect and reduce fraudulent activities. "
+  },
+  {
+    "Question": "How do country risk and reinsurance risk overlap?",
+    "1": "Simplified claims",
+    "2": "Economic instability affects both",
+    "3": "High premiums",
+    "4": "Staff shortages",
+    "correct": "2",
+    "reason": "Economic instability can impact both country and reinsurance risks."
+  },
+  {
+    "Question": "What is a recommended action to manage IT risk?",
+    "1": "Reduce IT system usage",
+    "2": "Limit technology investments",
+    "3": "Provide regular updates and trained staff",
+    "4": "Outsource all IT functions",
+    "correct": "3",
+    "reason": "Regular updates and trained staff help mitigate IT risks effectively."
+  },
+  {
+    "Question": "To manage underwriting risk, what must an insurance company ensure about its policies and phrases?",
+    "1": "They are written in complex legal language.",
+    "2": "They are attractive to the widest possible audience.",
+    "3": "They are clearly articulated, leaving no room for interpretation.",
+    "4": "They are flexible and open to interpretation.",
+    "correct": "3",
+    "reason": "A key measure to manage underwriting risk is to ensure that policies and phrases are clearly articulated to prevent any ambiguity. "
+  },
+  {
+    "Question": "The risk that arises from determining the appropriate premium rate is known as:",
+    "1": "Credit Risk",
+    "2": "Solvency Risk",
+    "3": "Pricing Risk",
+    "4": "Claims Settlement Risk",
+    "correct": "3",
+    "reason": "Pricing risk is specifically defined as the risk that comes from the company's process of trying to establish a suitable premium rate. "
+  },
+  {
+    "Question": "What is money-laundering risk in insurance?",
+    "1": "The risk of low premiums",
+    "2": "The risk of rejecting valid policies",
+    "3": "The risk of overpaying claims",
+    "4": "The risk of disguising illicit funds through insurance",
+    "correct": "4",
+    "reason": "Money-laundering risk involves using insurance to disguise illicit funds."
+  },
+  {
+    "Question": "How can insurance policies be used for money laundering?",
+    "1": "By paying premiums with legally earned money.",
+    "2": "By buying a policy and never filing a claim.",
+    "3": "By cancelling a policy shortly after purchase and receiving a 'clean' check from the insurance company.",
+    "4": "By choosing a policy with a low sum insured.",
+    "correct": "3",
+    "reason": "A money launderer can buy a policy with illicit funds, cancel it soon after, and receive the returned premium as a check from a legitimate insurance company. "
+  },
+  {
+    "Question": "What is reputation risk in insurance?",
+    "1": "The risk from negative public or competitor reviews",
+    "2": "The risk of overstaffing",
+    "3": "The risk of low premiums",
+    "4": "The risk of regulatory penalties",
+    "correct": "1",
+    "reason": "Reputation risk arises from negative reviews affecting relationships."
+  },
+  {
+    "Question": "Which of the following is NOT listed as a traditional indicator of internal fraud?",
+    "1": "Sudden wealth of board members, managers, or employees.",
+    "2": "Employees who take all their allocated vacation time.",
+    "3": "An individual or group conspiring to benefit from a financial operation.",
+    "4": "Weakness of the internal control structure.",
+    "correct": "2",
+    "reason": "The document lists managers or employees who do NOT want to take a vacation as a potential indicator of fraud, not those who do. "
+  },
+  {
+    "Question": "What does an insured requesting the purchase of a large part of an agreement in a lump sum, when they usually pay small regular payments, indicate?",
+    "1": "A potential indicator of money laundering.",
+    "2": "An attempt to get a discount on the premium.",
+    "3": "A normal transaction that does not require scrutiny.",
+    "4": "A sign of improved financial stability.",
+    "correct": "1",
+    "reason": "A customer requesting to buy a significant portion of an agreement with a single large payment, contrary to their usual pattern of small, regular payments, is an indicator of potential money laundering. "
+  },
+  {
+    "Question": "Which risk requires actuarial expertise in two areas?",
+    "1": "Solvency and credit",
+    "2": "Claims and IT",
+    "3": "Fraud and reputation",
+    "4": "Underwriting and pricing",
+    "correct": "4",
+    "reason": "Both underwriting and pricing rely heavily on actuarial expertise."
+  },
+  {
+    "Question": "What obstacle affects KSA insurance staffing?",
+    "1": "Simplified processes",
+    "2": "Lack of qualified personnel",
+    "3": "High awareness",
+    "4": "Excessive training",
+    "correct": "2",
+    "reason": "Lack of qualified personnel is a significant staffing obstacle."
+  },
+  {
+    "Question": "A policyholder owning several insurance policies for the same purpose and coverage is an indicator of what?",
+    "1": "Potential fraud.",
+    "2": "Prudent financial planning.",
+    "3": "A lack of understanding of insurance.",
+    "4": "A good relationship with their insurance broker.",
+    "correct": "1",
+    "reason": "Having multiple insurance policies for the identical purpose and with the same coverage is considered a typical indicator of potential fraud. "
+  },
+  {
+    "Question": "How can an insurance company mitigate credit risk?",
+    "1": "By implementing a strict schedule for paying dues of premiums.",
+    "2": "By increasing the credit limit for all customers.",
+    "3": "By avoiding any form of credit extension.",
+    "4": "By offering discounts for early premium payments.",
+    "correct": "1",
+    "reason": "Implementing a strict schedule for the payment of premiums is a method for managing credit risk. "
+  },
+  {
+    "Question": "Which behavior might indicate policyholder fraud?",
+    "1": "Frequent claims with vague details",
+    "2": "Timely claim submissions",
+    "3": "Regular policy updates",
+    "4": "Consistent premium payments",
+    "correct": "1",
+    "reason": "Frequent, vague claims are a characteristic of potential fraud."
+  },
+  {
+    "Question": "What is 'billing fraud' by a medical service provider?",
+    "1": "Knowingly providing incorrect bills for services not provided or for non-covered procedures.",
+    "2": "Offering a discount for prompt payment.",
+    "3": "Using a standardized billing code for all procedures.",
+    "4": "Billing for services that were provided as necessary.",
+    "correct": "1",
+    "reason": "Billing fraud occurs when a medical provider intentionally submits incorrect bills for services that were never rendered, or bills for non-covered cosmetic procedures as if they were a medical necessity. "
+  },
+  {
+    "Question": "What recent change has made reinsurers more reluctant to accept certain risks?",
+    "1": "A decrease in global financial crises.",
+    "2": "An increase in competition among reinsurance companies.",
+    "3": "Changes in some natural climate conditions such as floods.",
+    "4": "Stricter regulation of the reinsurance industry.",
+    "correct": "3",
+    "reason": "Changes in natural climate patterns, such as an increase in floods, have caused reinsurers to be more hesitant in accepting risks from some insurance companies. "
+  },
+  {
+    "Question": "Conspiracies that include the theft or charge of commissions from a supplier as a reward for awarding a contract are a form of what?",
+    "1": "Policyholder Fraud",
+    "2": "Internal Fraud (specifically, commercial bribery)",
+    "3": "Credit Risk",
+    "4": "Reinsurance Risk",
+    "correct": "2",
+    "reason": "This type of scheme, involving collusion between an employee and a supplier for kickbacks, is a form of commercial bribery, which falls under internal fraud. "
+  },
+  {
+    "Question": "What action helps manage solvency risk?",
+    "1": "Increase premium rates arbitrarily",
+    "2": "Reduce claim payouts",
+    "3": "Monitor capital adequacy and comply with regulations",
+    "4": "Expand product offerings rapidly",
+    "correct": "3",
+    "reason": "Monitoring capital and regulatory compliance helps maintain solvency."
+  },
+  {
+    "Question": "What is reinsurance risk?",
+    "1": "The risk that the reinsurance company will become a direct competitor.",
+    "2": "The risk that reinsurance premiums will be too high.",
+    "3": "The risk that the insurance company will not be able to find a reinsurer.",
+    "4": "The risk associated with transferring part of the risk to another company.",
+    "correct": "4",
+    "reason": "Reinsurance risk is the risk involved in the process of transferring a portion of an insurance company's risk to a reinsurance company. "
+  },
+  {
+    "Question": "How can claims settlement risk be managed?",
+    "1": "Review decisions to align with policy coverage",
+    "2": "Increase claim amounts arbitrarily",
+    "3": "Avoid settling large claims",
+    "4": "Delay all claim settlements",
+    "correct": "1",
+    "reason": "Reviewing decisions ensures claims align with policy terms, reducing this risk."
+  },
+  {
+    "Question": "How can fraud affect a company's reinsurance agreements?",
+    "1": "It has no impact on reinsurance agreements.",
+    "2": "It can lead to better terms as the company gains more experience with risk.",
+    "3": "The greater the losses due to fraud, the more difficult the reinsurance terms and the lesser the privileges.",
+    "4": "Reinsurers may offer discounts to companies that experience high levels of fraud.",
+    "correct": "3",
+    "reason": "Reinsurance agreements are based on a company's results; therefore, higher losses from fraud lead to more stringent terms and fewer benefits upon renewal. "
+  },
+  {
+    "Question": "To manage underwriting risk, a company should reinsure part of the risk ____ selling any product.",
+    "1": "after",
+    "2": "while",
+    "3": "before",
+    "4": "never",
+    "correct": "3",
+    "reason": "Reinsuring a part of the risk before selling a product is a measure to control overall risk and enhance risk tolerance. "
+  },
+  {
+    "Question": "What is a reason cited for the lack of qualified human resources in the KSA insurance industry?",
+    "1": "The novelty of the insurance industry in the Kingdom.",
+    "2": "Salaries in the insurance industry are not competitive.",
+    "3": "There are too many specialized training centers, causing confusion.",
+    "4": "The industry is too old and resistant to change.",
+    "correct": "1",
+    "reason": "The recent emergence of the regulated insurance industry in Saudi Arabia has resulted in a lack of accumulated experience among human resources. "
+  },
+  {
+    "Question": "What is a characteristic of fraudulent claims?",
+    "1": "Inconsistent injury details",
+    "2": "Clear documentation",
+    "3": "Low claim amounts",
+    "4": "Timely submission",
+    "correct": "1",
+    "reason": "Inconsistent details often indicate fraudulent claims."
+  },
+  {
+    "Question": "What role does the Saudi Central Bank (SAMA) play in fighting insurance fraud?",
+    "1": "SAMA offers rewards to whistleblowers who report insurance fraud.",
+    "2": "SAMA's role is limited to providing general advice to insurance companies.",
+    "3": "SAMA has developed an anti-fraud regulation with minimum standards for insurance companies.",
+    "4": "SAMA directly investigates all suspected cases of insurance fraud.",
+    "correct": "3",
+    "reason": "SAMA has established an anti-fraud regulation that sets out general principles and minimum standards for insurance and reinsurance companies to follow. "
+  },
+  {
+    "Question": "What is an indicator of money laundering in insurance?",
+    "1": "The insured pays premiums on a regular, scheduled basis.",
+    "2": "The insured purchases a policy with coverage that matches their needs.",
+    "3": "The insured provides all required information promptly.",
+    "4": "The insured transfers the benefit of a policy to a third party with no apparent connection.",
+    "correct": "4",
+    "reason": "An indicator of potential money laundering is when an insured person transfers the policy benefits to an unrelated third party. "
+  },
+  {
+    "Question": "What fraud type impacts reputation risk?",
+    "1": "Policyholder fraud",
+    "2": "Internal fraud",
+    "3": "All of the above",
+    "4": "Broker fraud",
+    "correct": "3",
+    "reason": "All fraud types can damage an insurer\u00e2\u20ac\u2122s reputation."
+  },
+  {
+    "Question": "What is a consequence of poor pricing risk management?",
+    "1": "Inadequate premium rates",
+    "2": "Excessive staff",
+    "3": "Simplified claims",
+    "4": "Overfunded reserves",
+    "correct": "1",
+    "reason": "Poor pricing risk management leads to premiums that don\u00e2\u20ac\u2122t cover risks."
+  },
+  {
+    "Question": "What is one way a company can manage credit risk from a policyholder?",
+    "1": "Extend the payment deadline indefinitely.",
+    "2": "Ask the insured to provide proper collateral or a guarantee.",
+    "3": "Offer a line of credit for future premiums.",
+    "4": "Waive the first premium payment.",
+    "correct": "2",
+    "reason": "To mitigate credit risk, a company can require the insured party to provide suitable collateral or a guarantee. "
+  },
+  {
+    "Question": "What increases reinsurance risk?",
+    "1": "Stable reinsurers",
+    "2": "Reinsurer failure",
+    "3": "High premiums",
+    "4": "Simplified policies",
+    "correct": "2",
+    "reason": "Reinsurer failure heightens reinsurance risk for insurers."
+  },
+  {
+    "Question": "How does reputation risk affect sales?",
+    "1": "Increases customer trust",
+    "2": "Simplifies claims",
+    "3": "Impairs new business relationships",
+    "4": "Reduces costs",
+    "correct": "3",
+    "reason": "Negative reputation impairs forming new business relationships."
+  },
+  {
+    "Question": "Why is a lack of qualified human resources a serious problem for the insurance industry?",
+    "1": "It leads to higher salaries for unqualified staff.",
+    "2": "It makes it difficult to design attractive marketing campaigns.",
+    "3": "Insurance activity is a high-risk activity that requires professional and technical expertise to manage.",
+    "4": "It prevents companies from expanding their physical office locations.",
+    "correct": "3",
+    "reason": "The shortage of skilled personnel is a significant issue because insurance is a high-risk business that demands professional and technical expertise for its management. "
+  },
+  {
+    "Question": "What does 'Changes in country risk' refer to?",
+    "1": "The risk of the country's population declining.",
+    "2": "Risk associated with changes in the work environment and investment within the country.",
+    "3": "Changes in the cultural norms of a country.",
+    "4": "Changes in the weather patterns of a country.",
+    "correct": "2",
+    "reason": "This risk is tied to shifts in a country's work and investment climate, which can impact company profitability. "
+  },
+  {
+    "Question": "What is the definition of product development risk?",
+    "1": "The risk of a product failing due to lack of marketing.",
+    "2": "The risk associated with changes to an existing product to meet customer needs and improve marketability.",
+    "3": "The risk associated with creating a completely new product for a new market.",
+    "4": "The risk that a new product will not comply with international accounting standards.",
+    "correct": "2",
+    "reason": "Product development risk pertains to the modifications made to a current product to better suit customer demands and enhance its competitive edge. "
+  },
+  {
+    "Question": "What percentage of the exam questions does this part of the book account for?",
+    "1": "20%",
+    "2": "15%",
+    "3": "10%",
+    "4": "25%",
+    "correct": "1",
+    "reason": "The introduction states that this part accounts for approximately 20% of the exam questions."
+  },
+  {
+    "Question": "What must an insurance company do when facing product development risk?",
+    "1": "Increase marketing efforts",
+    "2": "Conduct an actuarial review and obtain approval",
+    "3": "Ignore the risk and proceed",
+    "4": "Reduce product prices",
+    "correct": "2",
+    "reason": "The document specifies that an actuarial review and approval are required to manage this risk."
+  },
+  {
+    "Question": "What does the solvency margin generally consist of?",
+    "1": "Capital, reserves, and retained earnings.",
+    "2": "Real estate assets and government bonds.",
+    "3": "The company's market capitalization.",
+    "4": "Premiums collected and investment income.",
+    "correct": "1",
+    "reason": "The solvency margin is typically composed of the company's capital, its reserves, and retained earnings. "
+  },
+  {
+    "Question": "What is product development risk in insurance?",
+    "1": "The risk of introducing products without regulatory approval",
+    "2": "The risk of not developing new products",
+    "3": "The risk of products becoming obsolete",
+    "4": "The risk associated with changes to existing products to meet customer needs",
+    "correct": "4",
+    "reason": "Product development risk involves modifying existing products to meet customer needs and stay competitive."
+  },
+  {
+    "Question": "The importance of solvency for insurance companies lies in protecting the interests of whom?",
+    "1": "Insurance policyholders.",
+    "2": "Government regulators.",
+    "3": "Shareholders and investors.",
+    "4": "Company employees.",
+    "correct": "1",
+    "reason": "The importance of solvency is emphasized as it represents protection for the interests of insurance policyholders by ensuring their dues are met on time. "
+  },
+  {
+    "Question": "Who issues guidelines for anti-money laundering (AML) and combating financing terrorism (CFT) that institutions must follow?",
+    "1": "Supervisory and regulatory bodies, such as SAMA and the CMA.",
+    "2": "The World Trade Organization.",
+    "3": "An international consortium of insurance companies.",
+    "4": "The institutions themselves.",
+    "correct": "1",
+    "reason": "Supervisory and regulatory bodies, including the Ministry of Commerce and Investment, SAMA, and the CMA, are responsible for issuing AML and CFT guidelines. "
+  },
+  {
+    "Question": "What is the primary purpose of the insurance industry according to the document?",
+    "1": "To protect individuals and institutions from risks",
+    "2": "To generate profits for shareholders",
+    "3": "To provide employment opportunities",
+    "4": "To support government initiatives",
+    "correct": "1",
+    "reason": "The document highlights that the insurance industry is essential for protecting individuals and institutions from risks."
+  },
+  {
+    "Question": "What must financial institutions do to combat money laundering?",
+    "1": "Increase premium rates",
+    "2": "Limit customer interactions",
+    "3": "Implement internal control systems",
+    "4": "Reduce oversight",
+    "correct": "3",
+    "reason": "The document emphasizes the need for internal control systems to combat money laundering."
+  },
+  {
+    "Question": "What is a key requirement for a new product according to SAMA?",
+    "1": "It must be cheaper than existing products.",
+    "2": "It must be approved by SAMA before being sold.",
+    "3": "It must be offered for a trial period.",
+    "4": "It must be developed in-house.",
+    "correct": "2",
+    "reason": "New products must comply with the regulatory requirements of the Saudi Central Bank (SAMA) to get approval for sale. "
+  },
+  {
+    "Question": "How does fraud affect insurance rates for honest customers?",
+    "1": "It leads to lower rates as companies become more efficient.",
+    "2": "It has no effect on their rates.",
+    "3": "Insurers are forced to increase insurance rates to compensate for losses.",
+    "4": "It leads to discounts for customers who have never filed a claim.",
+    "correct": "3",
+    "reason": "To offset the losses from fraud, insurance companies are compelled to raise premium rates for all individuals and institutions. "
+  },
+  {
+    "Question": "What is a key measure an insurance company must take to manage IT risk?",
+    "1": "Restrict employee access to the internet.",
+    "2": "Outsource all IT operations to a third party.",
+    "3": "Provide employees with the latest smartphones.",
+    "4": "Periodic review and regular update of the IT system and develop a disaster recovery plan.",
+    "correct": "4",
+    "reason": "To manage IT risk, companies must regularly review and update their IT systems and have a disaster recovery plan in place. "
+  },
+  {
+    "Question": "Which of the following is a means by which insurance fraud can be achieved?",
+    "1": "Timely payment of premiums.",
+    "2": "Honest negotiation of a claim.",
+    "3": "Abuse of power or a position of trust.",
+    "4": "Accurate reporting of an incident.",
+    "correct": "3",
+    "reason": "Fraud can be perpetrated through the abuse of power, a position of trust, or a fiduciary relationship. "
+  },
+  {
+    "Question": "What is a necessary step for an insurance company to manage underwriting risk regarding premiums?",
+    "1": "Ensure premiums cover only the direct cost of the policies.",
+    "2": "Ensure that premiums are negotiable with each client.",
+    "3": "Ensure premiums are the lowest in the market to attract customers.",
+    "4": "Ensure premiums include the cost of policies, including indirect costs like marketing.",
+    "correct": "4",
+    "reason": "Companies must make sure that premiums account for all policy costs, which includes indirect expenses such as marketing or other fees. "
+  },
+  {
+    "Question": "A broker who asks for an immediate or advance commission payment may be indicating what?",
+    "1": "A special offer for a new client.",
+    "2": "A requirement for high-risk policies.",
+    "3": "A standard industry practice.",
+    "4": "A sign of financial distress or fraudulent intent.",
+    "correct": "4",
+    "reason": "A broker requesting immediate or advance commission payments is listed as a behavioral indicator of potential fraud. "
+  },
+  {
+    "Question": "Fraud committed by car maintenance centers or hospitals falls under which category?",
+    "1": "Policyholder Fraud",
+    "2": "Insurance brokers fraud",
+    "3": "Providers of supplementary insurance services fraud",
+    "4": "Internal Fraud",
+    "correct": "3",
+    "reason": "Fraud perpetrated by entities like car repair centers, hospitals, or doctors is classified as fraud by providers of supplementary insurance services. "
+  },
+  {
+    "Question": "What is the ability of an insurance company to permanently ensure its own resources to pay obligations arising from its business?",
+    "1": "Marketability",
+    "2": "Solvency",
+    "3": "Profitability",
+    "4": "Liquidity",
+    "correct": "2",
+    "reason": "Solvency is defined as the ability of an insurance or reinsurance company to consistently guarantee its own resources are sufficient to cover obligations from its business activities. "
+  },
+  {
+    "Question": "What is non-compliance risk?",
+    "1": "The risk of complying too strictly with regulations.",
+    "2": "The risk that regulations will change unexpectedly.",
+    "3": "The risk resulting from violating regulatory and corporate rules, regulations, and instructions.",
+    "4": "The risk of customers not complying with the terms of their policies.",
+    "correct": "3",
+    "reason": "Non-compliance risk stems from a company's failure to adhere to the rules, regulations, and instructions that govern its operations. "
+  },
+  {
+    "Question": "What is a direct financial consequence for consumers of insurance fraud?",
+    "1": "They are forced to pay higher insurance rates.",
+    "2": "They receive better service as companies compete more.",
+    "3": "Their claims are processed faster.",
+    "4": "They have more insurance products to choose from.",
+    "correct": "1",
+    "reason": "A direct negative effect of fraud is that insurers are compelled to raise insurance rates for individuals and institutions to cover the losses. "
+  },
+  {
+    "Question": "What does SAMA require from insurers to fight fraud?",
+    "1": "Higher premiums",
+    "2": "Limited products",
+    "3": "Fewer audits",
+    "4": "Suspicious activity reporting",
+    "correct": "4",
+    "reason": "Reporting suspicious activities is a key SAMA requirement."
+  },
+  {
+    "Question": "When can policyholder fraud occur?",
+    "1": "Only when submitting a claim.",
+    "2": "Only if the policyholder has a history of fraud.",
+    "3": "Only when initially applying for the insurance policy.",
+    "4": "Upon the conclusion of the contract, during the contract, or when a claim is made.",
+    "correct": "4",
+    "reason": "Policyholder fraud can happen at any stage of the insurance process: when the contract is made, during its term, or at the time of a claim. "
+  },
+  {
+    "Question": "What is insurance fraud as defined in the document?",
+    "1": "Delays in premium payments",
+    "2": "Intentional acts to deceive for financial gain",
+    "3": "Unintentional claim exaggerations",
+    "4": "Errors in policy documentation",
+    "correct": "2",
+    "reason": "Insurance fraud is defined as intentional deception for financial gain."
+  },
+  {
+    "Question": "What is a potential consequence for an insurance company that fails to balance development goals with fraud detection?",
+    "1": "Stagnation of business growth due to overly strict controls.",
+    "2": "An imbalance that can lead to increased fraud or missed growth opportunities.",
+    "3": "A requirement to report all development plans to SAMA.",
+    "4": "Increased customer satisfaction at all costs.",
+    "correct": "2",
+    "reason": "Companies must find a proper balance between their development objectives, customer satisfaction, and the detection of fraudulent practices to avoid negative consequences. "
+  },
+  {
+    "Question": "Why is insurance awareness low in KSA?",
+    "1": "High uptake",
+    "2": "Strong education",
+    "3": "Lack of insurance education",
+    "4": "Clear regulations",
+    "correct": "3",
+    "reason": "Lack of education contributes to low insurance awareness."
+  },
+  {
+    "Question": "What is a typical indicator of fraud practiced by a policyholder regarding their behavior?",
+    "1": "The claimant informs family and friends about the details of the claim.",
+    "2": "The claimant provides consistent statements to all parties.",
+    "3": "The claimant dodges questions and does not cooperate when reenacting an incident.",
+    "4": "The claimant actively tries to limit the damage after an incident.",
+    "correct": "3",
+    "reason": "A claimant who is evasive, avoids answering questions, and is uncooperative during an incident reenactment may be exhibiting signs of fraudulent behavior. "
+  },
+  {
+    "Question": "Why is it difficult to set accurate figures for the cost of insurance fraud?",
+    "1": "Insurance companies do not track fraud data.",
+    "2": "Fraud is a 'hidden crime' and much of it remains unknown or unproven.",
+    "3": "The definition of fraud is not standardized across the industry.",
+    "4": "The cost of fraud is considered confidential information.",
+    "correct": "2",
+    "reason": "Insurance fraud is described as a 'hidden crime', and because a significant portion of it goes undiscovered, unreported, or unproven, establishing precise financial figures is challenging. "
+  },
+  {
+    "Question": "What is an example that can lead to reputation risk?",
+    "1": "Offering competitive prices for insurance products.",
+    "2": "Having a strong and clear compliance policy.",
+    "3": "Paying claims promptly and fairly.",
+    "4": "Late payment of claims or medical approvals.",
+    "correct": "4",
+    "reason": "Instances like delayed payment of claims or medical approvals can damage a company's reputation. "
+  },
+  {
+    "Question": "What does changes in country risk refer to?",
+    "1": "Improved regulatory frameworks",
+    "2": "Increased customer trust",
+    "3": "Stable economic conditions",
+    "4": "Changes in work environment affecting profitability",
+    "correct": "4",
+    "reason": "Changes in country risk involve shifts in the work environment impacting profitability."
+  },
+  {
+    "Question": "Which risk involves the accuracy of risk assessment?",
+    "1": "Credit risk",
+    "2": "Underwriting risk",
+    "3": "Solvency risk",
+    "4": "Pricing risk",
+    "correct": "2",
+    "reason": "Underwriting risk deals with the accuracy of assessing risks for coverage."
+  },
+  {
+    "Question": "Insurance fraud is described as:",
+    "1": "A local phenomenon unique to the KSA insurance market.",
+    "2": "A problem that only affects new insurance companies.",
+    "3": "A minor issue with little financial impact.",
+    "4": "A global phenomenon practiced on most insurance companies.",
+    "correct": "4",
+    "reason": "Defrauding insurance companies is identified as a global issue that affects the majority of insurance firms worldwide. "
+  },
+  {
+    "Question": "What is one stage of money laundering?",
+    "1": "Claims settlement",
+    "2": "Policy renewal",
+    "3": "Underwriting",
+    "4": "Placement of illicit funds",
+    "correct": "4",
+    "reason": "Placement is a stage where illicit funds are introduced into the system."
+  },
+  {
+    "Question": "What makes insurance companies vulnerable to internal fraud?",
+    "1": "Complex structures and rapid tech changes",
+    "2": "Limited customer interactions",
+    "3": "High employee satisfaction",
+    "4": "Simple organizational structures",
+    "correct": "1",
+    "reason": "Complex structures and technological changes increase vulnerability to internal fraud."
+  },
+  {
+    "Question": "When facing product development risk, what is the first step a company must take?",
+    "1": "Prepare a report on the changes in risks after launching the product.",
+    "2": "Conduct an actuarial review and obtain actuarial approval.",
+    "3": "Market the new product aggressively to gain market share.",
+    "4": "Immediately launch the new product to beat competitors.",
+    "correct": "2",
+    "reason": "Before selling a new product, the company must conduct an actuarial review and get approval. "
+  },
+  {
+    "Question": "What risk combines regulatory and customer impacts?",
+    "1": "Reputation",
+    "2": "Solvency",
+    "3": "Credit",
+    "4": "Non-compliance",
+    "correct": "1",
+    "reason": "Reputation affects both regulatory standing and customer trust."
+  },
+  {
+    "Question": "A claimant who insists on using the services of a specific contractor without a valid reason could be an indicator of what?",
+    "1": "Good past experience with the contractor.",
+    "2": "Potential fraud or collusion.",
+    "3": "An attempt to get the best quality repair.",
+    "4": "Lack of knowledge about other available contractors.",
+    "correct": "2",
+    "reason": "When a claimant insists on using a particular contractor, engineer, or physician for no good reason, it can be an indicator of potential fraud. "
+  },
+  {
+    "Question": "What is a key action for a company facing claims settlement risk?",
+    "1": "Outsource all claims settlement to the lowest bidder.",
+    "2": "Always pay the full amount requested by the claimant to avoid disputes.",
+    "3": "Review decisions regarding claims settlement to ensure they are in accordance with the policy coverage.",
+    "4": "Delay payments to increase investment income.",
+    "correct": "3",
+    "reason": "To manage claims settlement risk, companies must review settlement decisions to ensure they align with the insurance policy's coverage, which helps reduce costs from improper decisions. "
+  },
+  {
+    "Question": "What is information technology risk in insurance?",
+    "1": "The risk of over-reliance on manual processes",
+    "2": "The risk of hiring unqualified IT staff",
+    "3": "The risk of outdated marketing systems",
+    "4": "The risk of errors or failures in IT systems",
+    "correct": "4",
+    "reason": "IT risk involves errors or failures in systems critical to insurance operations."
+  },
+  {
+    "Question": "What is pricing risk in the context of insurance?",
+    "1": "A risk that arises from the process by which the company tries to determine the appropriate premium rate.",
+    "2": "The risk associated with the cost of settling claims.",
+    "3": "The risk that the price of insurance stocks will fall.",
+    "4": "The risk that the company's pricing is not competitive.",
+    "correct": "1",
+    "reason": "Pricing risk is a component of underwriting risk and stems from the challenge of setting the correct premium rate for a product. "
+  },
+  {
+    "Question": "What should internal auditors of financial institutions include in their audit programs?",
+    "1": "The AML and CFT compliance report.",
+    "2": "An assessment of employee morale.",
+    "3": "A comparison of the company's prices with competitors.",
+    "4": "A review of the company's marketing strategy.",
+    "correct": "1",
+    "reason": "Internal auditors in financial and non-financial institutions are required to incorporate the Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT) compliance report into their inspection and audit programs. "
+  },
+  {
+    "Question": "What is pricing risk in insurance?",
+    "1": "Setting premiums too high",
+    "2": "Determining the appropriate premium rate",
+    "3": "Setting premiums too low",
+    "4": "Ignoring premium calculations",
+    "correct": "2",
+    "reason": "Pricing risk is part of the underwriting process and involves setting appropriate premium rates."
+  },
+  {
+    "Question": "What is identified as the main obstacle facing the insurance sector in Saudi Arabia?",
+    "1": "Lack of qualified human resources.",
+    "2": "Lack of competition among insurance companies.",
+    "3": "Excessive government regulation.",
+    "4": "Low demand for insurance products.",
+    "correct": "1",
+    "reason": "The primary obstacle confronting the insurance industry and the broader market in Saudi Arabia is the scarcity of qualified human resources. "
+  },
+  {
+    "Question": "What is a traditional indicator of internal fraud related to an employee's behavior?",
+    "1": "An employee who is open to independent reviews of their performance.",
+    "2": "An employee who maintains a lifestyle consistent with their income.",
+    "3": "An employee who does not want to take a vacation or seems to be under pressure.",
+    "4": "An employee who regularly takes their vacation days.",
+    "correct": "3",
+    "reason": "Managers or employees who avoid taking vacations, appear stressed, or consistently work late may be indicators of internal fraud. "
+  },
+  {
+    "Question": "A high turnover of staff in which departments can be an indicator of internal fraud?",
+    "1": "Marketing and Sales departments.",
+    "2": "Customer Service and Claims departments.",
+    "3": "Finance and/or Accounting departments.",
+    "4": "Human Resources and Training departments.",
+    "correct": "3",
+    "reason": "Frequent staff turnover in the finance or accounting departments is listed as a typical indicator of potential internal fraud. "
+  },
+  {
+    "Question": "What is non-compliance risk?",
+    "1": "The risk of overfunding reserves",
+    "2": "The risk of violating regulatory rules",
+    "3": "The risk of exceeding regulations",
+    "4": "The risk of rejecting claims",
+    "correct": "2",
+    "reason": "Non-compliance risk stems from violating regulatory or corporate rules."
+  },
+  {
+    "Question": "What is a dual indicator of fraud and money laundering?",
+    "1": "Low premiums",
+    "2": "Unusual transactions",
+    "3": "Accurate claims",
+    "4": "Timely payments",
+    "correct": "2",
+    "reason": "Unusual transactions signal both fraud and money laundering."
+  },
+  {
+    "Question": "When should an insurance institution exercise 'due professional care'?",
+    "1": "Only when dealing with high-net-worth individuals.",
+    "2": "When building a business relation, when there are suspicions, or when there is doubt about client information.",
+    "3": "Only when instructed to do so by a manager.",
+    "4": "Only when a transaction seems suspicious.",
+    "correct": "2",
+    "reason": "Due professional care must be exercised when establishing a business relationship, if there's suspicion of illicit activities, or if there are doubts about the client's information. "
+  },
+  {
+    "Question": "What is money-laundering defined as?",
+    "1": "Investing money in a legitimate business to generate a profit.",
+    "2": "The process of making money look clean by physically washing it.",
+    "3": "Donating illegally obtained money to charity.",
+    "4": "An act intended to conceal the origin of illegally obtained money and make it appear legitimate.",
+    "correct": "4",
+    "reason": "Money-laundering involves acts aimed at hiding or disguising the illicit origins of money to make it seem as if it came from a legal source. "
+  },
+  {
+    "Question": "What is primary fraud in insurance?",
+    "1": "Exaggerating the value of a legitimate claim.",
+    "2": "An employee stealing office supplies from the company.",
+    "3": "A person claiming an accident, injury, or theft that does not exist.",
+    "4": "An insurance agent misleading a customer about policy coverage.",
+    "correct": "3",
+    "reason": "Primary fraud involves fabricating an incident, injury, theft, or service that never occurred to illegally gain from an insurance company. "
+  },
+  {
+    "Question": "Why is solvency a top priority for regulatory bodies like SAMA and CMA?",
+    "1": "It reduces administrative costs",
+    "2": "It protects policyholders and maintains stability",
+    "3": "It simplifies underwriting",
+    "4": "It ensures high profits",
+    "correct": "2",
+    "reason": "The document notes that solvency protects policyholders and ensures market stability."
+  },
+  {
+    "Question": "What contributes to low insurance awareness in KSA?",
+    "1": "Cultural perceptions and lack of education",
+    "2": "Widespread insurance education",
+    "3": "Simplified insurance products",
+    "4": "High policy uptake",
+    "correct": "1",
+    "reason": "Cultural perceptions and inadequate education reduce awareness."
+  },
+  {
+    "Question": "According to the text, which factor can increase the likelihood of internal fraud?",
+    "1": "Strong internal control systems.",
+    "2": "A complex organizational structure with unclear responsibilities.",
+    "3": "A stable economic climate with no major changes.",
+    "4": "A simple and transparent organizational structure.",
+    "correct": "2",
+    "reason": "Internal fraud is more likely in companies with complex organizational structures where responsibilities are poorly defined or allocated. "
+  },
+  {
+    "Question": "What do regulators like the Saudi Central Bank (SAMA) impose on insurance companies to ensure solvency?",
+    "1": "A ban on offering high-risk insurance products.",
+    "2": "A limit on the number of policies they can issue.",
+    "3": "A requirement to only invest in government bonds.",
+    "4": "A mandatory minimum solvency margin.",
+    "correct": "4",
+    "reason": "Regulators enforce a mandatory minimum solvency margin that corresponds to the company's size and the risks it undertakes. "
+  },
+  {
+    "Question": "What is an indicator of broker fraud?",
+    "1": "Unusual commission patterns",
+    "2": "High customer satisfaction",
+    "3": "Clear client communication",
+    "4": "Timely policy issuance",
+    "correct": "1",
+    "reason": "Unusual commission patterns can signal broker fraud."
+  },
+  {
+    "Question": "What is a global characteristic of insurance fraud?",
+    "1": "It only occurs in developing markets",
+    "2": "It only involves policyholders",
+    "3": "It is limited to health insurance",
+    "4": "It is present across all insurance markets",
+    "correct": "4",
+    "reason": "The document states that fraud is a global issue affecting all insurance markets."
+  },
+  {
+    "Question": "What is an indicator of fraud related to an insurance broker's portfolio?",
+    "1": "The portfolio consists mainly of long-term, stable policies.",
+    "2": "The portfolio has a low number of claims.",
+    "3": "The portfolio contains a high number of fraud claims or a disproportionate number of high-risk individuals.",
+    "4": "The portfolio has a consistent and predictable premium payment history.",
+    "correct": "3",
+    "reason": "A broker's portfolio that includes a high frequency of fraudulent claims or an unusual concentration of high-risk individuals can be an indicator of fraud. "
+  },
+  {
+    "Question": "What happens in the 'Integration' stage of money laundering?",
+    "1": "The money is withdrawn from the financial system in cash.",
+    "2": "The money is destroyed to eliminate evidence.",
+    "3": "The money is reported to the authorities.",
+    "4": "The money is returned to the criminal as legitimate-looking gains.",
+    "correct": "4",
+    "reason": "Integration is the final stage where the laundered money is returned to the launderer in a way that makes it appear as legitimate profit or income. "
+  },
+  {
+    "Question": "What is claims settlement risk?",
+    "1": "The risk that actual claims exceed expected liabilities",
+    "2": "The risk of settling claims without verification",
+    "3": "The risk of settling claims too quickly",
+    "4": "The risk of not settling claims",
+    "correct": "1",
+    "reason": "Claims settlement risk occurs when actual claims exceed the anticipated liabilities."
+  },
+  {
+    "Question": "What is the minimum requirement for exercising 'due professional care'?",
+    "1": "Relying on the information provided by the client without verification.",
+    "2": "Assuming all clients are honest until proven otherwise.",
+    "3": "Verifying the identity of the client, their agents, and the nature of their business.",
+    "4": "Conducting a full background check on every client.",
+    "correct": "3",
+    "reason": "The minimum due diligence includes verifying the client's identity, the identity and authority of any agents, and the purpose and nature of the client's activities. "
+  },
+  {
+    "Question": "What is policyholder fraud?",
+    "1": "When an insurance company defrauds its policyholders.",
+    "2": "A dispute between a policyholder and the company over the terms of a policy.",
+    "3": "An error made by a policyholder on an application form.",
+    "4": "When a policyholder defrauds the insurance company, for example, by receiving false payment or coverage.",
+    "correct": "4",
+    "reason": "Policyholder fraud involves deceiving the insurance company to obtain unentitled payments or coverage through a purchased or developed product. "
+  },
+  {
+    "Question": "Which action by a claimant could be an indicator of fraud related to settlement?",
+    "1": "The claimant insists on a quick settlement and may accept a lower amount to achieve it.",
+    "2": "The claimant requests the payment be made to their own bank account.",
+    "3": "The claimant accepts a fair settlement offer after negotiation.",
+    "4": "The claimant is willing to wait for a thorough investigation.",
+    "correct": "1",
+    "reason": "A claimant who insists on a rapid settlement, and is willing to accept a low offer to expedite payment, may be a red flag for fraud. "
+  },
+  {
+    "Question": "Which risk has the broadest economic impact?",
+    "1": "Country risk",
+    "2": "Pricing risk",
+    "3": "Reputation risk",
+    "4": "IT risk",
+    "correct": "1",
+    "reason": "Country risk affects the entire economic environment of insurers."
+  },
+  {
+    "Question": "What is a method of money laundering in insurance?",
+    "1": "Using policies to layer funds",
+    "2": "Clear documentation",
+    "3": "Accurate claims",
+    "4": "Timely payments",
+    "correct": "1",
+    "reason": "Layering funds through policies is a money-laundering method."
+  },
+  {
+    "Question": "The risk associated with macroeconomic mismanagement, political instability, or labor market instability falls under which category?",
+    "1": "Reputation Risk",
+    "2": "Changes in country risk",
+    "3": "Reinsurance Risk",
+    "4": "Solvency Risk",
+    "correct": "2",
+    "reason": "Changes in country risk include factors like macroeconomic mismanagement, ineffective fiscal policies, political instability, and labor market issues that can lead to higher costs. "
+  },
+  {
+    "Question": "What behavior signals money laundering?",
+    "1": "Frequent policy cancellations",
+    "2": "Low premiums",
+    "3": "Accurate claims",
+    "4": "Consistent payments",
+    "correct": "1",
+    "reason": "Frequent cancellations can indicate money laundering."
+  },
+  {
+    "Question": "What is the term for fraud where a person claims an injury or damage that does not exist?",
+    "1": "Underwriting Risk",
+    "2": "Secondary Fraud",
+    "3": "Primary Fraud",
+    "4": "Moral Hazard",
+    "correct": "3",
+    "reason": "Primary fraud is when an individual falsely claims an accident, injury, theft, or damage that never happened in order to receive an undue payout from the insurance company. "
+  },
+  {
+    "Question": "What is a hard-to-detect product development risk?",
+    "1": "Staff shortages",
+    "2": "Customer complaints",
+    "3": "Regulatory non-compliance",
+    "4": "Claims delays",
+    "correct": "3",
+    "reason": "Regulatory non-compliance in product changes can be subtle and risky."
+  },
+  {
+    "Question": "What is product development risk primarily concerned with?",
+    "1": "Claims processing",
+    "2": "Regulatory fines",
+    "3": "Customer satisfaction and competitiveness",
+    "4": "Staff training",
+    "correct": "3",
+    "reason": "It focuses on modifying products to meet customer needs and stay competitive."
+  },
+  {
+    "Question": "Even with reinsurance agreements, what direct obligation does an insurance company retain?",
+    "1": "Its direct obligations to its shareholders.",
+    "2": "Its direct obligations to policyholders if reinsurers fail to meet their obligations.",
+    "3": "Its direct obligations to government regulators.",
+    "4": "Its direct obligations to the reinsurers.",
+    "correct": "2",
+    "reason": "Despite having reinsurance agreements, insurance companies are not relieved of their direct responsibility to policyholders if the reinsurer defaults on its obligations. "
+  },
+  {
+    "Question": "What is an indicator of money laundering in insurance?",
+    "1": "Accurate claim submissions",
+    "2": "Simplified policies",
+    "3": "Unusual insured behavior",
+    "4": "Timely premium payments",
+    "correct": "3",
+    "reason": "Unusual behavior by the insured can indicate money laundering."
+  },
+  {
+    "Question": "What must senior managers do to combat fraud, based on internal auditors' reports?",
+    "1": "Assume that fraud is not a significant problem.",
+    "2": "Focus only on external fraud and ignore internal risks.",
+    "3": "Apply new measures, policies, and procedures to combat fraud.",
+    "4": "Delegate all fraud prevention responsibilities to the junior staff.",
+    "correct": "1",
+    "reason": "Based on annual reports from internal auditors, senior management is required to implement new and improve existing measures, policies, and procedures to fight fraud. "
+  },
+  {
+    "Question": "What is a challenge in measuring the cost of insurance fraud?",
+    "1": "Simplified reporting systems",
+    "2": "Lack of fraudulent claims",
+    "3": "Overabundance of data",
+    "4": "Difficulty in quantifying its full impact",
+    "correct": "4",
+    "reason": "The document notes that quantifying the full cost of fraud is challenging."
+  },
+  {
+    "Question": "What environmental factor drives country risk?",
+    "1": "Low fraud",
+    "2": "High awareness",
+    "3": "Stable markets",
+    "4": "Changes in investment climate",
+    "correct": "4",
+    "reason": "Changes in the investment climate drive country risk."
+  },
+  {
+    "Question": "What is a major obstacle for insurance companies in KSA?",
+    "1": "Simplified regulations",
+    "2": "High insurance awareness",
+    "3": "Excessive qualified staff",
+    "4": "Lack of qualified human resources",
+    "correct": "4",
+    "reason": "The document identifies a lack of qualified human resources as a key obstacle."
+  },
+  {
+    "Question": "What IT risk factor requires trained staff?",
+    "1": "Manual processes",
+    "2": "System failures",
+    "3": "Excessive staffing",
+    "4": "Low premiums",
+    "correct": "2",
+    "reason": "Trained staff are needed to prevent and address system failures."
+  },
+  {
+    "Question": "How do IT and fraud risks intersect?",
+    "1": "System errors enable fraud",
+    "2": "Staff reduce",
+    "3": "Claims simplify",
+    "4": "Premiums increase",
+    "correct": "1",
+    "reason": "IT system failures can facilitate fraudulent activities."
+  },
+  {
+    "Question": "What is the goal of the 'Layering' stage?",
+    "1": "To separate the funds from their illegal source through complex transactions.",
+    "2": "To deposit the money into a single, easily accessible bank account.",
+    "3": "To spend the money on luxury goods.",
+    "4": "To invest the money in high-yield assets.",
+    "correct": "1",
+    "reason": "The purpose of the layering stage is to obscure the origin of the funds by engaging in a series of complex financial transactions. "
+  },
+  {
+    "Question": "What is the definition of solvency in the context of insurance?",
+    "1": "The ability of an insurance company to meet its obligations on maturity.",
+    "2": "The ability of an insurance company to expand its market share.",
+    "3": "The ability of an insurance company to attract new investors.",
+    "4": "The ability of an insurance company to generate high profits.",
+    "correct": "1",
+    "reason": "Solvency in insurance is defined as the company's capacity to pay its obligations as they come due. "
+  },
+  {
+    "Question": "What is a cited reason for the lack of insurance awareness in Saudi society related to media coverage?",
+    "1": "The media only advertises mandatory insurance products.",
+    "2": "The media still focuses more on the disadvantages of the sector.",
+    "3": "The media provides balanced coverage of the industry's pros and cons.",
+    "4": "There is no media coverage of the insurance industry.",
+    "correct": "2",
+    "reason": "A contributing factor to low insurance awareness is that media activity often highlights the negative aspects of the insurance sector rather than its advantages. "
+  },
+  {
+    "Question": "Who can perpetrate fraudulent acts against insurance companies?",
+    "1": "Only regulators",
+    "2": "Only internal staff",
+    "3": "Only policyholders",
+    "4": "Policyholders, brokers, and service providers",
+    "correct": "4",
+    "reason": "Fraud can come from policyholders, brokers, and service providers, among others."
+  },
+  {
+    "Question": "What regulatory body prioritizes solvency risk?",
+    "1": "Service providers",
+    "2": "Policyholders",
+    "3": "Insurance brokers",
+    "4": "SAMA and CMA",
+    "correct": "4",
+    "reason": "SAMA and CMA prioritize solvency to protect the market and policyholders."
+  },
+  {
+    "Question": "What is reinsurance risk?",
+    "1": "The risk of not using reinsurers",
+    "2": "The risk of rejecting reinsurance",
+    "3": "The risk tied to transferring risk to another company",
+    "4": "The risk of over-insuring clients",
+    "correct": "3",
+    "reason": "Reinsurance risk involves transferring risk to another company that may fail."
+  },
+  {
+    "Question": "What is a consequence of a company not meeting its solvency obligations?",
+    "1": "It receives a bailout from the government.",
+    "2": "It may have to stop offering some or all types of insurance.",
+    "3": "It is allowed to operate under special supervision.",
+    "4": "It must lower its premium rates.",
+    "correct": "2",
+    "reason": "If companies fail to meet their obligations, they may have to cease offering certain types of insurance, or even all types, leading to a decrease in revenue. "
+  },
+  {
+    "Question": "How can non-compliance risk be mitigated?",
+    "1": "Reduce staff training",
+    "2": "Limit policy offerings",
+    "3": "Ensure compliance and follow-up on instructions",
+    "4": "Ignore regulatory updates",
+    "correct": "3",
+    "reason": "Ensuring compliance and following instructions reduces this risk."
+  },
+  {
+    "Question": "What is a shared mitigation for fraud and money laundering?",
+    "1": "Strong internal controls",
+    "2": "Reduced staff",
+    "3": "Fewer policies",
+    "4": "Higher premiums",
+    "correct": "1",
+    "reason": "Strong internal controls address both fraud and money laundering."
+  }
+]

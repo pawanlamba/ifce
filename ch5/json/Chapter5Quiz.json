@@ -1,1 +1,1865 @@
-[{"Question": "What is Senior Management's responsibility regarding risk?", "1": "To avoid risk-taking", "2": "To delegate all risk to the Board", "3": "To ignore risks", "4": "To set procedures for risk identification and control", "correct": "4", "reason": "Senior Management develops risk management procedures."}, {"Question": "Who might an underwriter consult with before making a final decision on a policy?", "1": "The marketing department.", "2": "Loss adjusters, risk managers, and actuaries. ", "3": "The insured's family members.", "4": "Competitors' sales agents.", "correct": "2", "reason": "Underwriters rely on reports and studies from various experts, including loss adjusters, risk managers, and actuaries, to inform their decisions. "}, {"Question": "Which department develops risk management tools?", "1": "Claims", "2": "Marketing", "3": "Underwriting", "4": "Risk management", "correct": "4", "reason": "Risk management develops risk tools."}, {"Question": "Which sales channel uses reps for one company?", "1": "Agents", "2": "Bancassurance", "3": "Online sales", "4": "Brokers", "correct": "1", "reason": "Agents represent one company."}, {"Question": "The document states that Bancassurance is a strategy that helps reduce the cost of what?", "1": "Claims processing and settlement.", "2": "Employee salaries and benefits.", "3": "Underwriting and Reinsurance.", "4": "Marketing, sales, and insurance products prices. ", "correct": "4", "reason": "One of the objectives of Bancassurance is to reduce the costs associated with marketing, sales, and the prices of insurance products. "}, {"Question": "What connects the insurance applicants and the sales channels, according to the text?", "1": "The claims department", "2": "The underwriters ", "3": "The financial department", "4": "The reinsurers", "correct": "2", "reason": "By making the decision to issue a policy or not, underwriters act as the link between the applicants and the insurance sales channels. "}, {"Question": "Who analyzes the insurance application for risks?", "1": "The actuary", "2": "The risk manager", "3": "The underwriter", "4": "The compliance officer", "correct": "2", "reason": "The risk manager analyzes and reports to the underwriter."}, {"Question": "What happens to claims with significant losses in relation to reinsurance?", "1": "The reinsurance department monitors them and determines when to provide them to their reinsurers. ", "2": "They are ignored by the reinsurance department.", "3": "They result in the cancellation of the primary insurance policy.", "4": "They are paid directly by the reinsurer to the insured.", "correct": "1", "reason": "The reinsurance department is responsible for monitoring claims with significant losses and deciding the appropriate time to present them to the company's reinsurers. "}, {"Question": "Which of the following is NOT a characteristic of the Board of Directors?", "1": "Must meet educational and professional standards", "2": "Represents the main partners", "3": "Must be approved by supervisory authorities", "4": "Members are appointed without election", "correct": "4", "reason": "Board members are typically elected or agreed upon by shareholders, not appointed without election."}, {"Question": "Who might investigate large or complex claims?", "1": "The marketing department", "2": "The underwriting department", "3": "The investment committee", "4": "A loss adjuster or loss assessor", "correct": "4", "reason": "Loss adjusters or assessors investigate and assess large or complex claims."}, {"Question": "What is one responsibility of the financial operations department regarding claims?", "1": "To market insurance products", "2": "To follow up on payment of claims", "3": "To manage reinsurance contracts", "4": "To investigate claims", "correct": "2", "reason": "The department ensures claim payments are followed up."}, {"Question": "According to the text, what does the contract between the company and the insured translate into action?", "1": "When the policy is issued.", "2": "When the premium is paid.", "3": "When a loss occurs to the insured. ", "4": "When the company makes an investment profit.", "correct": "3", "reason": "The promise made in the insurance contract is only put into action when the insured suffers a loss and a claim is made. "}, {"Question": "What is the first step in the claims processing procedure?", "1": "Receiving the claim", "2": "Rejecting the claim", "3": "Investigating the claim", "4": "Settling the claim", "correct": "1", "reason": "The process begins with receiving the claim from the insured."}, {"Question": "How does an insurance broker typically get paid for their services?", "1": "A government subsidy.", "2": "A direct salary from the insured.", "3": "A share of the insurance company's investment profits.", "4": "A fee, often paid by the insurance company as part of the premium. ", "correct": "4", "reason": "A broker is a legal entity who, in exchange for a fee, negotiates with the insurance company. This fee is not a direct salary from the insured. "}, {"Question": "What is one of the duties of the Actuarial Expert?", "1": "To manage marketing strategies", "2": "To handle customer complaints", "3": "To assess the company's ability to meet future obligations", "4": "To manage investments", "correct": "3", "reason": "The Actuarial Expert assesses the company's financial standing and ability to meet future obligations."}, {"Question": "What is the main purpose of reinsurance?", "1": "To manage investments", "2": "To transfer risk from the insurance company to a reinsurer", "3": "To handle customer complaints", "4": "To provide insurance to individuals", "correct": "2", "reason": "Reinsurance transfers risk to a reinsurer to manage large or catastrophic risks."}, {"Question": "Who is responsible for setting the employment policy in an insurance company?", "1": "The personnel and administrative operations department. ", "2": "The claims department.", "3": "The underwriting department.", "4": "The investment committee.", "correct": "1", "reason": "Setting the employment policy is a key responsibility of the personnel and administrative operations department. "}, {"Question": "How is the importance of the claims department linked to the company's reputation?", "1": "The reputation is only based on premium prices.", "2": "A slow and unfair claims process enhances the company's reputation.", "3": "The department's performance in handling claims directly impacts the company's reputation. ", "4": "It has no impact on the company's reputation.", "correct": "3", "reason": "The claims department is crucial to the company's reputation and performance because it is the point of contact for the insured when a claim arises, and its handling of the claim is a direct reflection of the company's promise. "}, {"Question": "What is the primary reason insurers buy reinsurance?", "1": "To comply with a government mandate that applies to all businesses.", "2": "To have a reason to increase premiums for all customers.", "3": "To increase their administrative costs.", "4": "To cover risks they cannot individually incur. ", "correct": "4", "reason": "Insurers purchase reinsurance to cover risks that are too large or too complex for them to handle on their own. "}, {"Question": "What is an essential part of the strategic management of insurance companies?", "1": "Aggressive marketing tactics.", "2": "Maximizing the number of policies sold, regardless of risk.", "3": "Risk management. ", "4": "Minimizing employee benefits.", "correct": "3", "reason": "Risk management is considered an essential part of the strategic management of insurance companies, critical for their success. "}, {"Question": "How can overly severe underwriting affect an insurance company?", "1": "It can lead to losing customers due to excessively high premiums. ", "2": "It simplifies the claims process.", "3": "It can lead to gaining more customers.", "4": "It results in insufficient funds to pay claims.", "correct": "1", "reason": "If an underwriter's assessment is too strict, the resulting premiums can be unaffordable, causing the company to lose customers to its competitors. "}, {"Question": "What is the primary role of the Board of Directors in an insurance company?", "1": "To set the company's strategic direction", "2": "To handle customer complaints", "3": "To manage daily operations", "4": "To underwrite insurance policies", "correct": "1", "reason": "The Board of Directors is responsible for setting the overall strategic direction, including approving key guidelines and objectives."}, {"Question": "Which is a key personnel and administrative process?", "1": "Underwriting insurance policies", "2": "Setting training and rehabilitation policies", "3": "Handling customer claims", "4": "Managing reinsurance contracts", "correct": "2", "reason": "Setting training policies is part of personnel management."}, {"Question": "In the underwriting process, who is typically asked to determine the appropriate insurance premium after a risk has been analyzed?", "1": "The sales agent", "2": "The claims representative", "3": "The actuary ", "4": "The risk manager", "correct": "3", "reason": "After the underwriter's initial decisions, the actuary is tasked with determining a suitable insurance premium. "}, {"Question": "Who must approve the External Auditor's appointment?", "1": "The Board of Directors", "2": "The Actuarial Expert", "3": "The Saudi Central Bank (SAMA)", "4": "The Compliance Officer", "correct": "3", "reason": "SAMA must approve the External Auditor's appointment."}, {"Question": "Which of these is a key function of the Personnel and Administrative department in an insurance company?", "1": "Setting employment, training, and rehabilitation policies for staff. ", "2": "Managing reinsurance contracts.", "3": "Setting insurance premiums.", "4": "Approving large claims settlements.", "correct": "1", "reason": "The personnel and administrative department is responsible for important staff-related functions, including setting policies for employment and training. "}, {"Question": "What is the central element on which the entire insurance industry is based?", "1": "Profit", "2": "Risk ", "3": "Premiums", "4": "Contracts", "correct": "2", "reason": "Risk is the central element that the insurance industry is built upon. "}, {"Question": "What does the Investment Committee decide about investments?", "1": "Avoid managing", "2": "Internal or external", "3": "Always internal", "4": "Delegate to Audit", "correct": "2", "reason": "They choose management type."}, {"Question": "Which marketing channel reaches a large audience quickly?", "1": "TV and radio ads", "2": "Exhibitions", "3": "Direct contact", "4": "Brochures", "correct": "1", "reason": "TV and radio reach many efficiently."}, {"Question": "Which committee monitors strategic objectives?", "1": "Nominations", "2": "Executive", "3": "Audit", "4": "Investment", "correct": "2", "reason": "Executive Committee monitors strategy."}, {"Question": "How can a good investment profit make an insurance company more competitive?", "1": "By increasing the commissions paid to brokers.", "2": "By allowing the company to hire more sales agents.", "3": "By allowing the company to refuse more claims.", "4": "By allowing the company to reduce the value of premiums paid by its customers. ", "correct": "4", "reason": "A strong investment profit enables the company to lower the premiums for its customers, making it more competitive in the insurance market. "}, {"Question": "Who submits a report on technical claims?", "1": "Compliance Officer", "2": "Internal Auditor", "3": "Risk Manager", "4": "Actuarial Expert", "correct": "1", "reason": "Compliance Officer reports to Audit."}, {"Question": "What might an underwriter do if risk needs modifications?", "1": "Accept with conditions", "2": "Transfer all risk", "3": "Accept unconditionally", "4": "Reject policy", "correct": "1", "reason": "They can accept with conditions."}, {"Question": "What kind of rating do reinsurers often have from classification companies?", "1": "No rating at all.", "2": "A rating that is not disclosed to the public.", "3": "A low or speculative rating.", "4": "An A rating or higher. ", "correct": "4", "reason": "Due to their substantial capital, reinsurers often receive high ratings, such as A or better, from well-known rating agencies. "}, {"Question": "Which department is responsible for managing cash flow from premiums and handling reserves for various risks?", "1": "The Underwriting Department", "2": "The Financial Operations Department ", "3": "The Claims Department", "4": "The Human Resources Department", "correct": "2", "reason": "The Financial Operations department is responsible for key functions like managing cash flow from premiums and managing reserves and allocations for different risks. "}, {"Question": "What is a benefit of marketing through popular websites?", "1": "It guarantees higher premiums", "2": "It eliminates sales reps", "3": "It reduces underwriting needs", "4": "It reaches a large audience quickly", "correct": "4", "reason": "Website marketing reaches a broad audience efficiently."}, {"Question": "What is the final step in the underwriting process listed in the document?", "1": "The actuary determines the premium.", "2": "The underwriter makes a decision of acceptance or rejection.", "3": "The underwriter determines the percentage of risk to be transferred to a reinsurer. ", "4": "The risk manager analyzes the application.", "correct": "3", "reason": "After making a decision and setting the policy content, the underwriter then determines the portion of risk to be passed on to a reinsurer. "}, {"Question": "What is considered the real capital of an insurance company?", "1": "Its buildings and equipment", "2": "Its marketing strategies", "3": "Its investment portfolio", "4": "Its employees", "correct": "4", "reason": "Employees are the real capital due to the reliance on human expertise."}, {"Question": "Which department manages the company's daily activities?", "1": "Investment Committee", "2": "Audit Committee", "3": "Senior Management", "4": "Board of Directors", "correct": "3", "reason": "Senior Management supervises the company's daily activities."}, {"Question": "What kind of advice might a broker provide to the insured?", "1": "Advice on how to avoid buying insurance.", "2": "Advice limited to only one type of insurance.", "3": "Advice on the insurance company's internal management.", "4": "Advice on the insured's insurance needs, best coverage, and market conditions. ", "correct": "4", "reason": "A broker can advise on the insured's needs, the best types and limits of coverage, market trends, and claims procedures. "}, {"Question": "What is a key document that must be included in a claims file?", "1": "The employee's attendance record.", "2": "A copy of the insurance policy and the customer's claim. ", "3": "The marketing brochure for the product.", "4": "The company's annual financial report.", "correct": "2", "reason": "A claims file must include essential documents such as a copy of the insurance policy and the customer's claim form. "}, {"Question": "If a claim\u00e2\u20ac\u2122s coverage is unclear, who decides?", "1": "Claims representative", "2": "Risk manager", "3": "Underwriter", "4": "Compliance officer", "correct": "1", "reason": "Claims reps determine coverage."}, {"Question": "What does the personnel and administrative department manage and protect?", "1": "The company's reinsurance contracts.", "2": "The property of the company. ", "3": "The claims files.", "4": "The company's investment portfolio.", "correct": "2", "reason": "Among the duties of the personnel and administrative department is the management and protection of the company's property. "}, {"Question": "The risk management department is responsible for ensuring that risk management procedures are...", "1": "...implemented effectively. ", "2": "...changed on a daily basis.", "3": "...kept confidential from the Board of Directors.", "4": "...delegated to an outside firm.", "correct": "1", "reason": "A key responsibility of the risk management department is to ensure that the company's risk management procedures and activities are put into practice effectively. "}, {"Question": "Why do insurance companies invest premiums (duplicate check)?", "1": "To fund future claims and profit", "2": "To reduce policies", "3": "To increase costs", "4": "To pay immediate claims", "correct": "1", "reason": "Investments fund obligations and generate profit."}, {"Question": "What is a challenge for developing countries in adopting e-commerce for insurance sales?", "1": "High competition", "2": "Insufficient resources", "3": "Overregulation", "4": "Lack of internet access", "correct": "2", "reason": "Developing countries lack material, human, and tech resources."}, {"Question": "What is the role of the Nominations and Remuneration Committee?", "1": "To recommend candidates for the Board and set remuneration", "2": "To audit financial statements", "3": "To manage investments", "4": "To handle reinsurance contracts", "correct": "1", "reason": "This committee handles nominations and remuneration policies."}, {"Question": "What does a reinsurer do in the event of an accident causing damage or loss?", "1": "The reinsurer compensates the insured directly.", "2": "The reinsurer investigates the accident independently.", "3": "The reinsurer cancels the original insurance policy.", "4": "The reinsurer compensates the insurance company for the payment made to the insured. ", "correct": "4", "reason": "If an insured event occurs, the reinsurer pays the insurance company for the compensation that the insurance company paid to its policyholder. "}, {"Question": "What type of risks do reinsurers typically cover?", "1": "Large losses and catastrophic events", "2": "Only life insurance claims", "3": "Only property damage", "4": "Small individual losses", "correct": "1", "reason": "Reinsurers cover large and catastrophic risks."}, {"Question": "What is the mission of the risk management department in an insurance company?", "1": "To sell insurance policies.", "2": "To invest the company's assets.", "3": "To identify, measure, and manage the risks the company is exposed to in an organized manner. ", "4": "To handle customer claims.", "correct": "3", "reason": "The risk management department's mission is to systematically identify, measure, and manage the risks that the insurance company faces. "}, {"Question": "What is a key difference between an insurance broker and an insurance agent regarding representation?", "1": "The broker represents the company, and the agent represents the insured.", "2": "Both represent the insurance company.", "3": "The broker represents the insured, and the agent represents an insurance company. ", "4": "Both represent the insured.", "correct": "3", "reason": "A broker acts on behalf of the insured, negotiating with companies, while an agent represents and acts for a specific insurance company. "}, {"Question": "What is considered the 'real capital' of an insurance company?", "1": "Its machinery and equipment.", "2": "Its investment portfolio.", "3": "The workers in the industry. ", "4": "Its reinsurance contracts.", "correct": "3", "reason": "The work of insurance companies relies on their employees, who are considered the real capital of the company, not machines or equipment. "}, {"Question": "Who calculates settlement for large claims?", "1": "Underwriter", "2": "Actuary", "3": "Compliance officer", "4": "Loss adjuster", "correct": "4", "reason": "Loss adjusters handle large claims."}, {"Question": "Why is technology important in underwriting?", "1": "Increases sales", "2": "Eliminates reinsurance", "3": "Improves risk analysis", "4": "Reduces underwriters", "correct": "3", "reason": "Tech aids accurate risk pricing."}, {"Question": "Can an insured obtain advice from a broker without paying a direct salary?", "1": "Only if the broker is also a licensed agent for the same company.", "2": "No, brokers always charge a direct consultation fee to the insured.", "3": "Only if the insurance policy is for a very small amount.", "4": "Yes, the insured can get independent advice from a broker without paying a direct salary. ", "correct": "4", "reason": "The insured has the option to obtain independent advice or consultation from a broker without having to pay a direct salary. "}, {"Question": "What is a key difference between an insurance agent and an insurance broker?", "1": "An agent is a legal entity, while a broker is not.", "2": "An agent can sell policies for multiple companies, while a broker can only work with one.", "3": "An agent represents the insured, while a broker represents the insurer.", "4": "An agent represents and sells policies for one insurance company, while a broker can work with multiple companies on behalf of the insured. ", "correct": "4", "reason": "An agent represents a single company, whereas a broker represents the insured and can negotiate with many companies. "}, {"Question": "Which is NOT a personnel process?", "1": "Setting employment policy", "2": "Setting training policies", "3": "Managing reinsurance", "4": "Protecting property", "correct": "3", "reason": "Reinsurance is managed separately."}, {"Question": "For which type of insurance are investments considered a particularly vital factor?", "1": "Protection and savings insurance ", "2": "Property insurance", "3": "Aviation insurance", "4": "Health insurance", "correct": "1", "reason": "Investments are a vital factor for protection and savings companies, as their products often serve both income protection and investment purposes. "}, {"Question": "Which is NOT a stage in the underwriting process?", "1": "Identifying the insurance applicant and risk", "2": "Processing the claim", "3": "Submitting the application to the risk manager", "4": "Determining the percentage of risk to transfer to the reinsurer", "correct": "2", "reason": "Processing the claim is part of claims handling, not underwriting."}, {"Question": "What is the relationship between the insured and the reinsurer?", "1": "Insured claims from reinsurer", "2": "Indirect through the insurer", "3": "Direct contractual", "4": "No relationship", "correct": "4", "reason": "There is no direct relationship; it\u00e2\u20ac\u2122s via the insurer."}, {"Question": "Who negotiates reinsurance contracts?", "1": "Underwriting", "2": "Claims", "3": "Marketing", "4": "Reinsurance dept", "correct": "4", "reason": "Reinsurance dept handles contracts."}, {"Question": "Is there a direct contractual relationship between the insured and the reinsurer?", "1": "No, the contractual relationship is between the insured and the insurance company, and separately between the insurance company and the reinsurer. ", "2": "Yes, the reinsurer is co-liable with the insurance company to the insured.", "3": "No, the insured is usually aware of and approves the reinsurance arrangement.", "4": "Yes, but only for catastrophic events.", "correct": "1", "reason": "There is no legal or contractual relationship between the insured and the reinsurer; the contract exists between the insured and the insurer. "}, {"Question": "Reinsurance helps the insurance industry provide protection for what kind of risks?", "1": "Only risks located in a specific geographic area.", "2": "Only small and simple risks.", "3": "Large, concentrated, and complex risks. ", "4": "Only short-term risks.", "correct": "3", "reason": "Reinsurance is crucial for enabling the insurance industry to offer coverage for a wide variety of risks, including those that are large, concentrated, and complex. "}, {"Question": "What is the primary function that follows the marketing and selling of an insurance product?", "1": "Reinsurance", "2": "Underwriting ", "3": "Investment", "4": "Claims Settlement", "correct": "2", "reason": "Once a product is sold, the key function of underwriting begins, where the insurance company evaluates the risk. "}, {"Question": "Who manages reinsurance contracts within an insurance company?", "1": "The underwriting department", "2": "The reinsurance department", "3": "The marketing department", "4": "The claims department", "correct": "2", "reason": "The reinsurance department manages reinsurance contracts and monitors significant claims."}, {"Question": "Why do reinsurance companies need large capital?", "1": "To cover catastrophic events and handle sophisticated risk control systems. ", "2": "To pay for marketing and advertising.", "3": "To pay high salaries to their executives.", "4": "To build more office branches.", "correct": "1", "reason": "Reinsurance companies require substantial capital to cover catastrophic events and to utilize sophisticated risk control systems for the risks they underwrite. "}, {"Question": "Which department is responsible for the preparation and maintenance of accounting records?", "1": "The Risk Management Department", "2": "The Underwriting Department", "3": "The Financial Operations Department ", "4": "The Claims Department", "correct": "3", "reason": "Preparing and maintaining the company's accounting records is a core function of the financial operations department. "}, {"Question": "What is the main purpose of reinsurance for an insurance company?", "1": "To increase the number of policies sold.", "2": "To directly interact with the insured.", "3": "To set the initial premium for a policy.", "4": "To manage risks, especially those that are large, concentrated, or complex. ", "correct": "4", "reason": "Reinsurance is the primary risk management tool that helps the insurance industry provide protection for a wide range of risks, including large and complex ones. "}, {"Question": "What is the role of the Compliance Officer in an insurance company?", "1": "To handle customer claims", "2": "To underwrite insurance policies", "3": "To manage the company's investments", "4": "To ensure the company complies with laws and regulations", "correct": "4", "reason": "The Compliance Officer ensures compliance with laws and regulations issued by regulatory bodies like SAMA."}, {"Question": "Which is NOT a common marketing channel for insurance products?", "1": "Underwriting insurance policies", "2": "Television and radio advertising", "3": "Direct contact with prospective insurance seekers", "4": "Selling through insurance intermediaries", "correct": "1", "reason": "Underwriting is a separate process from marketing; it involves assessing and pricing risks."}, {"Question": "Which committee sets the investment policy of the company?", "1": "Audit Committee", "2": "Nominations and Remuneration Committee", "3": "Executive Committee", "4": "Investment Committee", "correct": "4", "reason": "The Investment Committee determines investment objectives and policy."}, {"Question": "What\u00e2\u20ac\u2122s an Actuary duty per revision?", "1": "Handle complaints", "2": "Assess financial standing", "3": "Manage sales", "4": "Marketing products", "correct": "2", "reason": "Actuaries assess finances."}, {"Question": "What is the primary purpose of underwriting in insurance?", "1": "To assess and price risks", "2": "To manage investments", "3": "To process claims", "4": "To market insurance products", "correct": "1", "reason": "Underwriting involves assessing risks and determining appropriate premiums."}, {"Question": "What is the purpose of setting performance indicators in risk management?", "1": "To provide data for marketing brochures.", "2": "To monitor the company's main, financial, and underwriting activities. ", "3": "To rank employees for annual bonuses.", "4": "To compare the company with non-insurance businesses.", "correct": "2", "reason": "Performance indicators are established to enable the company to effectively monitor its key activities, including financial and underwriting operations. "}, {"Question": "What is the central element of the insurance industry?", "1": "Profit", "2": "Customer service", "3": "Technology", "4": "Risk", "correct": "4", "reason": "Insurance is fundamentally about risk."}, {"Question": "Why is risk management crucial for insurance companies?", "1": "It is required by law", "2": "It reduces the need for reinsurance", "3": "It deals with risks as their core business", "4": "It helps increase premiums", "correct": "3", "reason": "Insurance is based on risk, making risk management essential."}, {"Question": "What is the purpose of managing reserves?", "1": "To invest in tech", "2": "To reduce salaries", "3": "To increase marketing budgets", "4": "To ensure funds for future claims", "correct": "4", "reason": "Reserves ensure funds for future obligations."}, {"Question": "Who determines the insurance premium?", "1": "Actuary", "2": "Risk manager", "3": "Underwriter", "4": "Compliance officer", "correct": "1", "reason": "Actuaries calculate premiums."}, {"Question": "What is the first stage of the underwriting process?", "1": "Identifying the insurance applicant and the risk through the insurance form and supporting documents. ", "2": "The actuary determines the insurance premium.", "3": "The underwriter decides on risk rejection or acceptance.", "4": "The underwriter transfers a percentage of risk to a reinsurer.", "correct": "1", "reason": "The underwriting process begins by identifying the applicant and the risk through the application form, sometimes supported by other documents like a loss adjuster's report. "}, {"Question": "What is an underwriter\u00e2\u20ac\u2122s role if a high-risk policy is considered?", "1": "Ignore report", "2": "Decide based on risk report", "3": "Transfer all risk", "4": "Reject automatically", "correct": "2", "reason": "Underwriters decide based on reports."}, {"Question": "What role does the underwriter play in reinsurance?", "1": "The underwriter negotiates the final reinsurance contract.", "2": "The underwriter acts as the reinsurer.", "3": "The underwriter has no role in reinsurance.", "4": "The underwriter determines the percentage of risk they wish to transfer to the reinsurer. ", "correct": "4", "reason": "As part of the underwriting process, the underwriter decides on the percentage of risk that should be transferred to a reinsurer. "}, {"Question": "Which department is responsible for managing the company's receivables and expenses?", "1": "Marketing Department", "2": "Claims Department", "3": "Human Resources", "4": "Financial Operations Department ", "correct": "4", "reason": "Following up on the company\u2019s receivables and expenses is a key function of the financial operations department. "}, {"Question": "What is selling insurance through banks called?", "1": "Direct sale", "2": "Bancassurance", "3": "Online sale", "4": "Intermediary sale", "correct": "2", "reason": "Bancassurance uses banks."}, {"Question": "A broker may give advice on which of the following?", "1": "How to file a fraudulent claim.", "2": "The insurance company's internal hiring policies.", "3": "The best market and procedures for claims. ", "4": "Which competing brokers to avoid.", "correct": "3", "reason": "A broker can provide valuable advice on matters such as the best market for a particular type of insurance and the correct procedures for handling claims. "}, {"Question": "What is one of the key responsibilities listed for the financial operations department?", "1": "Training new employees.", "2": "Following up on payment of claims and reinsurance dues. ", "3": "Setting the company's investment policy.", "4": "Developing new insurance products.", "correct": "2", "reason": "The financial operations department is responsible for following up on the payment of claims to policyholders and the dues owed to reinsurers. "}, {"Question": "Which committee reviews the annual budget?", "1": "Investment", "2": "Nominations", "3": "Audit", "4": "Executive", "correct": "4", "reason": "Executive reviews the budget."}, {"Question": "What is reinsurance?", "1": "The process of selling insurance policies to new customers.", "2": "Insurance for insurers, where an insurance company transfers risk to a reinsurance company. ", "3": "The initial underwriting of a risk.", "4": "The process of handling claims from policyholders.", "correct": "2", "reason": "Reinsurance is essentially insurance for insurers; it is the main tool for managing risk by transferring it to another party. "}, {"Question": "What is the tangible benefit of insurance demonstrated by?", "1": "The location of the head office.", "2": "The glossiness of the brochure.", "3": "The number of employees in the company.", "4": "The claims handling process. ", "correct": "4", "reason": "The tangible benefit of insurance becomes apparent to the policyholder through the process of handling and settling a claim. "}, {"Question": "When a large or technical claim is filed, who might be appointed for further investigation?", "1": "A loss adjuster and loss assessor ", "2": "The underwriter", "3": "The sales agent", "4": "The company's CEO", "correct": "1", "reason": "For large claims requiring technical expertise, a loss adjuster and loss assessor are appointed to conduct a more thorough investigation and calculate the financial settlement. "}, {"Question": "Why do insurance companies invest premiums?", "1": "To increase administrative expenses", "2": "To reduce policies sold", "3": "To avoid paying claims", "4": "To have funds for future claims and generate profit", "correct": "4", "reason": "Investments provide funds for future obligations and generate income."}, {"Question": "According to SAMA regulations, what is an insurance agent?", "1": "A legal entity that represents the insured and negotiates with multiple companies.", "2": "A channel for selling insurance through banks.", "3": "A legal entity that represents one insurance company to market and sell its policies. ", "4": "An independent advisor who does not receive a direct salary for their consultation.", "correct": "3", "reason": "An insurance agent is a legal entity that, for a fee, represents and sells insurance policies for one specific insurance company. "}, {"Question": "What is the Compliance Officer\u00e2\u20ac\u2122s role with reinsurance agreements?", "1": "Provide copies to SAMA", "2": "Market them", "3": "Underwrite them", "4": "Negotiate them", "correct": "1", "reason": "They submit copies to SAMA."}, {"Question": "What does the risk management department provide to employees?", "1": "Marketing training", "2": "Claims processing guidelines", "3": "Awareness about company risks", "4": "Investment advice", "correct": "3", "reason": "The department ensures employees are aware of risks and how to manage them."}, {"Question": "What is the role of an underwriter after analyzing information about an insurance application?", "1": "To visit all insurance applicants in person.", "2": "To immediately issue the policy without review.", "3": "To handle the final claim settlement.", "4": "To decide whether to issue the policy and determine the appropriate premium. ", "correct": "4", "reason": "After analyzing all necessary information and reports, underwriters must decide whether to issue the policy and, if so, determine the appropriate premium. "}, {"Question": "What is the term for transferring risk to a reinsurer?", "1": "Claims processing", "2": "Investment", "3": "Reinsurance", "4": "Underwriting", "correct": "3", "reason": "Reinsurance transfers risk."}, {"Question": "What\u00e2\u20ac\u2122s a benefit of website marketing?", "1": "Reduces offices", "2": "Guarantees sales", "3": "24/7 accessibility", "4": "Eliminates reps", "correct": "3", "reason": "Websites offer constant access."}, {"Question": "Which sales channel involves selling through banks?", "1": "Online sale", "2": "Direct sale", "3": "Sale through insurance agents", "4": "Bancassurance", "correct": "4", "reason": "Bancassurance is the sale of insurance products through banks."}, {"Question": "What should the reinsurance dept do for a large claim?", "1": "Pay in full", "2": "Notify reinsurer", "3": "Increase premiums", "4": "Reject it", "correct": "2", "reason": "Reinsurers share large claim costs."}, {"Question": "From an insured's perspective, what is the ultimate test of an insurance company's reputation?", "1": "The size of its investment portfolio.", "2": "The cost of the premium.", "3": "How quickly and fairly it settles claims. ", "4": "The variety of products offered.", "correct": "3", "reason": "For the insured, the reputation of an insurance company is tested by the speed and fairness with which it settles claims made by its policyholders. "}, {"Question": "What kind of policy should the risk management department issue?", "1": "A well-articulated and understandable risk management policy. ", "2": "A policy that is kept secret from most employees.", "3": "A policy that is complex and technical.", "4": "A policy that focuses only on financial risks.", "correct": "1", "reason": "The risk management department should issue a risk management policy that is clearly written, easy to understand, and covers objectives and responsibilities. "}, {"Question": "How can insurance companies improve job conditions?", "1": "Reducing salaries", "2": "Offering incentives", "3": "Limiting training", "4": "Increasing workloads", "correct": "2", "reason": "Incentives improve satisfaction."}, {"Question": "For which insurance type is investment vital?", "1": "Liability", "2": "Property", "3": "Protection and savings", "4": "Health", "correct": "3", "reason": "Protection and savings involve investment components."}, {"Question": "Who licenses insurance intermediaries like brokers in the Kingdom?", "1": "The insurance companies themselves", "2": "The Council of Cooperative Health Insurance", "3": "SAMA (Saudi Central Bank) ", "4": "The Ministry of Commerce", "correct": "3", "reason": "SAMA has licensed a number of insurance intermediaries, including brokers. "}, {"Question": "Which sales channel uses telephone contact?", "1": "Online sale", "2": "Bancassurance", "3": "Direct sale", "4": "Call centers", "correct": "4", "reason": "Call centers sell insurance via telephone."}, {"Question": "What is the primary role of an insurance broker?", "1": "To provide independent advice and negotiate with various insurance companies on behalf of the insured. ", "2": "To represent a single insurance company and sell its policies.", "3": "To manage the investment portfolio of an insurance company.", "4": "To underwrite risks and set premiums.", "correct": "1", "reason": "A broker is a legal entity that negotiates with insurance companies to complete the insurance process for the benefit of the insured and may offer independent advice on various insurance types. "}, {"Question": "Which department follows up on receivables?", "1": "Claims", "2": "Financial operations", "3": "Underwriting", "4": "Marketing", "correct": "2", "reason": "Financial operations manage receivables."}, {"Question": "Which function in an insurance company starts after the sales channels succeed in marketing and selling a product?", "1": "Reinsurance", "2": "Investment management", "3": "Claims processing", "4": "The underwriting process ", "correct": "4", "reason": "After a product is sold, the important function of underwriting begins, where the company collects documents to make a specific offer. "}, {"Question": "How do 'smart systems' assist underwriters in their decision-making?", "1": "By suggesting to accept or reject the risk and adjusting the price accordingly. ", "2": "By automatically paying out small claims.", "3": "By generating new sales leads.", "4": "By communicating directly with the insured.", "correct": "1", "reason": "These systems analyze claims, suggest whether to accept or reject the associated risk, and adjust the insurance price based on that risk, improving the underwriter's decision-making. "}, {"Question": "What is the function of an audit committee in an insurance company?", "1": "To manage the company's investment portfolio.", "2": "To approve new insurance products.", "3": "To set salaries for executives.", "4": "To oversee financial reporting and internal controls. ", "correct": "4", "reason": "The audit committee is responsible for duties such as overseeing the company's financial reporting processes and its system of internal controls. (Note: This is inferred from the question in the source)."}, {"Question": "What is the main challenge for an insurance company in managing claims?", "1": "To pay every claim in full, regardless of the circumstances.", "2": "To satisfy the client while reducing administrative expenses and avoiding excessive compensation. ", "3": "To process claims as slowly as possible to earn more investment income.", "4": "To find reasons to reject every claim submitted.", "correct": "2", "reason": "When managing claims, the insured seeks a balance between satisfying the client, minimizing administrative costs, and preventing excessive compensation payments. "}, {"Question": "What must the Board of Directors do with the capital structure?", "1": "Identify optimal structure and budgets", "2": "Ignore it", "3": "Focus on marketing", "4": "Delegate to Investment", "correct": "1", "reason": "Board sets capital structure."}, {"Question": "What is described as the 'measure that shows the tangible benefit of insurance'?", "1": "The size of the insurance company.", "2": "The claims handling process. ", "3": "The complexity of the policy document.", "4": "The marketing advertisements.", "correct": "2", "reason": "Claims handling is the process that demonstrates the tangible, real-world benefit of having insurance. "}, {"Question": "Why avoid excessive compensation in claims?", "1": "Maintain stability and fairness", "2": "Reduce claims", "3": "Discourage claims", "4": "Maximize profits", "correct": "1", "reason": "Excess harms stability and fairness."}, {"Question": "What must each insurance company set up and have approved by its Board of Directors regarding its funds?", "1": "A staff party policy.", "2": "A social media usage policy.", "3": "A company car policy.", "4": "An investment policy. ", "correct": "4", "reason": "Every insurance company is required to establish an investment policy, approved by the Board, to manage its investment activities in line with SAMA's instructions. "}, {"Question": "What is a developing country's disadvantage in using the internet for e-marketing compared to developed countries?", "1": "Lack of material, human, and technological resources. ", "2": "Higher competition among local companies.", "3": "Lack of interest from the population.", "4": "Stricter government regulations.", "correct": "1", "reason": "Developing countries often lack the necessary material, human, and technological resources to fully utilize technological developments like the internet for e-marketing. "}, {"Question": "Which marketing channel uses training courses?", "1": "Exhibitions", "2": "Training courses", "3": "TV ads", "4": "Direct contact", "correct": "2", "reason": "Courses raise insurance awareness."}, {"Question": "What is the essence of an underwriter's job?", "1": "To determine the risk degree of policyholders and price policies accordingly. ", "2": "To minimize the number of policies issued.", "3": "To maximize sales regardless of risk.", "4": "To handle post-claim customer service.", "correct": "1", "reason": "The fundamental role of an underwriter is to assess the level of risk associated with policyholders and to set appropriate prices for the policies covering that risk. "}, {"Question": "After a risk is accepted, conditionally or unconditionally, by an underwriter, what is the next step mentioned?", "1": "The actuary is asked to determine an appropriate insurance premium. ", "2": "The reinsurance process begins.", "3": "The sales agent is notified.", "4": "The policy is immediately issued.", "correct": "1", "reason": "Following the underwriter's decision to accept a risk, the actuary is then tasked with calculating the appropriate premium. "}, {"Question": "Who approves the investment policy of an insurance company?", "1": "The Saudi Central Bank (SAMA) directly.", "2": "The head of the Underwriting department.", "3": "The company's actuaries.", "4": "The Board of Directors. ", "correct": "4", "reason": "Each insurance company must have an investment policy that is approved by its Board of Directors to manage investment operations. "}, {"Question": "What must the Internal Auditor include in their report?", "1": "Marketing strategies", "2": "Customer surveys", "3": "Investment performance", "4": "Control evaluation and recommendations", "correct": "4", "reason": "They evaluate controls and suggest improvements."}, {"Question": "What is the core definition of underwriting in an insurance company?", "1": "The process of marketing and selling insurance policies.", "2": "The process of investigating and settling claims.", "3": "The process by which an underwriter decides whether to accept a risk and sets the terms, conditions, and price. ", "4": "The process of reinsuring risks with another company.", "correct": "3", "reason": "Underwriting is a primary function where the underwriter decides on the acceptance of an insurance offer and determines the necessary conditions and price. "}, {"Question": "What are the two primary sources of profit for insurance companies?", "1": "Underwriting profits and sales commissions.", "2": "Investment profits and reinsurance commissions.", "3": "Sales profits and service fees.", "4": "Underwriting profits and investment profits. ", "correct": "4", "reason": "Insurance companies generate their profits from two main sources: underwriting activities and investment returns. "}, {"Question": "What\u00e2\u20ac\u2122s a main Board duty per revision?", "1": "Handle complaints", "2": "Underwrite policies", "3": "Daily operations", "4": "Set strategic objectives", "correct": "4", "reason": "Setting objectives is key."}, {"Question": "What is the primary reason for a developing country's struggle with e-marketing in insurance?", "1": "Excessive government intervention.", "2": "A saturated market with too many competitors.", "3": "A general distrust of technology.", "4": "A lack of necessary material, human, and technological resources. ", "correct": "4", "reason": "Compared to developed nations, developing countries often lack the fundamental resources\u2014be it material, human, or technological\u2014to effectively implement new techniques like e-marketing. "}, {"Question": "What must an insurance company licensed in Saudi Arabia establish for claims?", "1": "A policy to delay claim payments as long as possible.", "2": "Specific procedures to receive, study, and settle insured's claims. ", "3": "A separate company just for handling claims.", "4": "A system to reject most claims automatically.", "correct": "2", "reason": "All licensed insurance companies in the Kingdom must have specific procedures in place for receiving, studying, and settling the claims of the insured. "}, {"Question": "The Investment Department of an insurance company manages investment portfolios in accordance with instructions from whom?", "1": "The Board of Directors only.", "2": "The chief actuary.", "3": "The company's shareholders.", "4": "The Saudi Central Bank (SAMA). ", "correct": "4", "reason": "The Investment Department must manage its portfolios according to the instructions issued by the Saudi Central Bank (SAMA). "}, {"Question": "What\u00e2\u20ac\u2122s the Compliance Officer\u00e2\u20ac\u2122s purpose per revision?", "1": "Underwrite policies", "2": "Ensure compliance", "3": "Manage investments", "4": "Handle claims", "correct": "2", "reason": "They ensure regulatory compliance."}, {"Question": "What dual purpose does investment income serve?", "1": "Profit and lower premiums", "2": "Increasing premiums", "3": "Hiring employees", "4": "Developing products", "correct": "1", "reason": "Investment profit aids competitiveness."}, {"Question": "What\u00e2\u20ac\u2122s key for customer satisfaction in claims?", "1": "Increasing fees", "2": "Delaying process", "3": "Reducing compensation", "4": "Quick and fair settlement", "correct": "4", "reason": "Timely, fair settlement is key."}, {"Question": "What is one advantage of selling insurance through banks?", "1": "It guarantees higher premiums", "2": "It eliminates underwriting", "3": "It reduces the need for marketing", "4": "It helps develop the insurance culture in society", "correct": "4", "reason": "Selling through banks spreads insurance awareness and culture in society."}, {"Question": "What is the function of the actuary in the insurance process?", "1": "To manage the company's human resources.", "2": "To sell the insurance policy.", "3": "To investigate claims.", "4": "To determine an appropriate insurance premium. ", "correct": "4", "reason": "The actuary's role is to calculate and determine a suitable insurance premium for the risk being underwritten. "}, {"Question": "What is the responsibility of the reinsurance department within an insurance company?", "1": "To handle all customer claims.", "2": "To manage the company's reinsurance contracts and nominate the best structure for them. ", "3": "To invest the company's premiums.", "4": "To sell policies directly to customers.", "correct": "2", "reason": "The reinsurance department's responsibilities include managing reinsurance contracts and recommending the best reinsurance structure to company management. "}, {"Question": "Who does the Internal Auditor report to?", "1": "The Actuarial Expert", "2": "The Compliance Officer", "3": "The Audit Committee", "4": "The Board of Directors", "correct": "3", "reason": "The Internal Auditor submits reports to the Audit Committee."}, {"Question": "What must insurance companies balance in claims handling?", "1": "Balancing satisfaction, expenses, and compensation", "2": "Maximizing expenses", "3": "Focusing on profit", "4": "Minimizing satisfaction", "correct": "1", "reason": "Companies balance satisfaction, costs, and fair compensation."}, {"Question": "What\u00e2\u20ac\u2122s a disadvantage of intermediaries?", "1": "Increases costs", "2": "Reduces trust", "3": "Conflicts of interest", "4": "Limits insurance types", "correct": "3", "reason": "Intermediaries may have conflicts."}, {"Question": "If an underwriter's acceptance of a risk is 'conditional', what is their next step?", "1": "To ask the risk manager for another report.", "2": "To transfer the entire risk to a reinsurer.", "3": "To place the policy content and make appropriate amendments. ", "4": "To reject the risk.", "correct": "3", "reason": "When acceptance is conditional, the underwriter is responsible for placing the policy content and making the necessary amendments. "}, {"Question": "How does a protection and savings insurance product function?", "1": "Solely as income protection.", "2": "As a way to get discounts on other insurance products.", "3": "As both income protection (like life insurance) and as a means of investment. ", "4": "Solely as a means of investment.", "correct": "3", "reason": "Most protection and savings products serve a dual role, providing not only income protection (as in life insurance) but also acting as an investment vehicle. "}, {"Question": "Which is NOT a function of the financial operations department?", "1": "Following up on receivables", "2": "Providing periodic financial reports", "3": "Underwriting insurance policies", "4": "Managing cash flow from premiums", "correct": "3", "reason": "Underwriting is a separate function from financial operations."}, {"Question": "What entity must grant a license for insurance to be carried out through banks in the Kingdom?", "1": "The Ministry of Finance", "2": "SAMA (Saudi Central Bank) ", "3": "The Council of Saudi Chambers", "4": "The bank's Board of Directors", "correct": "2", "reason": "To sell insurance through banks in the Kingdom, the appropriate license must be obtained from SAMA. "}, {"Question": "What is a primary responsibility of a company's reinsurance department regarding claims?", "1": "To reject claims that are too large.", "2": "To act as the loss adjuster for all claims.", "3": "To monitor significant loss claims and determine when to present them to reinsurers. ", "4": "To pay claims directly to the insured.", "correct": "3", "reason": "The reinsurance department is tasked with monitoring claims involving significant losses and deciding the right time to submit them to their reinsurance partners. "}, {"Question": "What two conflicting goals must be balanced in claims management?", "1": "Client satisfaction on one hand, and reducing administrative expenses and avoiding excessive compensation on the other. ", "2": "Paying all claims in full on one hand, and maintaining profitability on the other.", "3": "Rapid payment on one hand, and thorough investigation on the other.", "4": "Hiring more adjusters on one hand, and reducing staff on the other.", "correct": "1", "reason": "Claims management involves balancing the need to satisfy the client with the company's goals of minimizing administrative costs and avoiding overpayment of compensation. "}, {"Question": "What is one of the main duties of an actuary?", "1": "To manage the company's social media accounts.", "2": "To sell insurance policies.", "3": "To analyze statistics and calculate risks and premiums. ", "4": "To design the company's logo.", "correct": "3", "reason": "An actuary's duties include analyzing statistical data to calculate risks and determine appropriate premiums for insurance policies. (Note: This is inferred from the question in the source)."}, {"Question": "What is the potential consequence of unprofessional underwriting?", "1": "The company will not need reinsurance.", "2": "The sales channels will become more effective.", "3": "The company will attract more customers.", "4": "The company may have to pay claims that are not covered by sufficient premiums. ", "correct": "4", "reason": "If underwriting is unprofessional, the premiums received may not be sufficient to pay compensation for claims. "}, {"Question": "Is there a direct contractual relationship between the insured and the reinsurer?", "1": "No", "2": "Only in certain cases", "3": "Yes", "4": "It depends on the type of insurance", "correct": "1", "reason": "There is no direct relationship; it exists between the insurance company and the reinsurer."}, {"Question": "What is the primary mission of the risk management department?", "1": "To manage investments", "2": "To identify, measure, and manage risks", "3": "To market insurance products", "4": "To handle customer complaints", "correct": "2", "reason": "Risk management identifies, measures, and manages risks to protect the company."}, {"Question": "What are the three possible decisions an underwriter can make based on the Risk Manager's report?", "1": "Immediate payment, delayed payment, or no payment.", "2": "High premium, low premium, or no premium.", "3": "Approve, deny, or suggest another company.", "4": "Risk rejection, conditional acceptance, or unconditional acceptance. ", "correct": "4", "reason": "Based on the risk manager's report, the underwriter will decide to either reject the risk, accept it with conditions, or accept it unconditionally. "}, {"Question": "What term describes the computer systems used by underwriters to analyze and price insurance claims automatically?", "1": "'Customer relationship management' (CRM) systems", "2": "'Smart systems' ", "3": "'Pricing calculators'", "4": "'Sales automation' software", "correct": "2", "reason": "Underwriters use 'smart systems,' which are computer applications that help manage risks more effectively by automatically analyzing and pricing claims. "}, {"Question": "What\u00e2\u20ac\u2122s an Executive Committee duty per revision?", "1": "Review budget", "2": "Set investment policy", "3": "Audit statements", "4": "Nominate candidates", "correct": "1", "reason": "They review the budget."}, {"Question": "What is the relationship between the underwriter and the actuary in the underwriting process?", "1": "They perform the exact same function.", "2": "The underwriter determines the premium, and the actuary assesses the risk.", "3": "The actuary analyzes the risk, and the underwriter determines the premium.", "4": "The underwriter assesses the risk and makes an acceptance decision, then the actuary is asked to determine the premium. ", "correct": "4", "reason": "After the underwriter analyzes the risk and makes a decision (acceptance, conditional acceptance, or rejection), the actuary is then called upon to set the appropriate premium. "}, {"Question": "In most cases, is the insured aware that their policy is reinsured?", "1": "Yes, they are part of the reinsurance negotiation.", "2": "No, in most cases, the insured does not know that there is reinsurance. ", "3": "Yes, it is a legal requirement to inform them.", "4": "Only if the premium is above a certain amount.", "correct": "2", "reason": "Typically, the insured is not aware that their insurance policy has been reinsured by the insurance company. "}, {"Question": "What is a key responsibility of the risk management department regarding company employees?", "1": "Providing the necessary level of awareness about the risks the company is exposed to. ", "2": "Hiring and firing employees.", "3": "Determining employee salaries.", "4": "Managing employee vacation schedules.", "correct": "1", "reason": "The risk management department is responsible for ensuring that company employees are sufficiently aware of the risks the company faces and how to deal with them. "}, {"Question": "Why are employees the real capital?", "1": "Insurance relies on expertise", "2": "They manage investments", "3": "They underwrite policies", "4": "They handle complaints", "correct": "1", "reason": "Insurance depends on human skills."}, {"Question": "What are the two main sources of profit for insurance companies?", "1": "Underwriting profits and marketing profits", "2": "Sales profits and administrative profits", "3": "Underwriting profits and investment profits", "4": "Investment profits and claims settlements", "correct": "3", "reason": "Insurance companies gain profits from underwriting and investments."}, {"Question": "In most developed insurance markets, how are most business insurance operations carried out?", "1": "Through online-only platforms.", "2": "Through government agencies.", "3": "Through registered and licensed intermediaries. ", "4": "Directly with the insurance company.", "correct": "3", "reason": "Most business insurance operations in developed markets are conducted through registered and licensed intermediaries. "}, {"Question": "What\u00e2\u20ac\u2122s a Board characteristic per revision?", "1": "From different countries", "2": "Represents main partners", "3": "All insurance experts", "4": "No experience", "correct": "2", "reason": "Board represents main partners."}, {"Question": "What is a primary role of the executive committee of the Board of Directors?", "1": "To directly manage the sales force.", "2": "To conduct detailed audits of all departments.", "3": "To act on behalf of the Board between meetings on specified matters. ", "4": "To handle day-to-day operational tasks.", "correct": "3", "reason": "The executive committee is tasked with certain duties and responsibilities, acting for the Board on specific issues when the full Board is not convened. (Note: This is inferred from the question in the source)."}, {"Question": "What modern tools do underwriters use to manage risks more effectively?", "1": "Sales channel performance reports", "2": "Smart systems and computer applications ", "3": "Customer satisfaction surveys", "4": "Manual pricing tables and actuarial data only", "correct": "2", "reason": "Underwriters use computer systems and applications called 'smart systems' to manage and analyze risks more effectively and accurately. "}, {"Question": "What is the result of using 'smart systems' in underwriting?", "1": "It improves underwriters' ability to make sound decisions and avoid unexpected losses. ", "2": "It increases the likelihood of unprofessional underwriting.", "3": "It makes the underwriter's job obsolete.", "4": "It slows down the underwriting process.", "correct": "1", "reason": "These systems enhance the underwriter's capacity to make sound, data-driven decisions and help in preventing unforeseen losses. "}, {"Question": "Who is responsible for negotiating a variety of reinsurance contracts for the company?", "1": "The Audit Committee", "2": "The CEO", "3": "The primary underwriter", "4": "The Reinsurance Section ", "correct": "4", "reason": "The Reinsurance Section is responsible for negotiating different types of reinsurance contracts and proposing the best structure for the company. "}, {"Question": "What must be in each claim file?", "1": "Only loss adjuster report", "2": "Only customer claim", "3": "Only INSURANCE application", "4": "Application, policy copy, claim, and docs", "correct": "4", "reason": "Claim files need all relevant documents."}, {"Question": "What is the main role of the underwriter in an insurance company?", "1": "To manage the company's investments.", "2": "To handle claims from policyholders.", "3": "To determine the risk degree of policyholders and set appropriate prices for policies. ", "4": "To sell insurance policies.", "correct": "3", "reason": "The essence of the underwriter's role is to determine the risk level of policyholders and to price the insurance policies that will cover that risk appropriately. "}, {"Question": "What are the duties of an investment committee?", "1": "To handle customer claims.", "2": "To oversee the company's investment activities and ensure they align with policy. ", "3": "To set the company's overall strategic direction.", "4": "To manage daily staff requirements.", "correct": "2", "reason": "The investment committee's responsibilities include overseeing the company's investment operations and ensuring they are consistent with the established investment policy. (Note: This is inferred from the question in the source)."}, {"Question": "Which committee ensures compliance with applicable laws and regulations?", "1": "Investment Committee", "2": "Executive Committee", "3": "Nominations and Remuneration Committee", "4": "Audit Committee", "correct": "4", "reason": "The Audit Committee ensures compliance through the regulatory compliance officer and auditors."}, {"Question": "What might an underwriter decide based on the risk manager's report?", "1": "Always accept the risk", "2": "Reject, conditionally accept, or fully accept", "3": "Ignore the report", "4": "Transfer all risk", "correct": "2", "reason": "The underwriter decides based on the report."}, {"Question": "What is the purpose of the compliance officer position in the insurance industry?", "1": "To design marketing campaigns.", "2": "To ensure the company adheres to laws and regulations. ", "3": "To maximize company profits.", "4": "To underwrite high-risk policies.", "correct": "2", "reason": "The purpose of the compliance officer is to ensure that the insurance company operates in accordance with all applicable laws and regulations. (Note: This is inferred from the question in the source)."}, {"Question": "Why do reinsurers need large capital?", "1": "To hire employees", "2": "To cover catastrophic events", "3": "To invest in tech", "4": "To pay marketing expenses", "correct": "2", "reason": "Large capital covers significant losses from catastrophes."}, {"Question": "What is 'Bancassurance'?", "1": "Selling insurance exclusively online.", "2": "Selling insurance through a company's own sales force.", "3": "Selling insurance products through banks' network branches. ", "4": "Selling insurance through insurance intermediaries.", "correct": "3", "reason": "Bancassurance is a strategy that uses banks' branches as an alternative distribution channel to sell insurance products. "}, {"Question": "What must be kept in claims files, besides the policy and claim form?", "1": "The CEO's biography", "2": "The marketing budget for the year.", "3": "A list of company shareholders.", "4": "Report of the loss adjuster, if any. ", "correct": "4", "reason": "A claims file should include any report from a loss adjuster and other necessary documents to substantiate the claim. "}, {"Question": "What\u00e2\u20ac\u2122s done when a claim exceeds retention?", "1": "Increase premium", "2": "Reject claim", "3": "Involve reinsurer", "4": "Pay in full", "correct": "3", "reason": "Reinsurers share excess costs."}, {"Question": "What is one of the main goals of using Bancassurance as a distribution channel?", "1": "To reduce the market share of the insurance company.", "2": "To increase insurance premiums and market share, and reduce marketing costs. ", "3": "To limit the distribution of insurance products to urban areas.", "4": "To increase the cost of marketing.", "correct": "2", "reason": "Bancassurance is a strategy used to increase insurance premiums and market share while also reducing the costs associated with marketing and sales. "}, {"Question": "What is a financial operations responsibility regarding reinsurance?", "1": "Negotiate contracts", "2": "Underwrite reinsurance", "3": "Follow up on reinsurance dues", "4": "Market reinsurance", "correct": "3", "reason": "The department ensures timely reinsurance payments."}, {"Question": "What is a key characteristic of the relationship between an insurance company and a reinsurer?", "1": "It is managed directly by the insured party.", "2": "It is a public relationship known to all policyholders.", "3": "It is a temporary arrangement that ends after one year.", "4": "It is a promise to pay future claims in return for a currently paid premium. ", "correct": "4", "reason": "Similar to an insurance contract, a reinsurance agreement is essentially a promise by the reinsurer to pay future claims in exchange for a premium paid by the insurance company. "}, {"Question": "What is a major benefit of Bancassurance for the insurance sector as a whole?", "1": "It helps in developing and spreading the insurance culture in society. ", "2": "It limits the number of customers an insurance company can reach.", "3": "It increases the complexity of insurance products.", "4": "It increases the cost of marketing and sales.", "correct": "1", "reason": "Selling insurance through banks has many positive aspects, the most important of which is developing and spreading the insurance culture within society. "}, {"Question": "What might happen if an underwriter's risk assessment is too severe?", "1": "Premiums will be too low", "2": "The company may gain more customers", "3": "The company will not need reinsurance", "4": "The company may lose customers to competitors", "correct": "4", "reason": "Severe assessments may lead to high premiums, causing customers to choose competitors."}, {"Question": "What tool do underwriters use to manage risks effectively?", "1": "Smart systems", "2": "Marketing strategies", "3": "Reinsurance contracts", "4": "Claims software", "correct": "1", "reason": "Smart systems help analyze and price risks accurately."}, {"Question": "Who assesses financial standing and retention ratios?", "1": "Risk Manager", "2": "Actuarial Expert", "3": "Compliance Officer", "4": "Internal Auditor", "correct": "2", "reason": "Actuarial Experts assess finances."}, {"Question": "What is the role of insurance intermediaries in the sales process?", "1": "To negotiate with the company to complete the insurance process", "2": "To underwrite insurance policies", "3": "To manage investments", "4": "To handle claims processing", "correct": "1", "reason": "Intermediaries, like brokers, negotiate with the company to complete the insurance process for the insured."}, {"Question": "What is the dual purpose of investment income for an insurance company?", "1": "To build new branches and to pay government taxes.", "2": "To gain profit and to reduce premium values for customers, making the company more competitive. ", "3": "To pay staff salaries and to buy new equipment.", "4": "To fund marketing campaigns and to pay reinsurance dues.", "correct": "2", "reason": "A good investment income allows the company to gain profit and also enables it to lower customer premiums, thus enhancing its competitive position in the market. "}, {"Question": "Who is responsible for appointing a loss adjuster for a large and technical property claim?", "1": "The insurance company. ", "2": "SAMA.", "3": "The insured.", "4": "The reinsurer.", "correct": "1", "reason": "For large claims requiring technical expertise, the insurance company appoints a loss adjuster and loss assessor to investigate and calculate the settlement. "}, {"Question": "What does the risk management department develop to manage risks facing the organization?", "1": "Employee compensation packages.", "2": "Appropriate tools for managing risks. ", "3": "New insurance products.", "4": "Marketing campaigns.", "correct": "2", "reason": "One of the responsibilities of the risk management department is to develop suitable tools for managing the risks that the organization is exposed to. "}, {"Question": "When might a loss adjuster be involved in the underwriting process?", "1": "Never, as they are only involved in claims.", "2": "Only after a claim has been denied.", "3": "In property insurance, their report may be a required supporting document. ", "4": "For all types of insurance applications.", "correct": "3", "reason": "In certain types of insurance, such as property insurance, a report from a loss adjuster may be needed as a supporting document during the underwriting stage. "}, {"Question": "Why do insurance companies often not expect to pay claims for a period of time after receiving premiums?", "1": "Because they delay payments intentionally.", "2": "Because claims are always fraudulent.", "3": "This is particularly true for protection and savings insurance companies. ", "4": "Because policyholders rarely file claims.", "correct": "3", "reason": "Insurance companies, especially those dealing with protection and savings products, receive premiums but may not have to pay out claims for some time. "}, {"Question": "What is the significance of claims handling for an insurance company?", "1": "It has no impact on reputation", "2": "It is a minor administrative task", "3": "It demonstrates the company's commitment to its promise", "4": "It is only important for large claims", "correct": "3", "reason": "Claims handling shows reliability and affects the company's reputation."}, {"Question": "The work of insurance companies is not based on machines or equipment, but on what?", "1": "The workers in the industry. ", "2": "The number of computers they own.", "3": "The amount of office space they have.", "4": "Government funding.", "correct": "1", "reason": "The text emphasizes that the real capital and foundation of an insurance company's work are its employees, not its physical assets like machines. "}, {"Question": "What does the term 'Bancassurance' refer to?", "1": "A type of insurance policy for banks.", "2": "The selling of insurance products through a bank's distribution channels. ", "3": "The national bank that regulates insurance.", "4": "An assurance that a bank is financially stable.", "correct": "2", "reason": "Bancassurance is the strategy of using a bank's network of branches as an alternative channel to distribute and sell insurance products. "}, {"Question": "Which marketing channel involves distributing brochures?", "1": "Brochure distribution", "2": "Television advertising", "3": "Direct contact", "4": "Website marketing", "correct": "1", "reason": "Brochure distribution showcases product features."}, {"Question": "How does the risk management department add value to an insurance organization?", "1": "By focusing only on external risks and ignoring internal ones.", "2": "By increasing the amount of risk the company takes on.", "3": "By handling all financial transactions of the company.", "4": "By providing awareness to employees about the risks the company is exposed to and how to face them. ", "correct": "4", "reason": "The risk management department adds value by, among other things, providing the necessary level of awareness about risks to company employees and how to confront them. "}, {"Question": "What\u00e2\u20ac\u2122s underwriting per revision?", "1": "Managing investments", "2": "Marketing products", "3": "Assessing and pricing risks", "4": "Handling claims", "correct": "3", "reason": "Underwriting assesses and prices risks."}, {"Question": "Which department in an insurance company is responsible for paying commissions to sales channels?", "1": "Underwriting Department", "2": "Financial Operations Department ", "3": "Claims Department", "4": "Human Resources", "correct": "2", "reason": "The Financial Operations department handles the payment of commissions to the beneficiaries of the sales channels. "}, {"Question": "What is the potential consequence if an underwriter's assessment of risks is too severe?", "1": "The company may lose customers to competitors due to excessive premiums. ", "2": "The reinsurance process will become more complex.", "3": "The company may have to pay non-outstanding claims.", "4": "The company's investment profits will decrease.", "correct": "1", "reason": "If an underwriter's risk assessment is too severe, it can lead to excessive and unaffordable premiums, causing the insurance company to lose customers to its competitors. "}, {"Question": "Who determines if a loss is covered by the policy?", "1": "The risk manager", "2": "The underwriter", "3": "The claims representative", "4": "The compliance officer", "correct": "3", "reason": "The claims representative investigates coverage."}, {"Question": "Who might underwriters visit from time to time to clarify policy terms?", "1": "Company shareholders", "2": "Reinsurers", "3": "Regulators", "4": "Insurance applicants or sales channel representatives ", "correct": "4", "reason": "On occasion, underwriters may visit insurance applicants, along with sales representatives, to provide clarification on insurance coverage or policy terms. "}, {"Question": "What is a potential negative outcome if premiums received are not sufficient to pay compensation?", "1": "The company will attract more investors.", "2": "The company's reputation will improve.", "3": "The company will have to pay non-outstanding claims due to unprofessional underwriting. ", "4": "The company's sales will increase.", "correct": "3", "reason": "Unprofessional underwriting that results in premiums being too low to cover claims means the company will have to pay for losses out of its own funds. "}, {"Question": "What types of events do most reinsurance operations purchased by insurers cover?", "1": "Marketing and administrative expenses.", "2": "Small, individual losses only.", "3": "Employee-related incidents.", "4": "Large individual losses and catastrophic events. ", "correct": "4", "reason": "Insurers typically purchase reinsurance to cover large individual losses and catastrophic events that they cannot handle on their own. "}, {"Question": "What enables an insurance company to monitor its main, financial, and underwriting activities?", "1": "Customer feedback surveys.", "2": "Competitor analysis reports.", "3": "Media and press releases.", "4": "Setting performance indicators. ", "correct": "4", "reason": "The risk management department sets performance indicators that allow the company to monitor its principal activities, including financial and underwriting operations. "}, {"Question": "Who does the Audit Committee work with for compliance?", "1": "Marketing", "2": "Compliance officer and auditors", "3": "Sales reps", "4": "Underwriting", "correct": "2", "reason": "They ensure compliance with officers and auditors."}, {"Question": "Who does Senior Management report to?", "1": "Actuarial Expert", "2": "Compliance Officer", "3": "Board of Directors", "4": "Internal Auditor", "correct": "3", "reason": "They report to the Board."}, {"Question": "Why is reinsurance considered 'insurance for insurers'?", "1": "Because only insurance companies can be reinsurers.", "2": "Because insurers are the policyholders in a reinsurance contract. ", "3": "Because it is sold in the same way as regular insurance.", "4": "Because it is regulated by the same laws as primary insurance.", "correct": "2", "reason": "Reinsurance is described as 'insurance for insurers' because it is a process where insurance companies (the insurers) purchase insurance to cover risks they cannot or do not wish to incur on their own. "}, {"Question": "What\u00e2\u20ac\u2122s the first document in a claim file?", "1": "Policy copy", "2": "Customer claim", "3": "Application form", "4": "Loss adjuster report", "correct": "3", "reason": "Application form is essential."}, {"Question": "What is a task of the Actuarial Expert?", "1": "Managing sales", "2": "Handling complaints", "3": "Pricing products", "4": "Developing campaigns", "correct": "3", "reason": "They price insurance products."}, {"Question": "After an insurance application is submitted, who analyzes it and sends a report to the underwriter?", "1": "The risk manager ", "2": "The claims department", "3": "The actuary", "4": "The sales agent", "correct": "1", "reason": "The insurance application is submitted to the risk manager, who analyzes it and then sends a report to the underwriter. "}, {"Question": "What\u00e2\u20ac\u2122s the primary goal of reinsurance?", "1": "Reduce large loss risk", "2": "Improve service", "3": "Increase premiums", "4": "Expand market", "correct": "1", "reason": "It mitigates large loss risks."}, {"Question": "What information do underwriters often use to analyze insurance applications?", "1": "Only the application form itself.", "2": "The company's stock performance.", "3": "Loss adjuster\u2019s reports, risk management reports, medical reports, and actuarial studies. ", "4": "Customer testimonials and social media profiles.", "correct": "3", "reason": "Insurance applications are frequently accompanied by various reports such as those from loss adjusters, risk management, and actuarial studies to aid in the underwriting decision. "}, {"Question": "What is a primary responsibility of the Personnel and Administrative department?", "1": "To approve financial reports.", "2": "To manage and protect the property of the company. ", "3": "To set premium rates.", "4": "To decide on reinsurance contracts.", "correct": "2", "reason": "Managing and protecting the company's property is listed as one of the key operations of the personnel and administrative department. "}, {"Question": "What is one of the main functions of the Executive Committee?", "1": "To audit the company's financial statements", "2": "To review and approve the appointment of senior officials", "3": "To handle reinsurance contracts", "4": "To manage the company's investments", "correct": "2", "reason": "The Executive Committee reviews and approves senior official appointments as requested by the Nominations and Remuneration Committee."}, {"Question": "When a claim is submitted, who determines if the loss is covered by the policy?", "1": "The claims representative ", "2": "The CEO", "3": "The actuary", "4": "The sales agent", "correct": "1", "reason": "When an insured files a claim, a claims representative investigates it to determine whether the loss is covered under the terms of the policy. "}, {"Question": "What is the term for the process by which an underwriter decides whether to accept or reject an insurance offer?", "1": "Marketing", "2": "Investing", "3": "Underwriting ", "4": "Claiming", "correct": "3", "reason": "Underwriting is the specific process where an underwriter evaluates an insurance offer and decides on its acceptance and terms. "}]
+[
+  {
+    "Question": "What is Senior Management's responsibility regarding risk?",
+    "1": "To avoid risk-taking",
+    "2": "To delegate all risk to the Board",
+    "3": "To ignore risks",
+    "4": "To set procedures for risk identification and control",
+    "correct": "4",
+    "reason": "Senior Management develops risk management procedures."
+  },
+  {
+    "Question": "Who might an underwriter consult with before making a final decision on a policy?",
+    "1": "The marketing department.",
+    "2": "Loss adjusters, risk managers, and actuaries. ",
+    "3": "The insured's family members.",
+    "4": "Competitors' sales agents.",
+    "correct": "2",
+    "reason": "Underwriters rely on reports and studies from various experts, including loss adjusters, risk managers, and actuaries, to inform their decisions. "
+  },
+  {
+    "Question": "Which department develops risk management tools?",
+    "1": "Claims",
+    "2": "Marketing",
+    "3": "Underwriting",
+    "4": "Risk management",
+    "correct": "4",
+    "reason": "Risk management develops risk tools."
+  },
+  {
+    "Question": "Which sales channel uses reps for one company?",
+    "1": "Agents",
+    "2": "Bancassurance",
+    "3": "Online sales",
+    "4": "Brokers",
+    "correct": "1",
+    "reason": "Agents represent one company."
+  },
+  {
+    "Question": "The document states that Bancassurance is a strategy that helps reduce the cost of what?",
+    "1": "Claims processing and settlement.",
+    "2": "Employee salaries and benefits.",
+    "3": "Underwriting and Reinsurance.",
+    "4": "Marketing, sales, and insurance products prices. ",
+    "correct": "4",
+    "reason": "One of the objectives of Bancassurance is to reduce the costs associated with marketing, sales, and the prices of insurance products. "
+  },
+  {
+    "Question": "What connects the insurance applicants and the sales channels, according to the text?",
+    "1": "The claims department",
+    "2": "The underwriters ",
+    "3": "The financial department",
+    "4": "The reinsurers",
+    "correct": "2",
+    "reason": "By making the decision to issue a policy or not, underwriters act as the link between the applicants and the insurance sales channels. "
+  },
+  {
+    "Question": "Who analyzes the insurance application for risks?",
+    "1": "The actuary",
+    "2": "The risk manager",
+    "3": "The underwriter",
+    "4": "The compliance officer",
+    "correct": "2",
+    "reason": "The risk manager analyzes and reports to the underwriter."
+  },
+  {
+    "Question": "What happens to claims with significant losses in relation to reinsurance?",
+    "1": "The reinsurance department monitors them and determines when to provide them to their reinsurers. ",
+    "2": "They are ignored by the reinsurance department.",
+    "3": "They result in the cancellation of the primary insurance policy.",
+    "4": "They are paid directly by the reinsurer to the insured.",
+    "correct": "1",
+    "reason": "The reinsurance department is responsible for monitoring claims with significant losses and deciding the appropriate time to present them to the company's reinsurers. "
+  },
+  {
+    "Question": "Which of the following is NOT a characteristic of the Board of Directors?",
+    "1": "Must meet educational and professional standards",
+    "2": "Represents the main partners",
+    "3": "Must be approved by supervisory authorities",
+    "4": "Members are appointed without election",
+    "correct": "4",
+    "reason": "Board members are typically elected or agreed upon by shareholders, not appointed without election."
+  },
+  {
+    "Question": "Who might investigate large or complex claims?",
+    "1": "The marketing department",
+    "2": "The underwriting department",
+    "3": "The investment committee",
+    "4": "A loss adjuster or loss assessor",
+    "correct": "4",
+    "reason": "Loss adjusters or assessors investigate and assess large or complex claims."
+  },
+  {
+    "Question": "What is one responsibility of the financial operations department regarding claims?",
+    "1": "To market insurance products",
+    "2": "To follow up on payment of claims",
+    "3": "To manage reinsurance contracts",
+    "4": "To investigate claims",
+    "correct": "2",
+    "reason": "The department ensures claim payments are followed up."
+  },
+  {
+    "Question": "According to the text, what does the contract between the company and the insured translate into action?",
+    "1": "When the policy is issued.",
+    "2": "When the premium is paid.",
+    "3": "When a loss occurs to the insured. ",
+    "4": "When the company makes an investment profit.",
+    "correct": "3",
+    "reason": "The promise made in the insurance contract is only put into action when the insured suffers a loss and a claim is made. "
+  },
+  {
+    "Question": "What is the first step in the claims processing procedure?",
+    "1": "Receiving the claim",
+    "2": "Rejecting the claim",
+    "3": "Investigating the claim",
+    "4": "Settling the claim",
+    "correct": "1",
+    "reason": "The process begins with receiving the claim from the insured."
+  },
+  {
+    "Question": "How does an insurance broker typically get paid for their services?",
+    "1": "A government subsidy.",
+    "2": "A direct salary from the insured.",
+    "3": "A share of the insurance company's investment profits.",
+    "4": "A fee, often paid by the insurance company as part of the premium. ",
+    "correct": "4",
+    "reason": "A broker is a legal entity who, in exchange for a fee, negotiates with the insurance company. This fee is not a direct salary from the insured. "
+  },
+  {
+    "Question": "What is one of the duties of the Actuarial Expert?",
+    "1": "To manage marketing strategies",
+    "2": "To handle customer complaints",
+    "3": "To assess the company's ability to meet future obligations",
+    "4": "To manage investments",
+    "correct": "3",
+    "reason": "The Actuarial Expert assesses the company's financial standing and ability to meet future obligations."
+  },
+  {
+    "Question": "What is the main purpose of reinsurance?",
+    "1": "To manage investments",
+    "2": "To transfer risk from the insurance company to a reinsurer",
+    "3": "To handle customer complaints",
+    "4": "To provide insurance to individuals",
+    "correct": "2",
+    "reason": "Reinsurance transfers risk to a reinsurer to manage large or catastrophic risks."
+  },
+  {
+    "Question": "Who is responsible for setting the employment policy in an insurance company?",
+    "1": "The personnel and administrative operations department. ",
+    "2": "The claims department.",
+    "3": "The underwriting department.",
+    "4": "The investment committee.",
+    "correct": "1",
+    "reason": "Setting the employment policy is a key responsibility of the personnel and administrative operations department. "
+  },
+  {
+    "Question": "How is the importance of the claims department linked to the company's reputation?",
+    "1": "The reputation is only based on premium prices.",
+    "2": "A slow and unfair claims process enhances the company's reputation.",
+    "3": "The department's performance in handling claims directly impacts the company's reputation. ",
+    "4": "It has no impact on the company's reputation.",
+    "correct": "3",
+    "reason": "The claims department is crucial to the company's reputation and performance because it is the point of contact for the insured when a claim arises, and its handling of the claim is a direct reflection of the company's promise. "
+  },
+  {
+    "Question": "What is the primary reason insurers buy reinsurance?",
+    "1": "To comply with a government mandate that applies to all businesses.",
+    "2": "To have a reason to increase premiums for all customers.",
+    "3": "To increase their administrative costs.",
+    "4": "To cover risks they cannot individually incur. ",
+    "correct": "4",
+    "reason": "Insurers purchase reinsurance to cover risks that are too large or too complex for them to handle on their own. "
+  },
+  {
+    "Question": "What is an essential part of the strategic management of insurance companies?",
+    "1": "Aggressive marketing tactics.",
+    "2": "Maximizing the number of policies sold, regardless of risk.",
+    "3": "Risk management. ",
+    "4": "Minimizing employee benefits.",
+    "correct": "3",
+    "reason": "Risk management is considered an essential part of the strategic management of insurance companies, critical for their success. "
+  },
+  {
+    "Question": "How can overly severe underwriting affect an insurance company?",
+    "1": "It can lead to losing customers due to excessively high premiums. ",
+    "2": "It simplifies the claims process.",
+    "3": "It can lead to gaining more customers.",
+    "4": "It results in insufficient funds to pay claims.",
+    "correct": "1",
+    "reason": "If an underwriter's assessment is too strict, the resulting premiums can be unaffordable, causing the company to lose customers to its competitors. "
+  },
+  {
+    "Question": "What is the primary role of the Board of Directors in an insurance company?",
+    "1": "To set the company's strategic direction",
+    "2": "To handle customer complaints",
+    "3": "To manage daily operations",
+    "4": "To underwrite insurance policies",
+    "correct": "1",
+    "reason": "The Board of Directors is responsible for setting the overall strategic direction, including approving key guidelines and objectives."
+  },
+  {
+    "Question": "Which is a key personnel and administrative process?",
+    "1": "Underwriting insurance policies",
+    "2": "Setting training and rehabilitation policies",
+    "3": "Handling customer claims",
+    "4": "Managing reinsurance contracts",
+    "correct": "2",
+    "reason": "Setting training policies is part of personnel management."
+  },
+  {
+    "Question": "In the underwriting process, who is typically asked to determine the appropriate insurance premium after a risk has been analyzed?",
+    "1": "The sales agent",
+    "2": "The claims representative",
+    "3": "The actuary ",
+    "4": "The risk manager",
+    "correct": "3",
+    "reason": "After the underwriter's initial decisions, the actuary is tasked with determining a suitable insurance premium. "
+  },
+  {
+    "Question": "Who must approve the External Auditor's appointment?",
+    "1": "The Board of Directors",
+    "2": "The Actuarial Expert",
+    "3": "The Saudi Central Bank (SAMA)",
+    "4": "The Compliance Officer",
+    "correct": "3",
+    "reason": "SAMA must approve the External Auditor's appointment."
+  },
+  {
+    "Question": "Which of these is a key function of the Personnel and Administrative department in an insurance company?",
+    "1": "Setting employment, training, and rehabilitation policies for staff. ",
+    "2": "Managing reinsurance contracts.",
+    "3": "Setting insurance premiums.",
+    "4": "Approving large claims settlements.",
+    "correct": "1",
+    "reason": "The personnel and administrative department is responsible for important staff-related functions, including setting policies for employment and training. "
+  },
+  {
+    "Question": "What is the central element on which the entire insurance industry is based?",
+    "1": "Profit",
+    "2": "Risk ",
+    "3": "Premiums",
+    "4": "Contracts",
+    "correct": "2",
+    "reason": "Risk is the central element that the insurance industry is built upon. "
+  },
+  {
+    "Question": "What does the Investment Committee decide about investments?",
+    "1": "Avoid managing",
+    "2": "Internal or external",
+    "3": "Always internal",
+    "4": "Delegate to Audit",
+    "correct": "2",
+    "reason": "They choose management type."
+  },
+  {
+    "Question": "Which marketing channel reaches a large audience quickly?",
+    "1": "TV and radio ads",
+    "2": "Exhibitions",
+    "3": "Direct contact",
+    "4": "Brochures",
+    "correct": "1",
+    "reason": "TV and radio reach many efficiently."
+  },
+  {
+    "Question": "Which committee monitors strategic objectives?",
+    "1": "Nominations",
+    "2": "Executive",
+    "3": "Audit",
+    "4": "Investment",
+    "correct": "2",
+    "reason": "Executive Committee monitors strategy."
+  },
+  {
+    "Question": "How can a good investment profit make an insurance company more competitive?",
+    "1": "By increasing the commissions paid to brokers.",
+    "2": "By allowing the company to hire more sales agents.",
+    "3": "By allowing the company to refuse more claims.",
+    "4": "By allowing the company to reduce the value of premiums paid by its customers. ",
+    "correct": "4",
+    "reason": "A strong investment profit enables the company to lower the premiums for its customers, making it more competitive in the insurance market. "
+  },
+  {
+    "Question": "Who submits a report on technical claims?",
+    "1": "Compliance Officer",
+    "2": "Internal Auditor",
+    "3": "Risk Manager",
+    "4": "Actuarial Expert",
+    "correct": "1",
+    "reason": "Compliance Officer reports to Audit."
+  },
+  {
+    "Question": "What might an underwriter do if risk needs modifications?",
+    "1": "Accept with conditions",
+    "2": "Transfer all risk",
+    "3": "Accept unconditionally",
+    "4": "Reject policy",
+    "correct": "1",
+    "reason": "They can accept with conditions."
+  },
+  {
+    "Question": "What kind of rating do reinsurers often have from classification companies?",
+    "1": "No rating at all.",
+    "2": "A rating that is not disclosed to the public.",
+    "3": "A low or speculative rating.",
+    "4": "An A rating or higher. ",
+    "correct": "4",
+    "reason": "Due to their substantial capital, reinsurers often receive high ratings, such as A or better, from well-known rating agencies. "
+  },
+  {
+    "Question": "Which department is responsible for managing cash flow from premiums and handling reserves for various risks?",
+    "1": "The Underwriting Department",
+    "2": "The Financial Operations Department ",
+    "3": "The Claims Department",
+    "4": "The Human Resources Department",
+    "correct": "2",
+    "reason": "The Financial Operations department is responsible for key functions like managing cash flow from premiums and managing reserves and allocations for different risks. "
+  },
+  {
+    "Question": "What is a benefit of marketing through popular websites?",
+    "1": "It guarantees higher premiums",
+    "2": "It eliminates sales reps",
+    "3": "It reduces underwriting needs",
+    "4": "It reaches a large audience quickly",
+    "correct": "4",
+    "reason": "Website marketing reaches a broad audience efficiently."
+  },
+  {
+    "Question": "What is the final step in the underwriting process listed in the document?",
+    "1": "The actuary determines the premium.",
+    "2": "The underwriter makes a decision of acceptance or rejection.",
+    "3": "The underwriter determines the percentage of risk to be transferred to a reinsurer. ",
+    "4": "The risk manager analyzes the application.",
+    "correct": "3",
+    "reason": "After making a decision and setting the policy content, the underwriter then determines the portion of risk to be passed on to a reinsurer. "
+  },
+  {
+    "Question": "What is considered the real capital of an insurance company?",
+    "1": "Its buildings and equipment",
+    "2": "Its marketing strategies",
+    "3": "Its investment portfolio",
+    "4": "Its employees",
+    "correct": "4",
+    "reason": "Employees are the real capital due to the reliance on human expertise."
+  },
+  {
+    "Question": "Which department manages the company's daily activities?",
+    "1": "Investment Committee",
+    "2": "Audit Committee",
+    "3": "Senior Management",
+    "4": "Board of Directors",
+    "correct": "3",
+    "reason": "Senior Management supervises the company's daily activities."
+  },
+  {
+    "Question": "What kind of advice might a broker provide to the insured?",
+    "1": "Advice on how to avoid buying insurance.",
+    "2": "Advice limited to only one type of insurance.",
+    "3": "Advice on the insurance company's internal management.",
+    "4": "Advice on the insured's insurance needs, best coverage, and market conditions. ",
+    "correct": "4",
+    "reason": "A broker can advise on the insured's needs, the best types and limits of coverage, market trends, and claims procedures. "
+  },
+  {
+    "Question": "What is a key document that must be included in a claims file?",
+    "1": "The employee's attendance record.",
+    "2": "A copy of the insurance policy and the customer's claim. ",
+    "3": "The marketing brochure for the product.",
+    "4": "The company's annual financial report.",
+    "correct": "2",
+    "reason": "A claims file must include essential documents such as a copy of the insurance policy and the customer's claim form. "
+  },
+  {
+    "Question": "If a claim\u00e2\u20ac\u2122s coverage is unclear, who decides?",
+    "1": "Claims representative",
+    "2": "Risk manager",
+    "3": "Underwriter",
+    "4": "Compliance officer",
+    "correct": "1",
+    "reason": "Claims reps determine coverage."
+  },
+  {
+    "Question": "What does the personnel and administrative department manage and protect?",
+    "1": "The company's reinsurance contracts.",
+    "2": "The property of the company. ",
+    "3": "The claims files.",
+    "4": "The company's investment portfolio.",
+    "correct": "2",
+    "reason": "Among the duties of the personnel and administrative department is the management and protection of the company's property. "
+  },
+  {
+    "Question": "The risk management department is responsible for ensuring that risk management procedures are...",
+    "1": "...implemented effectively. ",
+    "2": "...changed on a daily basis.",
+    "3": "...kept confidential from the Board of Directors.",
+    "4": "...delegated to an outside firm.",
+    "correct": "1",
+    "reason": "A key responsibility of the risk management department is to ensure that the company's risk management procedures and activities are put into practice effectively. "
+  },
+  {
+    "Question": "Why do insurance companies invest premiums (duplicate check)?",
+    "1": "To fund future claims and profit",
+    "2": "To reduce policies",
+    "3": "To increase costs",
+    "4": "To pay immediate claims",
+    "correct": "1",
+    "reason": "Investments fund obligations and generate profit."
+  },
+  {
+    "Question": "What is a challenge for developing countries in adopting e-commerce for insurance sales?",
+    "1": "High competition",
+    "2": "Insufficient resources",
+    "3": "Overregulation",
+    "4": "Lack of internet access",
+    "correct": "2",
+    "reason": "Developing countries lack material, human, and tech resources."
+  },
+  {
+    "Question": "What is the role of the Nominations and Remuneration Committee?",
+    "1": "To recommend candidates for the Board and set remuneration",
+    "2": "To audit financial statements",
+    "3": "To manage investments",
+    "4": "To handle reinsurance contracts",
+    "correct": "1",
+    "reason": "This committee handles nominations and remuneration policies."
+  },
+  {
+    "Question": "What does a reinsurer do in the event of an accident causing damage or loss?",
+    "1": "The reinsurer compensates the insured directly.",
+    "2": "The reinsurer investigates the accident independently.",
+    "3": "The reinsurer cancels the original insurance policy.",
+    "4": "The reinsurer compensates the insurance company for the payment made to the insured. ",
+    "correct": "4",
+    "reason": "If an insured event occurs, the reinsurer pays the insurance company for the compensation that the insurance company paid to its policyholder. "
+  },
+  {
+    "Question": "What type of risks do reinsurers typically cover?",
+    "1": "Large losses and catastrophic events",
+    "2": "Only life insurance claims",
+    "3": "Only property damage",
+    "4": "Small individual losses",
+    "correct": "1",
+    "reason": "Reinsurers cover large and catastrophic risks."
+  },
+  {
+    "Question": "What is the mission of the risk management department in an insurance company?",
+    "1": "To sell insurance policies.",
+    "2": "To invest the company's assets.",
+    "3": "To identify, measure, and manage the risks the company is exposed to in an organized manner. ",
+    "4": "To handle customer claims.",
+    "correct": "3",
+    "reason": "The risk management department's mission is to systematically identify, measure, and manage the risks that the insurance company faces. "
+  },
+  {
+    "Question": "What is a key difference between an insurance broker and an insurance agent regarding representation?",
+    "1": "The broker represents the company, and the agent represents the insured.",
+    "2": "Both represent the insurance company.",
+    "3": "The broker represents the insured, and the agent represents an insurance company. ",
+    "4": "Both represent the insured.",
+    "correct": "3",
+    "reason": "A broker acts on behalf of the insured, negotiating with companies, while an agent represents and acts for a specific insurance company. "
+  },
+  {
+    "Question": "What is considered the 'real capital' of an insurance company?",
+    "1": "Its machinery and equipment.",
+    "2": "Its investment portfolio.",
+    "3": "The workers in the industry. ",
+    "4": "Its reinsurance contracts.",
+    "correct": "3",
+    "reason": "The work of insurance companies relies on their employees, who are considered the real capital of the company, not machines or equipment. "
+  },
+  {
+    "Question": "Who calculates settlement for large claims?",
+    "1": "Underwriter",
+    "2": "Actuary",
+    "3": "Compliance officer",
+    "4": "Loss adjuster",
+    "correct": "4",
+    "reason": "Loss adjusters handle large claims."
+  },
+  {
+    "Question": "Why is technology important in underwriting?",
+    "1": "Increases sales",
+    "2": "Eliminates reinsurance",
+    "3": "Improves risk analysis",
+    "4": "Reduces underwriters",
+    "correct": "3",
+    "reason": "Tech aids accurate risk pricing."
+  },
+  {
+    "Question": "Can an insured obtain advice from a broker without paying a direct salary?",
+    "1": "Only if the broker is also a licensed agent for the same company.",
+    "2": "No, brokers always charge a direct consultation fee to the insured.",
+    "3": "Only if the insurance policy is for a very small amount.",
+    "4": "Yes, the insured can get independent advice from a broker without paying a direct salary. ",
+    "correct": "4",
+    "reason": "The insured has the option to obtain independent advice or consultation from a broker without having to pay a direct salary. "
+  },
+  {
+    "Question": "What is a key difference between an insurance agent and an insurance broker?",
+    "1": "An agent is a legal entity, while a broker is not.",
+    "2": "An agent can sell policies for multiple companies, while a broker can only work with one.",
+    "3": "An agent represents the insured, while a broker represents the insurer.",
+    "4": "An agent represents and sells policies for one insurance company, while a broker can work with multiple companies on behalf of the insured. ",
+    "correct": "4",
+    "reason": "An agent represents a single company, whereas a broker represents the insured and can negotiate with many companies. "
+  },
+  {
+    "Question": "Which is NOT a personnel process?",
+    "1": "Setting employment policy",
+    "2": "Setting training policies",
+    "3": "Managing reinsurance",
+    "4": "Protecting property",
+    "correct": "3",
+    "reason": "Reinsurance is managed separately."
+  },
+  {
+    "Question": "For which type of insurance are investments considered a particularly vital factor?",
+    "1": "Protection and savings insurance ",
+    "2": "Property insurance",
+    "3": "Aviation insurance",
+    "4": "Health insurance",
+    "correct": "1",
+    "reason": "Investments are a vital factor for protection and savings companies, as their products often serve both income protection and investment purposes. "
+  },
+  {
+    "Question": "Which is NOT a stage in the underwriting process?",
+    "1": "Identifying the insurance applicant and risk",
+    "2": "Processing the claim",
+    "3": "Submitting the application to the risk manager",
+    "4": "Determining the percentage of risk to transfer to the reinsurer",
+    "correct": "2",
+    "reason": "Processing the claim is part of claims handling, not underwriting."
+  },
+  {
+    "Question": "What is the relationship between the insured and the reinsurer?",
+    "1": "Insured claims from reinsurer",
+    "2": "Indirect through the insurer",
+    "3": "Direct contractual",
+    "4": "No relationship",
+    "correct": "4",
+    "reason": "There is no direct relationship; it\u00e2\u20ac\u2122s via the insurer."
+  },
+  {
+    "Question": "Who negotiates reinsurance contracts?",
+    "1": "Underwriting",
+    "2": "Claims",
+    "3": "Marketing",
+    "4": "Reinsurance dept",
+    "correct": "4",
+    "reason": "Reinsurance dept handles contracts."
+  },
+  {
+    "Question": "Is there a direct contractual relationship between the insured and the reinsurer?",
+    "1": "No, the contractual relationship is between the insured and the insurance company, and separately between the insurance company and the reinsurer. ",
+    "2": "Yes, the reinsurer is co-liable with the insurance company to the insured.",
+    "3": "No, the insured is usually aware of and approves the reinsurance arrangement.",
+    "4": "Yes, but only for catastrophic events.",
+    "correct": "1",
+    "reason": "There is no legal or contractual relationship between the insured and the reinsurer; the contract exists between the insured and the insurer. "
+  },
+  {
+    "Question": "Reinsurance helps the insurance industry provide protection for what kind of risks?",
+    "1": "Only risks located in a specific geographic area.",
+    "2": "Only small and simple risks.",
+    "3": "Large, concentrated, and complex risks. ",
+    "4": "Only short-term risks.",
+    "correct": "3",
+    "reason": "Reinsurance is crucial for enabling the insurance industry to offer coverage for a wide variety of risks, including those that are large, concentrated, and complex. "
+  },
+  {
+    "Question": "What is the primary function that follows the marketing and selling of an insurance product?",
+    "1": "Reinsurance",
+    "2": "Underwriting ",
+    "3": "Investment",
+    "4": "Claims Settlement",
+    "correct": "2",
+    "reason": "Once a product is sold, the key function of underwriting begins, where the insurance company evaluates the risk. "
+  },
+  {
+    "Question": "Who manages reinsurance contracts within an insurance company?",
+    "1": "The underwriting department",
+    "2": "The reinsurance department",
+    "3": "The marketing department",
+    "4": "The claims department",
+    "correct": "2",
+    "reason": "The reinsurance department manages reinsurance contracts and monitors significant claims."
+  },
+  {
+    "Question": "Why do reinsurance companies need large capital?",
+    "1": "To cover catastrophic events and handle sophisticated risk control systems. ",
+    "2": "To pay for marketing and advertising.",
+    "3": "To pay high salaries to their executives.",
+    "4": "To build more office branches.",
+    "correct": "1",
+    "reason": "Reinsurance companies require substantial capital to cover catastrophic events and to utilize sophisticated risk control systems for the risks they underwrite. "
+  },
+  {
+    "Question": "Which department is responsible for the preparation and maintenance of accounting records?",
+    "1": "The Risk Management Department",
+    "2": "The Underwriting Department",
+    "3": "The Financial Operations Department ",
+    "4": "The Claims Department",
+    "correct": "3",
+    "reason": "Preparing and maintaining the company's accounting records is a core function of the financial operations department. "
+  },
+  {
+    "Question": "What is the main purpose of reinsurance for an insurance company?",
+    "1": "To increase the number of policies sold.",
+    "2": "To directly interact with the insured.",
+    "3": "To set the initial premium for a policy.",
+    "4": "To manage risks, especially those that are large, concentrated, or complex. ",
+    "correct": "4",
+    "reason": "Reinsurance is the primary risk management tool that helps the insurance industry provide protection for a wide range of risks, including large and complex ones. "
+  },
+  {
+    "Question": "What is the role of the Compliance Officer in an insurance company?",
+    "1": "To handle customer claims",
+    "2": "To underwrite insurance policies",
+    "3": "To manage the company's investments",
+    "4": "To ensure the company complies with laws and regulations",
+    "correct": "4",
+    "reason": "The Compliance Officer ensures compliance with laws and regulations issued by regulatory bodies like SAMA."
+  },
+  {
+    "Question": "Which is NOT a common marketing channel for insurance products?",
+    "1": "Underwriting insurance policies",
+    "2": "Television and radio advertising",
+    "3": "Direct contact with prospective insurance seekers",
+    "4": "Selling through insurance intermediaries",
+    "correct": "1",
+    "reason": "Underwriting is a separate process from marketing; it involves assessing and pricing risks."
+  },
+  {
+    "Question": "Which committee sets the investment policy of the company?",
+    "1": "Audit Committee",
+    "2": "Nominations and Remuneration Committee",
+    "3": "Executive Committee",
+    "4": "Investment Committee",
+    "correct": "4",
+    "reason": "The Investment Committee determines investment objectives and policy."
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s an Actuary duty per revision?",
+    "1": "Handle complaints",
+    "2": "Assess financial standing",
+    "3": "Manage sales",
+    "4": "Marketing products",
+    "correct": "2",
+    "reason": "Actuaries assess finances."
+  },
+  {
+    "Question": "What is the primary purpose of underwriting in insurance?",
+    "1": "To assess and price risks",
+    "2": "To manage investments",
+    "3": "To process claims",
+    "4": "To market insurance products",
+    "correct": "1",
+    "reason": "Underwriting involves assessing risks and determining appropriate premiums."
+  },
+  {
+    "Question": "What is the purpose of setting performance indicators in risk management?",
+    "1": "To provide data for marketing brochures.",
+    "2": "To monitor the company's main, financial, and underwriting activities. ",
+    "3": "To rank employees for annual bonuses.",
+    "4": "To compare the company with non-insurance businesses.",
+    "correct": "2",
+    "reason": "Performance indicators are established to enable the company to effectively monitor its key activities, including financial and underwriting operations. "
+  },
+  {
+    "Question": "What is the central element of the insurance industry?",
+    "1": "Profit",
+    "2": "Customer service",
+    "3": "Technology",
+    "4": "Risk",
+    "correct": "4",
+    "reason": "Insurance is fundamentally about risk."
+  },
+  {
+    "Question": "Why is risk management crucial for insurance companies?",
+    "1": "It is required by law",
+    "2": "It reduces the need for reinsurance",
+    "3": "It deals with risks as their core business",
+    "4": "It helps increase premiums",
+    "correct": "3",
+    "reason": "Insurance is based on risk, making risk management essential."
+  },
+  {
+    "Question": "What is the purpose of managing reserves?",
+    "1": "To invest in tech",
+    "2": "To reduce salaries",
+    "3": "To increase marketing budgets",
+    "4": "To ensure funds for future claims",
+    "correct": "4",
+    "reason": "Reserves ensure funds for future obligations."
+  },
+  {
+    "Question": "Who determines the insurance premium?",
+    "1": "Actuary",
+    "2": "Risk manager",
+    "3": "Underwriter",
+    "4": "Compliance officer",
+    "correct": "1",
+    "reason": "Actuaries calculate premiums."
+  },
+  {
+    "Question": "What is the first stage of the underwriting process?",
+    "1": "Identifying the insurance applicant and the risk through the insurance form and supporting documents. ",
+    "2": "The actuary determines the insurance premium.",
+    "3": "The underwriter decides on risk rejection or acceptance.",
+    "4": "The underwriter transfers a percentage of risk to a reinsurer.",
+    "correct": "1",
+    "reason": "The underwriting process begins by identifying the applicant and the risk through the application form, sometimes supported by other documents like a loss adjuster's report. "
+  },
+  {
+    "Question": "What is an underwriter\u00e2\u20ac\u2122s role if a high-risk policy is considered?",
+    "1": "Ignore report",
+    "2": "Decide based on risk report",
+    "3": "Transfer all risk",
+    "4": "Reject automatically",
+    "correct": "2",
+    "reason": "Underwriters decide based on reports."
+  },
+  {
+    "Question": "What role does the underwriter play in reinsurance?",
+    "1": "The underwriter negotiates the final reinsurance contract.",
+    "2": "The underwriter acts as the reinsurer.",
+    "3": "The underwriter has no role in reinsurance.",
+    "4": "The underwriter determines the percentage of risk they wish to transfer to the reinsurer. ",
+    "correct": "4",
+    "reason": "As part of the underwriting process, the underwriter decides on the percentage of risk that should be transferred to a reinsurer. "
+  },
+  {
+    "Question": "Which department is responsible for managing the company's receivables and expenses?",
+    "1": "Marketing Department",
+    "2": "Claims Department",
+    "3": "Human Resources",
+    "4": "Financial Operations Department ",
+    "correct": "4",
+    "reason": "Following up on the company\u2019s receivables and expenses is a key function of the financial operations department. "
+  },
+  {
+    "Question": "What is selling insurance through banks called?",
+    "1": "Direct sale",
+    "2": "Bancassurance",
+    "3": "Online sale",
+    "4": "Intermediary sale",
+    "correct": "2",
+    "reason": "Bancassurance uses banks."
+  },
+  {
+    "Question": "A broker may give advice on which of the following?",
+    "1": "How to file a fraudulent claim.",
+    "2": "The insurance company's internal hiring policies.",
+    "3": "The best market and procedures for claims. ",
+    "4": "Which competing brokers to avoid.",
+    "correct": "3",
+    "reason": "A broker can provide valuable advice on matters such as the best market for a particular type of insurance and the correct procedures for handling claims. "
+  },
+  {
+    "Question": "What is one of the key responsibilities listed for the financial operations department?",
+    "1": "Training new employees.",
+    "2": "Following up on payment of claims and reinsurance dues. ",
+    "3": "Setting the company's investment policy.",
+    "4": "Developing new insurance products.",
+    "correct": "2",
+    "reason": "The financial operations department is responsible for following up on the payment of claims to policyholders and the dues owed to reinsurers. "
+  },
+  {
+    "Question": "Which committee reviews the annual budget?",
+    "1": "Investment",
+    "2": "Nominations",
+    "3": "Audit",
+    "4": "Executive",
+    "correct": "4",
+    "reason": "Executive reviews the budget."
+  },
+  {
+    "Question": "What is reinsurance?",
+    "1": "The process of selling insurance policies to new customers.",
+    "2": "Insurance for insurers, where an insurance company transfers risk to a reinsurance company. ",
+    "3": "The initial underwriting of a risk.",
+    "4": "The process of handling claims from policyholders.",
+    "correct": "2",
+    "reason": "Reinsurance is essentially insurance for insurers; it is the main tool for managing risk by transferring it to another party. "
+  },
+  {
+    "Question": "What is the tangible benefit of insurance demonstrated by?",
+    "1": "The location of the head office.",
+    "2": "The glossiness of the brochure.",
+    "3": "The number of employees in the company.",
+    "4": "The claims handling process. ",
+    "correct": "4",
+    "reason": "The tangible benefit of insurance becomes apparent to the policyholder through the process of handling and settling a claim. "
+  },
+  {
+    "Question": "When a large or technical claim is filed, who might be appointed for further investigation?",
+    "1": "A loss adjuster and loss assessor ",
+    "2": "The underwriter",
+    "3": "The sales agent",
+    "4": "The company's CEO",
+    "correct": "1",
+    "reason": "For large claims requiring technical expertise, a loss adjuster and loss assessor are appointed to conduct a more thorough investigation and calculate the financial settlement. "
+  },
+  {
+    "Question": "Why do insurance companies invest premiums?",
+    "1": "To increase administrative expenses",
+    "2": "To reduce policies sold",
+    "3": "To avoid paying claims",
+    "4": "To have funds for future claims and generate profit",
+    "correct": "4",
+    "reason": "Investments provide funds for future obligations and generate income."
+  },
+  {
+    "Question": "According to SAMA regulations, what is an insurance agent?",
+    "1": "A legal entity that represents the insured and negotiates with multiple companies.",
+    "2": "A channel for selling insurance through banks.",
+    "3": "A legal entity that represents one insurance company to market and sell its policies. ",
+    "4": "An independent advisor who does not receive a direct salary for their consultation.",
+    "correct": "3",
+    "reason": "An insurance agent is a legal entity that, for a fee, represents and sells insurance policies for one specific insurance company. "
+  },
+  {
+    "Question": "What is the Compliance Officer\u00e2\u20ac\u2122s role with reinsurance agreements?",
+    "1": "Provide copies to SAMA",
+    "2": "Market them",
+    "3": "Underwrite them",
+    "4": "Negotiate them",
+    "correct": "1",
+    "reason": "They submit copies to SAMA."
+  },
+  {
+    "Question": "What does the risk management department provide to employees?",
+    "1": "Marketing training",
+    "2": "Claims processing guidelines",
+    "3": "Awareness about company risks",
+    "4": "Investment advice",
+    "correct": "3",
+    "reason": "The department ensures employees are aware of risks and how to manage them."
+  },
+  {
+    "Question": "What is the role of an underwriter after analyzing information about an insurance application?",
+    "1": "To visit all insurance applicants in person.",
+    "2": "To immediately issue the policy without review.",
+    "3": "To handle the final claim settlement.",
+    "4": "To decide whether to issue the policy and determine the appropriate premium. ",
+    "correct": "4",
+    "reason": "After analyzing all necessary information and reports, underwriters must decide whether to issue the policy and, if so, determine the appropriate premium. "
+  },
+  {
+    "Question": "What is the term for transferring risk to a reinsurer?",
+    "1": "Claims processing",
+    "2": "Investment",
+    "3": "Reinsurance",
+    "4": "Underwriting",
+    "correct": "3",
+    "reason": "Reinsurance transfers risk."
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s a benefit of website marketing?",
+    "1": "Reduces offices",
+    "2": "Guarantees sales",
+    "3": "24/7 accessibility",
+    "4": "Eliminates reps",
+    "correct": "3",
+    "reason": "Websites offer constant access."
+  },
+  {
+    "Question": "Which sales channel involves selling through banks?",
+    "1": "Online sale",
+    "2": "Direct sale",
+    "3": "Sale through insurance agents",
+    "4": "Bancassurance",
+    "correct": "4",
+    "reason": "Bancassurance is the sale of insurance products through banks."
+  },
+  {
+    "Question": "What should the reinsurance dept do for a large claim?",
+    "1": "Pay in full",
+    "2": "Notify reinsurer",
+    "3": "Increase premiums",
+    "4": "Reject it",
+    "correct": "2",
+    "reason": "Reinsurers share large claim costs."
+  },
+  {
+    "Question": "From an insured's perspective, what is the ultimate test of an insurance company's reputation?",
+    "1": "The size of its investment portfolio.",
+    "2": "The cost of the premium.",
+    "3": "How quickly and fairly it settles claims. ",
+    "4": "The variety of products offered.",
+    "correct": "3",
+    "reason": "For the insured, the reputation of an insurance company is tested by the speed and fairness with which it settles claims made by its policyholders. "
+  },
+  {
+    "Question": "What kind of policy should the risk management department issue?",
+    "1": "A well-articulated and understandable risk management policy. ",
+    "2": "A policy that is kept secret from most employees.",
+    "3": "A policy that is complex and technical.",
+    "4": "A policy that focuses only on financial risks.",
+    "correct": "1",
+    "reason": "The risk management department should issue a risk management policy that is clearly written, easy to understand, and covers objectives and responsibilities. "
+  },
+  {
+    "Question": "How can insurance companies improve job conditions?",
+    "1": "Reducing salaries",
+    "2": "Offering incentives",
+    "3": "Limiting training",
+    "4": "Increasing workloads",
+    "correct": "2",
+    "reason": "Incentives improve satisfaction."
+  },
+  {
+    "Question": "For which insurance type is investment vital?",
+    "1": "Liability",
+    "2": "Property",
+    "3": "Protection and savings",
+    "4": "Health",
+    "correct": "3",
+    "reason": "Protection and savings involve investment components."
+  },
+  {
+    "Question": "Who licenses insurance intermediaries like brokers in the Kingdom?",
+    "1": "The insurance companies themselves",
+    "2": "The Council of Cooperative Health Insurance",
+    "3": "SAMA (Saudi Central Bank) ",
+    "4": "The Ministry of Commerce",
+    "correct": "3",
+    "reason": "SAMA has licensed a number of insurance intermediaries, including brokers. "
+  },
+  {
+    "Question": "Which sales channel uses telephone contact?",
+    "1": "Online sale",
+    "2": "Bancassurance",
+    "3": "Direct sale",
+    "4": "Call centers",
+    "correct": "4",
+    "reason": "Call centers sell insurance via telephone."
+  },
+  {
+    "Question": "What is the primary role of an insurance broker?",
+    "1": "To provide independent advice and negotiate with various insurance companies on behalf of the insured. ",
+    "2": "To represent a single insurance company and sell its policies.",
+    "3": "To manage the investment portfolio of an insurance company.",
+    "4": "To underwrite risks and set premiums.",
+    "correct": "1",
+    "reason": "A broker is a legal entity that negotiates with insurance companies to complete the insurance process for the benefit of the insured and may offer independent advice on various insurance types. "
+  },
+  {
+    "Question": "Which department follows up on receivables?",
+    "1": "Claims",
+    "2": "Financial operations",
+    "3": "Underwriting",
+    "4": "Marketing",
+    "correct": "2",
+    "reason": "Financial operations manage receivables."
+  },
+  {
+    "Question": "Which function in an insurance company starts after the sales channels succeed in marketing and selling a product?",
+    "1": "Reinsurance",
+    "2": "Investment management",
+    "3": "Claims processing",
+    "4": "The underwriting process ",
+    "correct": "4",
+    "reason": "After a product is sold, the important function of underwriting begins, where the company collects documents to make a specific offer. "
+  },
+  {
+    "Question": "How do 'smart systems' assist underwriters in their decision-making?",
+    "1": "By suggesting to accept or reject the risk and adjusting the price accordingly. ",
+    "2": "By automatically paying out small claims.",
+    "3": "By generating new sales leads.",
+    "4": "By communicating directly with the insured.",
+    "correct": "1",
+    "reason": "These systems analyze claims, suggest whether to accept or reject the associated risk, and adjust the insurance price based on that risk, improving the underwriter's decision-making. "
+  },
+  {
+    "Question": "What is the function of an audit committee in an insurance company?",
+    "1": "To manage the company's investment portfolio.",
+    "2": "To approve new insurance products.",
+    "3": "To set salaries for executives.",
+    "4": "To oversee financial reporting and internal controls. ",
+    "correct": "4",
+    "reason": "The audit committee is responsible for duties such as overseeing the company's financial reporting processes and its system of internal controls. (Note: This is inferred from the question in the source)."
+  },
+  {
+    "Question": "What is the main challenge for an insurance company in managing claims?",
+    "1": "To pay every claim in full, regardless of the circumstances.",
+    "2": "To satisfy the client while reducing administrative expenses and avoiding excessive compensation. ",
+    "3": "To process claims as slowly as possible to earn more investment income.",
+    "4": "To find reasons to reject every claim submitted.",
+    "correct": "2",
+    "reason": "When managing claims, the insured seeks a balance between satisfying the client, minimizing administrative costs, and preventing excessive compensation payments. "
+  },
+  {
+    "Question": "What must the Board of Directors do with the capital structure?",
+    "1": "Identify optimal structure and budgets",
+    "2": "Ignore it",
+    "3": "Focus on marketing",
+    "4": "Delegate to Investment",
+    "correct": "1",
+    "reason": "Board sets capital structure."
+  },
+  {
+    "Question": "What is described as the 'measure that shows the tangible benefit of insurance'?",
+    "1": "The size of the insurance company.",
+    "2": "The claims handling process. ",
+    "3": "The complexity of the policy document.",
+    "4": "The marketing advertisements.",
+    "correct": "2",
+    "reason": "Claims handling is the process that demonstrates the tangible, real-world benefit of having insurance. "
+  },
+  {
+    "Question": "Why avoid excessive compensation in claims?",
+    "1": "Maintain stability and fairness",
+    "2": "Reduce claims",
+    "3": "Discourage claims",
+    "4": "Maximize profits",
+    "correct": "1",
+    "reason": "Excess harms stability and fairness."
+  },
+  {
+    "Question": "What must each insurance company set up and have approved by its Board of Directors regarding its funds?",
+    "1": "A staff party policy.",
+    "2": "A social media usage policy.",
+    "3": "A company car policy.",
+    "4": "An investment policy. ",
+    "correct": "4",
+    "reason": "Every insurance company is required to establish an investment policy, approved by the Board, to manage its investment activities in line with SAMA's instructions. "
+  },
+  {
+    "Question": "What is a developing country's disadvantage in using the internet for e-marketing compared to developed countries?",
+    "1": "Lack of material, human, and technological resources. ",
+    "2": "Higher competition among local companies.",
+    "3": "Lack of interest from the population.",
+    "4": "Stricter government regulations.",
+    "correct": "1",
+    "reason": "Developing countries often lack the necessary material, human, and technological resources to fully utilize technological developments like the internet for e-marketing. "
+  },
+  {
+    "Question": "Which marketing channel uses training courses?",
+    "1": "Exhibitions",
+    "2": "Training courses",
+    "3": "TV ads",
+    "4": "Direct contact",
+    "correct": "2",
+    "reason": "Courses raise insurance awareness."
+  },
+  {
+    "Question": "What is the essence of an underwriter's job?",
+    "1": "To determine the risk degree of policyholders and price policies accordingly. ",
+    "2": "To minimize the number of policies issued.",
+    "3": "To maximize sales regardless of risk.",
+    "4": "To handle post-claim customer service.",
+    "correct": "1",
+    "reason": "The fundamental role of an underwriter is to assess the level of risk associated with policyholders and to set appropriate prices for the policies covering that risk. "
+  },
+  {
+    "Question": "After a risk is accepted, conditionally or unconditionally, by an underwriter, what is the next step mentioned?",
+    "1": "The actuary is asked to determine an appropriate insurance premium. ",
+    "2": "The reinsurance process begins.",
+    "3": "The sales agent is notified.",
+    "4": "The policy is immediately issued.",
+    "correct": "1",
+    "reason": "Following the underwriter's decision to accept a risk, the actuary is then tasked with calculating the appropriate premium. "
+  },
+  {
+    "Question": "Who approves the investment policy of an insurance company?",
+    "1": "The Saudi Central Bank (SAMA) directly.",
+    "2": "The head of the Underwriting department.",
+    "3": "The company's actuaries.",
+    "4": "The Board of Directors. ",
+    "correct": "4",
+    "reason": "Each insurance company must have an investment policy that is approved by its Board of Directors to manage investment operations. "
+  },
+  {
+    "Question": "What must the Internal Auditor include in their report?",
+    "1": "Marketing strategies",
+    "2": "Customer surveys",
+    "3": "Investment performance",
+    "4": "Control evaluation and recommendations",
+    "correct": "4",
+    "reason": "They evaluate controls and suggest improvements."
+  },
+  {
+    "Question": "What is the core definition of underwriting in an insurance company?",
+    "1": "The process of marketing and selling insurance policies.",
+    "2": "The process of investigating and settling claims.",
+    "3": "The process by which an underwriter decides whether to accept a risk and sets the terms, conditions, and price. ",
+    "4": "The process of reinsuring risks with another company.",
+    "correct": "3",
+    "reason": "Underwriting is a primary function where the underwriter decides on the acceptance of an insurance offer and determines the necessary conditions and price. "
+  },
+  {
+    "Question": "What are the two primary sources of profit for insurance companies?",
+    "1": "Underwriting profits and sales commissions.",
+    "2": "Investment profits and reinsurance commissions.",
+    "3": "Sales profits and service fees.",
+    "4": "Underwriting profits and investment profits. ",
+    "correct": "4",
+    "reason": "Insurance companies generate their profits from two main sources: underwriting activities and investment returns. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s a main Board duty per revision?",
+    "1": "Handle complaints",
+    "2": "Underwrite policies",
+    "3": "Daily operations",
+    "4": "Set strategic objectives",
+    "correct": "4",
+    "reason": "Setting objectives is key."
+  },
+  {
+    "Question": "What is the primary reason for a developing country's struggle with e-marketing in insurance?",
+    "1": "Excessive government intervention.",
+    "2": "A saturated market with too many competitors.",
+    "3": "A general distrust of technology.",
+    "4": "A lack of necessary material, human, and technological resources. ",
+    "correct": "4",
+    "reason": "Compared to developed nations, developing countries often lack the fundamental resources\u2014be it material, human, or technological\u2014to effectively implement new techniques like e-marketing. "
+  },
+  {
+    "Question": "What must an insurance company licensed in Saudi Arabia establish for claims?",
+    "1": "A policy to delay claim payments as long as possible.",
+    "2": "Specific procedures to receive, study, and settle insured's claims. ",
+    "3": "A separate company just for handling claims.",
+    "4": "A system to reject most claims automatically.",
+    "correct": "2",
+    "reason": "All licensed insurance companies in the Kingdom must have specific procedures in place for receiving, studying, and settling the claims of the insured. "
+  },
+  {
+    "Question": "The Investment Department of an insurance company manages investment portfolios in accordance with instructions from whom?",
+    "1": "The Board of Directors only.",
+    "2": "The chief actuary.",
+    "3": "The company's shareholders.",
+    "4": "The Saudi Central Bank (SAMA). ",
+    "correct": "4",
+    "reason": "The Investment Department must manage its portfolios according to the instructions issued by the Saudi Central Bank (SAMA). "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s the Compliance Officer\u00e2\u20ac\u2122s purpose per revision?",
+    "1": "Underwrite policies",
+    "2": "Ensure compliance",
+    "3": "Manage investments",
+    "4": "Handle claims",
+    "correct": "2",
+    "reason": "They ensure regulatory compliance."
+  },
+  {
+    "Question": "What dual purpose does investment income serve?",
+    "1": "Profit and lower premiums",
+    "2": "Increasing premiums",
+    "3": "Hiring employees",
+    "4": "Developing products",
+    "correct": "1",
+    "reason": "Investment profit aids competitiveness."
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s key for customer satisfaction in claims?",
+    "1": "Increasing fees",
+    "2": "Delaying process",
+    "3": "Reducing compensation",
+    "4": "Quick and fair settlement",
+    "correct": "4",
+    "reason": "Timely, fair settlement is key."
+  },
+  {
+    "Question": "What is one advantage of selling insurance through banks?",
+    "1": "It guarantees higher premiums",
+    "2": "It eliminates underwriting",
+    "3": "It reduces the need for marketing",
+    "4": "It helps develop the insurance culture in society",
+    "correct": "4",
+    "reason": "Selling through banks spreads insurance awareness and culture in society."
+  },
+  {
+    "Question": "What is the function of the actuary in the insurance process?",
+    "1": "To manage the company's human resources.",
+    "2": "To sell the insurance policy.",
+    "3": "To investigate claims.",
+    "4": "To determine an appropriate insurance premium. ",
+    "correct": "4",
+    "reason": "The actuary's role is to calculate and determine a suitable insurance premium for the risk being underwritten. "
+  },
+  {
+    "Question": "What is the responsibility of the reinsurance department within an insurance company?",
+    "1": "To handle all customer claims.",
+    "2": "To manage the company's reinsurance contracts and nominate the best structure for them. ",
+    "3": "To invest the company's premiums.",
+    "4": "To sell policies directly to customers.",
+    "correct": "2",
+    "reason": "The reinsurance department's responsibilities include managing reinsurance contracts and recommending the best reinsurance structure to company management. "
+  },
+  {
+    "Question": "Who does the Internal Auditor report to?",
+    "1": "The Actuarial Expert",
+    "2": "The Compliance Officer",
+    "3": "The Audit Committee",
+    "4": "The Board of Directors",
+    "correct": "3",
+    "reason": "The Internal Auditor submits reports to the Audit Committee."
+  },
+  {
+    "Question": "What must insurance companies balance in claims handling?",
+    "1": "Balancing satisfaction, expenses, and compensation",
+    "2": "Maximizing expenses",
+    "3": "Focusing on profit",
+    "4": "Minimizing satisfaction",
+    "correct": "1",
+    "reason": "Companies balance satisfaction, costs, and fair compensation."
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s a disadvantage of intermediaries?",
+    "1": "Increases costs",
+    "2": "Reduces trust",
+    "3": "Conflicts of interest",
+    "4": "Limits insurance types",
+    "correct": "3",
+    "reason": "Intermediaries may have conflicts."
+  },
+  {
+    "Question": "If an underwriter's acceptance of a risk is 'conditional', what is their next step?",
+    "1": "To ask the risk manager for another report.",
+    "2": "To transfer the entire risk to a reinsurer.",
+    "3": "To place the policy content and make appropriate amendments. ",
+    "4": "To reject the risk.",
+    "correct": "3",
+    "reason": "When acceptance is conditional, the underwriter is responsible for placing the policy content and making the necessary amendments. "
+  },
+  {
+    "Question": "How does a protection and savings insurance product function?",
+    "1": "Solely as income protection.",
+    "2": "As a way to get discounts on other insurance products.",
+    "3": "As both income protection (like life insurance) and as a means of investment. ",
+    "4": "Solely as a means of investment.",
+    "correct": "3",
+    "reason": "Most protection and savings products serve a dual role, providing not only income protection (as in life insurance) but also acting as an investment vehicle. "
+  },
+  {
+    "Question": "Which is NOT a function of the financial operations department?",
+    "1": "Following up on receivables",
+    "2": "Providing periodic financial reports",
+    "3": "Underwriting insurance policies",
+    "4": "Managing cash flow from premiums",
+    "correct": "3",
+    "reason": "Underwriting is a separate function from financial operations."
+  },
+  {
+    "Question": "What entity must grant a license for insurance to be carried out through banks in the Kingdom?",
+    "1": "The Ministry of Finance",
+    "2": "SAMA (Saudi Central Bank) ",
+    "3": "The Council of Saudi Chambers",
+    "4": "The bank's Board of Directors",
+    "correct": "2",
+    "reason": "To sell insurance through banks in the Kingdom, the appropriate license must be obtained from SAMA. "
+  },
+  {
+    "Question": "What is a primary responsibility of a company's reinsurance department regarding claims?",
+    "1": "To reject claims that are too large.",
+    "2": "To act as the loss adjuster for all claims.",
+    "3": "To monitor significant loss claims and determine when to present them to reinsurers. ",
+    "4": "To pay claims directly to the insured.",
+    "correct": "3",
+    "reason": "The reinsurance department is tasked with monitoring claims involving significant losses and deciding the right time to submit them to their reinsurance partners. "
+  },
+  {
+    "Question": "What two conflicting goals must be balanced in claims management?",
+    "1": "Client satisfaction on one hand, and reducing administrative expenses and avoiding excessive compensation on the other. ",
+    "2": "Paying all claims in full on one hand, and maintaining profitability on the other.",
+    "3": "Rapid payment on one hand, and thorough investigation on the other.",
+    "4": "Hiring more adjusters on one hand, and reducing staff on the other.",
+    "correct": "1",
+    "reason": "Claims management involves balancing the need to satisfy the client with the company's goals of minimizing administrative costs and avoiding overpayment of compensation. "
+  },
+  {
+    "Question": "What is one of the main duties of an actuary?",
+    "1": "To manage the company's social media accounts.",
+    "2": "To sell insurance policies.",
+    "3": "To analyze statistics and calculate risks and premiums. ",
+    "4": "To design the company's logo.",
+    "correct": "3",
+    "reason": "An actuary's duties include analyzing statistical data to calculate risks and determine appropriate premiums for insurance policies. (Note: This is inferred from the question in the source)."
+  },
+  {
+    "Question": "What is the potential consequence of unprofessional underwriting?",
+    "1": "The company will not need reinsurance.",
+    "2": "The sales channels will become more effective.",
+    "3": "The company will attract more customers.",
+    "4": "The company may have to pay claims that are not covered by sufficient premiums. ",
+    "correct": "4",
+    "reason": "If underwriting is unprofessional, the premiums received may not be sufficient to pay compensation for claims. "
+  },
+  {
+    "Question": "Is there a direct contractual relationship between the insured and the reinsurer?",
+    "1": "No",
+    "2": "Only in certain cases",
+    "3": "Yes",
+    "4": "It depends on the type of insurance",
+    "correct": "1",
+    "reason": "There is no direct relationship; it exists between the insurance company and the reinsurer."
+  },
+  {
+    "Question": "What is the primary mission of the risk management department?",
+    "1": "To manage investments",
+    "2": "To identify, measure, and manage risks",
+    "3": "To market insurance products",
+    "4": "To handle customer complaints",
+    "correct": "2",
+    "reason": "Risk management identifies, measures, and manages risks to protect the company."
+  },
+  {
+    "Question": "What are the three possible decisions an underwriter can make based on the Risk Manager's report?",
+    "1": "Immediate payment, delayed payment, or no payment.",
+    "2": "High premium, low premium, or no premium.",
+    "3": "Approve, deny, or suggest another company.",
+    "4": "Risk rejection, conditional acceptance, or unconditional acceptance. ",
+    "correct": "4",
+    "reason": "Based on the risk manager's report, the underwriter will decide to either reject the risk, accept it with conditions, or accept it unconditionally. "
+  },
+  {
+    "Question": "What term describes the computer systems used by underwriters to analyze and price insurance claims automatically?",
+    "1": "'Customer relationship management' (CRM) systems",
+    "2": "'Smart systems' ",
+    "3": "'Pricing calculators'",
+    "4": "'Sales automation' software",
+    "correct": "2",
+    "reason": "Underwriters use 'smart systems,' which are computer applications that help manage risks more effectively by automatically analyzing and pricing claims. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s an Executive Committee duty per revision?",
+    "1": "Review budget",
+    "2": "Set investment policy",
+    "3": "Audit statements",
+    "4": "Nominate candidates",
+    "correct": "1",
+    "reason": "They review the budget."
+  },
+  {
+    "Question": "What is the relationship between the underwriter and the actuary in the underwriting process?",
+    "1": "They perform the exact same function.",
+    "2": "The underwriter determines the premium, and the actuary assesses the risk.",
+    "3": "The actuary analyzes the risk, and the underwriter determines the premium.",
+    "4": "The underwriter assesses the risk and makes an acceptance decision, then the actuary is asked to determine the premium. ",
+    "correct": "4",
+    "reason": "After the underwriter analyzes the risk and makes a decision (acceptance, conditional acceptance, or rejection), the actuary is then called upon to set the appropriate premium. "
+  },
+  {
+    "Question": "In most cases, is the insured aware that their policy is reinsured?",
+    "1": "Yes, they are part of the reinsurance negotiation.",
+    "2": "No, in most cases, the insured does not know that there is reinsurance. ",
+    "3": "Yes, it is a legal requirement to inform them.",
+    "4": "Only if the premium is above a certain amount.",
+    "correct": "2",
+    "reason": "Typically, the insured is not aware that their insurance policy has been reinsured by the insurance company. "
+  },
+  {
+    "Question": "What is a key responsibility of the risk management department regarding company employees?",
+    "1": "Providing the necessary level of awareness about the risks the company is exposed to. ",
+    "2": "Hiring and firing employees.",
+    "3": "Determining employee salaries.",
+    "4": "Managing employee vacation schedules.",
+    "correct": "1",
+    "reason": "The risk management department is responsible for ensuring that company employees are sufficiently aware of the risks the company faces and how to deal with them. "
+  },
+  {
+    "Question": "Why are employees the real capital?",
+    "1": "Insurance relies on expertise",
+    "2": "They manage investments",
+    "3": "They underwrite policies",
+    "4": "They handle complaints",
+    "correct": "1",
+    "reason": "Insurance depends on human skills."
+  },
+  {
+    "Question": "What are the two main sources of profit for insurance companies?",
+    "1": "Underwriting profits and marketing profits",
+    "2": "Sales profits and administrative profits",
+    "3": "Underwriting profits and investment profits",
+    "4": "Investment profits and claims settlements",
+    "correct": "3",
+    "reason": "Insurance companies gain profits from underwriting and investments."
+  },
+  {
+    "Question": "In most developed insurance markets, how are most business insurance operations carried out?",
+    "1": "Through online-only platforms.",
+    "2": "Through government agencies.",
+    "3": "Through registered and licensed intermediaries. ",
+    "4": "Directly with the insurance company.",
+    "correct": "3",
+    "reason": "Most business insurance operations in developed markets are conducted through registered and licensed intermediaries. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s a Board characteristic per revision?",
+    "1": "From different countries",
+    "2": "Represents main partners",
+    "3": "All insurance experts",
+    "4": "No experience",
+    "correct": "2",
+    "reason": "Board represents main partners."
+  },
+  {
+    "Question": "What is a primary role of the executive committee of the Board of Directors?",
+    "1": "To directly manage the sales force.",
+    "2": "To conduct detailed audits of all departments.",
+    "3": "To act on behalf of the Board between meetings on specified matters. ",
+    "4": "To handle day-to-day operational tasks.",
+    "correct": "3",
+    "reason": "The executive committee is tasked with certain duties and responsibilities, acting for the Board on specific issues when the full Board is not convened. (Note: This is inferred from the question in the source)."
+  },
+  {
+    "Question": "What modern tools do underwriters use to manage risks more effectively?",
+    "1": "Sales channel performance reports",
+    "2": "Smart systems and computer applications ",
+    "3": "Customer satisfaction surveys",
+    "4": "Manual pricing tables and actuarial data only",
+    "correct": "2",
+    "reason": "Underwriters use computer systems and applications called 'smart systems' to manage and analyze risks more effectively and accurately. "
+  },
+  {
+    "Question": "What is the result of using 'smart systems' in underwriting?",
+    "1": "It improves underwriters' ability to make sound decisions and avoid unexpected losses. ",
+    "2": "It increases the likelihood of unprofessional underwriting.",
+    "3": "It makes the underwriter's job obsolete.",
+    "4": "It slows down the underwriting process.",
+    "correct": "1",
+    "reason": "These systems enhance the underwriter's capacity to make sound, data-driven decisions and help in preventing unforeseen losses. "
+  },
+  {
+    "Question": "Who is responsible for negotiating a variety of reinsurance contracts for the company?",
+    "1": "The Audit Committee",
+    "2": "The CEO",
+    "3": "The primary underwriter",
+    "4": "The Reinsurance Section ",
+    "correct": "4",
+    "reason": "The Reinsurance Section is responsible for negotiating different types of reinsurance contracts and proposing the best structure for the company. "
+  },
+  {
+    "Question": "What must be in each claim file?",
+    "1": "Only loss adjuster report",
+    "2": "Only customer claim",
+    "3": "Only INSURANCE application",
+    "4": "Application, policy copy, claim, and docs",
+    "correct": "4",
+    "reason": "Claim files need all relevant documents."
+  },
+  {
+    "Question": "What is the main role of the underwriter in an insurance company?",
+    "1": "To manage the company's investments.",
+    "2": "To handle claims from policyholders.",
+    "3": "To determine the risk degree of policyholders and set appropriate prices for policies. ",
+    "4": "To sell insurance policies.",
+    "correct": "3",
+    "reason": "The essence of the underwriter's role is to determine the risk level of policyholders and to price the insurance policies that will cover that risk appropriately. "
+  },
+  {
+    "Question": "What are the duties of an investment committee?",
+    "1": "To handle customer claims.",
+    "2": "To oversee the company's investment activities and ensure they align with policy. ",
+    "3": "To set the company's overall strategic direction.",
+    "4": "To manage daily staff requirements.",
+    "correct": "2",
+    "reason": "The investment committee's responsibilities include overseeing the company's investment operations and ensuring they are consistent with the established investment policy. (Note: This is inferred from the question in the source)."
+  },
+  {
+    "Question": "Which committee ensures compliance with applicable laws and regulations?",
+    "1": "Investment Committee",
+    "2": "Executive Committee",
+    "3": "Nominations and Remuneration Committee",
+    "4": "Audit Committee",
+    "correct": "4",
+    "reason": "The Audit Committee ensures compliance through the regulatory compliance officer and auditors."
+  },
+  {
+    "Question": "What might an underwriter decide based on the risk manager's report?",
+    "1": "Always accept the risk",
+    "2": "Reject, conditionally accept, or fully accept",
+    "3": "Ignore the report",
+    "4": "Transfer all risk",
+    "correct": "2",
+    "reason": "The underwriter decides based on the report."
+  },
+  {
+    "Question": "What is the purpose of the compliance officer position in the insurance industry?",
+    "1": "To design marketing campaigns.",
+    "2": "To ensure the company adheres to laws and regulations. ",
+    "3": "To maximize company profits.",
+    "4": "To underwrite high-risk policies.",
+    "correct": "2",
+    "reason": "The purpose of the compliance officer is to ensure that the insurance company operates in accordance with all applicable laws and regulations. (Note: This is inferred from the question in the source)."
+  },
+  {
+    "Question": "Why do reinsurers need large capital?",
+    "1": "To hire employees",
+    "2": "To cover catastrophic events",
+    "3": "To invest in tech",
+    "4": "To pay marketing expenses",
+    "correct": "2",
+    "reason": "Large capital covers significant losses from catastrophes."
+  },
+  {
+    "Question": "What is 'Bancassurance'?",
+    "1": "Selling insurance exclusively online.",
+    "2": "Selling insurance through a company's own sales force.",
+    "3": "Selling insurance products through banks' network branches. ",
+    "4": "Selling insurance through insurance intermediaries.",
+    "correct": "3",
+    "reason": "Bancassurance is a strategy that uses banks' branches as an alternative distribution channel to sell insurance products. "
+  },
+  {
+    "Question": "What must be kept in claims files, besides the policy and claim form?",
+    "1": "The CEO's biography",
+    "2": "The marketing budget for the year.",
+    "3": "A list of company shareholders.",
+    "4": "Report of the loss adjuster, if any. ",
+    "correct": "4",
+    "reason": "A claims file should include any report from a loss adjuster and other necessary documents to substantiate the claim. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s done when a claim exceeds retention?",
+    "1": "Increase premium",
+    "2": "Reject claim",
+    "3": "Involve reinsurer",
+    "4": "Pay in full",
+    "correct": "3",
+    "reason": "Reinsurers share excess costs."
+  },
+  {
+    "Question": "What is one of the main goals of using Bancassurance as a distribution channel?",
+    "1": "To reduce the market share of the insurance company.",
+    "2": "To increase insurance premiums and market share, and reduce marketing costs. ",
+    "3": "To limit the distribution of insurance products to urban areas.",
+    "4": "To increase the cost of marketing.",
+    "correct": "2",
+    "reason": "Bancassurance is a strategy used to increase insurance premiums and market share while also reducing the costs associated with marketing and sales. "
+  },
+  {
+    "Question": "What is a financial operations responsibility regarding reinsurance?",
+    "1": "Negotiate contracts",
+    "2": "Underwrite reinsurance",
+    "3": "Follow up on reinsurance dues",
+    "4": "Market reinsurance",
+    "correct": "3",
+    "reason": "The department ensures timely reinsurance payments."
+  },
+  {
+    "Question": "What is a key characteristic of the relationship between an insurance company and a reinsurer?",
+    "1": "It is managed directly by the insured party.",
+    "2": "It is a public relationship known to all policyholders.",
+    "3": "It is a temporary arrangement that ends after one year.",
+    "4": "It is a promise to pay future claims in return for a currently paid premium. ",
+    "correct": "4",
+    "reason": "Similar to an insurance contract, a reinsurance agreement is essentially a promise by the reinsurer to pay future claims in exchange for a premium paid by the insurance company. "
+  },
+  {
+    "Question": "What is a major benefit of Bancassurance for the insurance sector as a whole?",
+    "1": "It helps in developing and spreading the insurance culture in society. ",
+    "2": "It limits the number of customers an insurance company can reach.",
+    "3": "It increases the complexity of insurance products.",
+    "4": "It increases the cost of marketing and sales.",
+    "correct": "1",
+    "reason": "Selling insurance through banks has many positive aspects, the most important of which is developing and spreading the insurance culture within society. "
+  },
+  {
+    "Question": "What might happen if an underwriter's risk assessment is too severe?",
+    "1": "Premiums will be too low",
+    "2": "The company may gain more customers",
+    "3": "The company will not need reinsurance",
+    "4": "The company may lose customers to competitors",
+    "correct": "4",
+    "reason": "Severe assessments may lead to high premiums, causing customers to choose competitors."
+  },
+  {
+    "Question": "What tool do underwriters use to manage risks effectively?",
+    "1": "Smart systems",
+    "2": "Marketing strategies",
+    "3": "Reinsurance contracts",
+    "4": "Claims software",
+    "correct": "1",
+    "reason": "Smart systems help analyze and price risks accurately."
+  },
+  {
+    "Question": "Who assesses financial standing and retention ratios?",
+    "1": "Risk Manager",
+    "2": "Actuarial Expert",
+    "3": "Compliance Officer",
+    "4": "Internal Auditor",
+    "correct": "2",
+    "reason": "Actuarial Experts assess finances."
+  },
+  {
+    "Question": "What is the role of insurance intermediaries in the sales process?",
+    "1": "To negotiate with the company to complete the insurance process",
+    "2": "To underwrite insurance policies",
+    "3": "To manage investments",
+    "4": "To handle claims processing",
+    "correct": "1",
+    "reason": "Intermediaries, like brokers, negotiate with the company to complete the insurance process for the insured."
+  },
+  {
+    "Question": "What is the dual purpose of investment income for an insurance company?",
+    "1": "To build new branches and to pay government taxes.",
+    "2": "To gain profit and to reduce premium values for customers, making the company more competitive. ",
+    "3": "To pay staff salaries and to buy new equipment.",
+    "4": "To fund marketing campaigns and to pay reinsurance dues.",
+    "correct": "2",
+    "reason": "A good investment income allows the company to gain profit and also enables it to lower customer premiums, thus enhancing its competitive position in the market. "
+  },
+  {
+    "Question": "Who is responsible for appointing a loss adjuster for a large and technical property claim?",
+    "1": "The insurance company. ",
+    "2": "SAMA.",
+    "3": "The insured.",
+    "4": "The reinsurer.",
+    "correct": "1",
+    "reason": "For large claims requiring technical expertise, the insurance company appoints a loss adjuster and loss assessor to investigate and calculate the settlement. "
+  },
+  {
+    "Question": "What does the risk management department develop to manage risks facing the organization?",
+    "1": "Employee compensation packages.",
+    "2": "Appropriate tools for managing risks. ",
+    "3": "New insurance products.",
+    "4": "Marketing campaigns.",
+    "correct": "2",
+    "reason": "One of the responsibilities of the risk management department is to develop suitable tools for managing the risks that the organization is exposed to. "
+  },
+  {
+    "Question": "When might a loss adjuster be involved in the underwriting process?",
+    "1": "Never, as they are only involved in claims.",
+    "2": "Only after a claim has been denied.",
+    "3": "In property insurance, their report may be a required supporting document. ",
+    "4": "For all types of insurance applications.",
+    "correct": "3",
+    "reason": "In certain types of insurance, such as property insurance, a report from a loss adjuster may be needed as a supporting document during the underwriting stage. "
+  },
+  {
+    "Question": "Why do insurance companies often not expect to pay claims for a period of time after receiving premiums?",
+    "1": "Because they delay payments intentionally.",
+    "2": "Because claims are always fraudulent.",
+    "3": "This is particularly true for protection and savings insurance companies. ",
+    "4": "Because policyholders rarely file claims.",
+    "correct": "3",
+    "reason": "Insurance companies, especially those dealing with protection and savings products, receive premiums but may not have to pay out claims for some time. "
+  },
+  {
+    "Question": "What is the significance of claims handling for an insurance company?",
+    "1": "It has no impact on reputation",
+    "2": "It is a minor administrative task",
+    "3": "It demonstrates the company's commitment to its promise",
+    "4": "It is only important for large claims",
+    "correct": "3",
+    "reason": "Claims handling shows reliability and affects the company's reputation."
+  },
+  {
+    "Question": "The work of insurance companies is not based on machines or equipment, but on what?",
+    "1": "The workers in the industry. ",
+    "2": "The number of computers they own.",
+    "3": "The amount of office space they have.",
+    "4": "Government funding.",
+    "correct": "1",
+    "reason": "The text emphasizes that the real capital and foundation of an insurance company's work are its employees, not its physical assets like machines. "
+  },
+  {
+    "Question": "What does the term 'Bancassurance' refer to?",
+    "1": "A type of insurance policy for banks.",
+    "2": "The selling of insurance products through a bank's distribution channels. ",
+    "3": "The national bank that regulates insurance.",
+    "4": "An assurance that a bank is financially stable.",
+    "correct": "2",
+    "reason": "Bancassurance is the strategy of using a bank's network of branches as an alternative channel to distribute and sell insurance products. "
+  },
+  {
+    "Question": "Which marketing channel involves distributing brochures?",
+    "1": "Brochure distribution",
+    "2": "Television advertising",
+    "3": "Direct contact",
+    "4": "Website marketing",
+    "correct": "1",
+    "reason": "Brochure distribution showcases product features."
+  },
+  {
+    "Question": "How does the risk management department add value to an insurance organization?",
+    "1": "By focusing only on external risks and ignoring internal ones.",
+    "2": "By increasing the amount of risk the company takes on.",
+    "3": "By handling all financial transactions of the company.",
+    "4": "By providing awareness to employees about the risks the company is exposed to and how to face them. ",
+    "correct": "4",
+    "reason": "The risk management department adds value by, among other things, providing the necessary level of awareness about risks to company employees and how to confront them. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s underwriting per revision?",
+    "1": "Managing investments",
+    "2": "Marketing products",
+    "3": "Assessing and pricing risks",
+    "4": "Handling claims",
+    "correct": "3",
+    "reason": "Underwriting assesses and prices risks."
+  },
+  {
+    "Question": "Which department in an insurance company is responsible for paying commissions to sales channels?",
+    "1": "Underwriting Department",
+    "2": "Financial Operations Department ",
+    "3": "Claims Department",
+    "4": "Human Resources",
+    "correct": "2",
+    "reason": "The Financial Operations department handles the payment of commissions to the beneficiaries of the sales channels. "
+  },
+  {
+    "Question": "What is the potential consequence if an underwriter's assessment of risks is too severe?",
+    "1": "The company may lose customers to competitors due to excessive premiums. ",
+    "2": "The reinsurance process will become more complex.",
+    "3": "The company may have to pay non-outstanding claims.",
+    "4": "The company's investment profits will decrease.",
+    "correct": "1",
+    "reason": "If an underwriter's risk assessment is too severe, it can lead to excessive and unaffordable premiums, causing the insurance company to lose customers to its competitors. "
+  },
+  {
+    "Question": "Who determines if a loss is covered by the policy?",
+    "1": "The risk manager",
+    "2": "The underwriter",
+    "3": "The claims representative",
+    "4": "The compliance officer",
+    "correct": "3",
+    "reason": "The claims representative investigates coverage."
+  },
+  {
+    "Question": "Who might underwriters visit from time to time to clarify policy terms?",
+    "1": "Company shareholders",
+    "2": "Reinsurers",
+    "3": "Regulators",
+    "4": "Insurance applicants or sales channel representatives ",
+    "correct": "4",
+    "reason": "On occasion, underwriters may visit insurance applicants, along with sales representatives, to provide clarification on insurance coverage or policy terms. "
+  },
+  {
+    "Question": "What is a potential negative outcome if premiums received are not sufficient to pay compensation?",
+    "1": "The company will attract more investors.",
+    "2": "The company's reputation will improve.",
+    "3": "The company will have to pay non-outstanding claims due to unprofessional underwriting. ",
+    "4": "The company's sales will increase.",
+    "correct": "3",
+    "reason": "Unprofessional underwriting that results in premiums being too low to cover claims means the company will have to pay for losses out of its own funds. "
+  },
+  {
+    "Question": "What types of events do most reinsurance operations purchased by insurers cover?",
+    "1": "Marketing and administrative expenses.",
+    "2": "Small, individual losses only.",
+    "3": "Employee-related incidents.",
+    "4": "Large individual losses and catastrophic events. ",
+    "correct": "4",
+    "reason": "Insurers typically purchase reinsurance to cover large individual losses and catastrophic events that they cannot handle on their own. "
+  },
+  {
+    "Question": "What enables an insurance company to monitor its main, financial, and underwriting activities?",
+    "1": "Customer feedback surveys.",
+    "2": "Competitor analysis reports.",
+    "3": "Media and press releases.",
+    "4": "Setting performance indicators. ",
+    "correct": "4",
+    "reason": "The risk management department sets performance indicators that allow the company to monitor its principal activities, including financial and underwriting operations. "
+  },
+  {
+    "Question": "Who does the Audit Committee work with for compliance?",
+    "1": "Marketing",
+    "2": "Compliance officer and auditors",
+    "3": "Sales reps",
+    "4": "Underwriting",
+    "correct": "2",
+    "reason": "They ensure compliance with officers and auditors."
+  },
+  {
+    "Question": "Who does Senior Management report to?",
+    "1": "Actuarial Expert",
+    "2": "Compliance Officer",
+    "3": "Board of Directors",
+    "4": "Internal Auditor",
+    "correct": "3",
+    "reason": "They report to the Board."
+  },
+  {
+    "Question": "Why is reinsurance considered 'insurance for insurers'?",
+    "1": "Because only insurance companies can be reinsurers.",
+    "2": "Because insurers are the policyholders in a reinsurance contract. ",
+    "3": "Because it is sold in the same way as regular insurance.",
+    "4": "Because it is regulated by the same laws as primary insurance.",
+    "correct": "2",
+    "reason": "Reinsurance is described as 'insurance for insurers' because it is a process where insurance companies (the insurers) purchase insurance to cover risks they cannot or do not wish to incur on their own. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s the first document in a claim file?",
+    "1": "Policy copy",
+    "2": "Customer claim",
+    "3": "Application form",
+    "4": "Loss adjuster report",
+    "correct": "3",
+    "reason": "Application form is essential."
+  },
+  {
+    "Question": "What is a task of the Actuarial Expert?",
+    "1": "Managing sales",
+    "2": "Handling complaints",
+    "3": "Pricing products",
+    "4": "Developing campaigns",
+    "correct": "3",
+    "reason": "They price insurance products."
+  },
+  {
+    "Question": "After an insurance application is submitted, who analyzes it and sends a report to the underwriter?",
+    "1": "The risk manager ",
+    "2": "The claims department",
+    "3": "The actuary",
+    "4": "The sales agent",
+    "correct": "1",
+    "reason": "The insurance application is submitted to the risk manager, who analyzes it and then sends a report to the underwriter. "
+  },
+  {
+    "Question": "What\u00e2\u20ac\u2122s the primary goal of reinsurance?",
+    "1": "Reduce large loss risk",
+    "2": "Improve service",
+    "3": "Increase premiums",
+    "4": "Expand market",
+    "correct": "1",
+    "reason": "It mitigates large loss risks."
+  },
+  {
+    "Question": "What information do underwriters often use to analyze insurance applications?",
+    "1": "Only the application form itself.",
+    "2": "The company's stock performance.",
+    "3": "Loss adjuster\u2019s reports, risk management reports, medical reports, and actuarial studies. ",
+    "4": "Customer testimonials and social media profiles.",
+    "correct": "3",
+    "reason": "Insurance applications are frequently accompanied by various reports such as those from loss adjusters, risk management, and actuarial studies to aid in the underwriting decision. "
+  },
+  {
+    "Question": "What is a primary responsibility of the Personnel and Administrative department?",
+    "1": "To approve financial reports.",
+    "2": "To manage and protect the property of the company. ",
+    "3": "To set premium rates.",
+    "4": "To decide on reinsurance contracts.",
+    "correct": "2",
+    "reason": "Managing and protecting the company's property is listed as one of the key operations of the personnel and administrative department. "
+  },
+  {
+    "Question": "What is one of the main functions of the Executive Committee?",
+    "1": "To audit the company's financial statements",
+    "2": "To review and approve the appointment of senior officials",
+    "3": "To handle reinsurance contracts",
+    "4": "To manage the company's investments",
+    "correct": "2",
+    "reason": "The Executive Committee reviews and approves senior official appointments as requested by the Nominations and Remuneration Committee."
+  },
+  {
+    "Question": "When a claim is submitted, who determines if the loss is covered by the policy?",
+    "1": "The claims representative ",
+    "2": "The CEO",
+    "3": "The actuary",
+    "4": "The sales agent",
+    "correct": "1",
+    "reason": "When an insured files a claim, a claims representative investigates it to determine whether the loss is covered under the terms of the policy. "
+  },
+  {
+    "Question": "What is the term for the process by which an underwriter decides whether to accept or reject an insurance offer?",
+    "1": "Marketing",
+    "2": "Investing",
+    "3": "Underwriting ",
+    "4": "Claiming",
+    "correct": "3",
+    "reason": "Underwriting is the specific process where an underwriter evaluates an insurance offer and decides on its acceptance and terms. "
+  }
+]

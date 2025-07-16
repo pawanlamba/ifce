@@ -160,7 +160,7 @@ function show_quiz(url, qid, rand) {
           questions = selectBatchElements(json, qid, 20);
           };
           // render questions
-          quesCnt = questions.length
+          ques_cnt = questions.length
           renderQuiz(questions)
 
           // set timer vars clear
