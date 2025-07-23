@@ -1,1 +1,848 @@
-[{"Question": "Which of the following examples is speculative risk?", "1": "A situation that has three possible outcomes, either loss, break-even or gain.", "2": "A widespread natural disaster", "3": "A situation which has only two possible outcomes, loss or break-even", "4": "A loss which affects only a few people", "correct": "1", "reason": "Risks that may give rise to loss or gain, such as investments in stocks, gambling and betting, as these activities can bring financial gains or losses or nothing can happen.    REFERENCE:1.2.3"}, {"Question": "Insurance deals with risk on the basis of:", "1": "Risk prevention", "2": "Risk avoidance", "3": "Risk transfer", "4": "Risk removal", "correct": "3", "reason": "We can turn to the role of insurance in the face of risk, we must emphasize that insurance does not prevent or eliminate risks because cars still collide and buildings are exposed to fire (with or without insurance). However, the role of insurance is to transfer the risk from one party (insured) to another (insurer) (the insurance company).    REFERENCE:1.3"}, {"Question": "The law of large numbers assists insurers because:", "1": "It helps make reliable claim predictions", "2": "It helps determine overheads", "3": "It helps make reliable income predictions", "4": "It helps forecast the level of new production", "correct": "1", "reason": "Applying this principle to the insurance enables insurers to predict more accurately the future probability and volume of losses presented by contributors to the pool. It also helps to explain why insurers are willing to exchange statistical information as the greater knowledge is of assistance to everyone.    REFERENCE:1.3"}, {"Question": "For risk to be insured, it must be:", "1": "Speculative and fortuitous", "2": "Pure and fortuitous", "3": "Inevitable and pure", "4": "Speculative and inevitable", "correct": 2, "reason": "- The risks are pure ones: Generally, not knowing future events and whether there is a loss will occur, meaning that the risk has only two outcomes, either loss or no loss. - If the loss is fortuitous: The term \u201cfortuitous\u201d loss essentially means \u201caccidental\u201d loss. In this context, this means that any event must be beyond the control of the insured, that is, it must be accidental for the insured.    REFERENCE:1.2.4"}, {"Question": "One of the physical hazard factors for buildings:", "1": "Type of building", "2": "The age of the insurance applicant", "3": "Number of insurance policies for the applicant", "4": "The insurance applicant has bank account", "correct": "1", "reason": "\u2022 Physical hazards: Are the triggers or the physical hazard contributing factors in insured item that cause the loss occurrence or increase its severity, such as: bad electrical extension cord or driving a car over a street full of oil. They arise from the physical aspects of a risk, such as construction of a building and its location and type of vehicle and the way of driving it.    REFERENCE:1.5"}, {"Question": "Public interest can be defined as:", "1": "The interests of the public or society as a whole.", "2": "The conditions in the policy", "3": "The laws of the country", "4": "The exclusions in the policy", "correct": "1", "reason": "Is essentially anything that involves the interests of the public or society as a whole. Situations that may be legally valid, and at the same time may be ethically or morally wrong are against public policy, therefore are not in the public interest.    REFERENCE:1.2.5"}, {"Question": "What is meant by \u201ca peril\u201d?", "1": "Increase the damage", "2": "Decrease the damage", "3": "Cause the damage", "4": "Has no effect on the damage", "correct": "3", "reason": "Events and factors that cause/constitute the main cause of loss, e.g. accidents, earthquakes, storms, fires, explosions, and such causes are usually beyond control of an individual.    REFERENCE:1.5"}, {"Question": "What is meant by \u201ca hazard\u201d?", "1": "Affect the extent of damage", "2": "Cause the damage", "3": "Decrease the damage", "4": "Does not affect the damage", "correct": "1", "reason": "Hazards are conditions that increase size of loss or increase the chance of a loss occurrence. For example, precipitation on roads leads the driver not being able to see clearly, and this increases possibility of a collision with other vehicles.    REFERENCE:1.5"}, {"Question": "The difference between moral and behavior hazards is that:", "1": "Moral is intentional while behavior can be seen", "2": "Moral is intentional while behavior is unintentional", "3": "Moral is unintentional while behavior is intentional", "4": "All of the above", "correct": 2, "reason": "\u2022 Physical hazards: Are the triggers or the physical hazard contributing factors in insured item that cause the loss occurrence or increase its severity, such as: bad electrical extension cord or driving a car over a street full of oil. They arise from the physical aspects of a risk, such as construction of a building and its location and type of vehicle and the way of driving it. \u2022 Moral Hazard is hazard related to insurance applicant, which may increase possibility of a loss, due to his negligence, mismanagement, or lack of a sense of responsibility. It arises from intentional or unintentional unethical and illegal behavior of individuals. Usually the person insured and it could be the employees or management. Moral hazard is always more difficult to be detected because it is not physical or tangible and cannot be touched or seen, such as, dishonesty by the insured, or people who do not consider deliberately inflating an insurance claim as dishonest. In liability situations, third party claimants often exaggerate their injuries and property damage and sympathetic physicians, lawyers, body shops and contractors may support these exaggerations and increase the cost of the claims. \u2022 Attitudinal Hazard (Morale Hazard) Involves the increase in likelihood of risk or size of loss as a result of insured\u2019s neglect due to existence of insurance, or in other words arising from the position of insured, which is different from moral hazard, as there is no underlying bad intention to cause the loss. Poor morale hazard may eventually lead to physical loss or damage. A company\u2019s management and employees who are unorganized, untidy, or do not clean the factory floor, or do not follow correct safety procedures. (obey no smoking signs (for example,) or leave machinery unguarded, are all signs of poor morale hazard that could eventually lead to an accident. Their attitude and behavior have increased the risk of a peril. Morale hazard acts to increase both the frequency and severity of losses when such losses are covered by insurance.    REFERENCE:1.5"}, {"Question": "Why is it necessary for a risk to be financially measured in order to be insured?", "1": "To be indemnified", "2": "To have insurable interest", "3": "To be pure risk", "4": "To reduce the risk of loss", "correct": "1", "reason": "The loss should be measurable and identifiable: In the case of insurance on the loss of a car, it is easy to determine the extent of the damage caused to the car. While it is not possible to insure the change in a person\u2019s psychological state, because there is no unit of measure by which we can know this loss, and also it is not possible to determine its size.    REFERENCE:1.2.4"}, {"Question": "One of the following is considered a self-employment insurance profession", "1": "Cooperative insurance companies", "2": "Cooperative reinsurance companies", "3": "Insurance brokerage companies", "4": "Council of Cooperative Health Insurance (CCHI)", "correct": "3", "reason": "First- Insurance and Reinsurance Service: Insurance Brokers    REFERENCE:1.8.2"}, {"Question": "CCHI is one of the regulatory and supervisory authorities over insurance companies; CCHI main tasks are:", "1": "Granting a business license to insurance brokers", "2": "Selling medical insurance policies to insurance seekers", "3": "Investing accumulated premiums from insurance companies", "4": "Qualifying medical service providers", "correct": 4, "reason": "Functions of General Secretariat of the Council of Cooperative Health Insurance Accreditation of Healthcare Providers Renewal of Accreditation of Healthcare Facilities Qualification of Health Insurance Companies    REFERENCE:2.5.2"}, {"Question": "The entity that grants a license to actuarial firms is:", "1": "Saudi Central Bank (SAMA)", "2": "Ministry of Commerce", "3": "Chamber of Commerce", "4": "Insurance Dispute Resolution Committees", "correct": "1", "reason": "The entity that grants a license to actuarial firms is Saudi Central Bank.    REFERENCE:2.8.3"}, {"Question": "Insurance Claims Adjusters, an insurance profession that:", "1": "Provides advisory services related to insurance activity", "2": "Concludes documents with insurance companies", "3": "Examines and inspects the subject of insurance before being insured", "4": "Manages, reviews and settles insurance claims", "correct": 4, "reason": "Insurance claims adjuster manages, reviews and settles insurance claims.    REFERENCE:5.8.2"}, {"Question": "The insurance amount in the medical insurance policy approved by CCHI:", "1": "Unlimited and policyholders can proceed with any value", "2": "SAR 1 million", "3": "SAR 500,000", "4": "SAR 10 million", "correct": "3", "reason": "The insurance amount in the medical insurance policy approved by CCHI is SAR 5000.    REFERENCE:3.5.2"}, {"Question": "The Implementing Regulations issued by SAMA and related to risks that insurance companies are exposed to:", "1": "Regulations for Supervision and Inspection Costs", "2": "Regulation of Reinsurance Activities", "3": "AML/CFT Introductory Course", "4": "Foreign Investment Regulation", "correct": "3", "reason": "The Implementing Regulations issued by SAMA and related to risks that insurance companies are exposed to: SAMA\u2019s Insurance Supervision Department develops rules of Anti-Money Laundering and Counter-Terrorism Financing.    REFERENCE:2.5.1"}, {"Question": "Functions of General Secretariat of the Council of Cooperative Health Insurance include:", "1": "Developing and implementing the operational policies and procedures", "2": "Insurance companies", "3": "Licensing hospitals and medical centers", "4": "Renewing the residence of non-Saudi employees", "correct": "3", "reason": "One of the functions of General Secretariat of the Council of Cooperative Health Insurance is licensing hospitals and medical centers.    REFERENCE:2.5.2"}, {"Question": "One of the key obligations of health insurance companies is:", "1": "Providing medicines and treatments", "2": "Medical examination of patients", "3": "Licensing of physicians and medical practitioners", "4": "Giving approvals to provide medical treatment within 60 minutes", "correct": 4, "reason": "One of the key obligations of health insurance companies. The insurance company must quickly grant approvals to provide treatment to beneficiaries to service providers within (60) minutes.    REFERENCE:2.5.3"}, {"Question": "Subject to the law and under the supervision of the Capital Market Authority, insurance companies are required to offer shares to citizens to subscribe for at:", "1": "100% of the insurance company\u2019s capital", "2": "60% of the insurance company\u2019s capital", "3": "50% of the insurance company\u2019s capital", "4": "40% of the insurance company\u2019s capital", "correct": 4, "reason": "Since all insurance companies according to the Law must be public joint stock companies, they must offer part of their shares to public citizens at a rate of 40% of the company\u2019s capital value.    REFERENCE:2.4.5"}, {"Question": "Where there is a non-Saudi partner in an insurance company, he must obtain the license from:", "1": "General Investment Authority", "2": "Saudi Central Bank only", "3": "Ministry of Commerce and Investment", "4": "Ministry of Human Resources and Social Development", "correct": "1", "reason": "When there is a non-Saudi partner company in any insurance company, the license must be obtained from the General Investment Authority.    REFERENCE:2.5.6"}, {"Question": "One of the following is a standard personal insurance product", "1": "Contractors\u2019 All Risks", "2": "Factory Insurance", "3": "Commercial Auto Insurance", "4": "Home Insurance", "correct": 4, "reason": "Individuals insurance \u2013 House insurance    REFERENCE:3.2.1"}, {"Question": "Among the standard corporate insurance coverage", "1": "Physicians\u2019 professional liability insurance", "2": "Reinsurance Agreement", "3": "Contractors equipment insurance", "4": "Private Car Insurance", "correct": "3", "reason": "Company Insurance - Engineering Insurance    REFERENCE:3.2.2"}, {"Question": "Among the insurance coverages for companies operating in the field of maritime transport:", "1": "Travel insurance", "2": "Emergency diseases affecting seamen", "3": "Insurance covering personal accidents affecting seamen during vacation", "4": "Securing goods during transportation", "correct": 4, "reason": "Company Insurance - Marine Insurance    REFERENCE:3.2.2"}, {"Question": "The Fidelity Guarantee Insurance policy compensates the insured in the event of:", "1": "Misappropriation of funds by an employee of the insured", "2": "Robbing money in transit", "3": "Damage to the insured\u2019s safe", "4": "Theft of the insured\u2019s warehouse", "correct": "1", "reason": "Misappropriation of funds by an employee of the insured Q-25: Answer: D \u2013 reference: 1.2.3 It covers civil liability to third parties. The owner of the vehicle or driver may have a civil liability to compensate the third party as a result of an accident caused by the insured vehicle. In this case, the insurance company shall pay compensation for such liability up to a maximum of 10 million SR per incident during the period of validity of the policy for the damage to property, death or bodily injury, including legal expenses.    REFERENCE:3.2.2"}, {"Question": "Which of the following is an engineering insurance:", "1": "Motor insurance", "2": "Healthcare", "3": "Money insurance", "4": "Contractor all risk insurance", "correct": 4, "reason": "Contractors risks insurance    REFERENCE:3.2.2"}, {"Question": "Additional motor insurance include", "1": "Driver medical insurance", "2": "Professional liability insurance for the driver as a physician", "3": "Driver\u2019s personal accident insurance", "4": "Driver\u2019s home insurance", "correct": "3", "reason": "Personal Accidents Extension: This extension offers a coverage to personal injuries to the driver and/or passengers for an additional premium, so the insurer will compensate the insured for the death, and partial or total disability of the driver or passengers because of an insured accident.    REFERENCE:1.2.3"}, {"Question": "Damage to contractor equipment can be covered under:", "1": "Motor insurance", "2": "Contractors General Liability Insurance", "3": "Machinery Breakdown and Deterioration of Stock (DoS) insurance", "4": "Contractor Plant and Equipment insurance", "correct": 4, "reason": "Contractor\u2019s all risk policy is designed \u201cagainst all risks\u201d especially for engineering projects such as construction of buildings, construction of bridges, road works, etc., providing comprehensive protection for contractors and entrepreneurs as well as subcontractors against all risks they may be exposed to, except what is specifically excluded. Insurance coverage can be extended to include additional risks such as third-party liability insurance.    REFERENCE:3.2.2"}, {"Question": "Among the main coverages for aviation hazards", "1": "Diseases that affect pilots", "2": "Damage to airport grounds", "3": "Damage to pilots\u2019 homes", "4": "Damage to pilots\u2019 vehicles", "correct": 2, "reason": "Aircraft Hull Liability Insurance: This policy covers loss or accidental damage to the aircraft on the basis of either replacement or repair of the damaged aircraft, as well as legal liability for accidental bodily injury (whether or not fatal) and any accidental damage that may affect third party property due to the aircraft itself, any passengers on board, or any objects or materials falling from it.    REFERENCE:3.2.2"}, {"Question": "In order for insurance companies to accept insurance against deterioration of stock in refrigerators, the following insurance coverage must be available", "1": "Fire insurance", "2": "Boilers and digesters insurance", "3": "Domestic workers\u2019 insurance", "4": "Property insurance for shop owners.", "correct": 4, "reason": "Property insurance: for shop owners: Stores are one of the most important selling points in today\u2019s world. They open round the clock to compete and gain customers, so they are exposed to a lot of risks, including dealing with employees and business management, which requires thinking about managing all those risks. For this purpose, this product is designed to meet the needs of stores owners. This policy provides insurance coverage for all types of shops except for certain specific activities. Coverage under the policy includes standard coverage such as fire, lightning and violent theft (robbery), as well as the possibility of covering compensation for rent of an alternative unit in case the insured shop is damaged. This integrated policy also provides multiple optional covers such as damage to refrigerated inventories, fixed glass panels, cash, goods in transit, civil liability, subsequent loss, workers\u2019 compensation, personal accidents and employee fidelity insurance. Q31 Answer: A \u2013 reference: 3.3.2 Insurance Market Code of Conduct Regulations SAMA has issued the Insurance Market Code of Conduct Regulations in the Kingdom of Saudi Arabia; the purpose of these Regulations is: These regulations include general principles and minimum standards to be met by insurance companies, including branches of foreign insurance companies and insurance and reinsurance services companies authorized by SAMA to deal with their current and potential customers in the future.    REFERENCE:3.2.2"}, {"Question": "A general requirement in the regulations is integrity, which provides that:", "1": "The licensed companies shall operate with integrity, transparently and fairly, and fulfill all of their obligations towards the customers in accordance with the regulations and instructions of the Saudi Central Bank.", "2": "The licensed companies shall discriminate between their customers, both current and future customers, and shall provide reasonable reasons for refusing, canceling, or not renewing insurance policies.", "3": "The licensed companies shall not take reasonable measures to ensure the validity and clarity of information provided to customers and to make such information available in written form.", "4": "The licensed companies shall exercise due diligence towards small-scale customers, but this does not apply to large-scale customers.", "correct": "1", "reason": "Integrity is one of the general requirements in the regulations, which states: Authorized companies shall act in an honest, fair, and transparent manner and fulfill all their obligations to the customers under SAMA\u2019s regulations and instructions. If the obligations of insurance principles and practices were not fully codified into these regulations or in the Cooperative Insurance Companies Control Law and its Implementing Regulations, authorized companies may follow the best practices recognized internationally.    REFERENCE:3.3.4"}, {"Question": "Article 52 of the Regulations provides that (the insurance policy shall be written clearly and in a language that is easily understood by the general public, and shall include the following)", "1": "The policy number, which shall be stated in all papers related to the policy.", "2": "The insured\u2019s name and mailing address. The address of specific customers is not requested.", "3": "Term of insurance for certain insurances only", "4": "The type of insurance coverage granted without specifying the scope of coverage", "correct": "1", "reason": "Article 52 stipulates that the Insurance Policy shall be written in a clear way that can be read by the public at large. Q-34: Answer: C \u2013 reference: 3.3.4 A Free Look clause has to be incorporated in all Protection & Savings, which should provide a minimum of 21 days\u2019 period from the date of delivery of the policy to the insured to review it and evaluate its suitability and whether it provides the benefits stated by the agent or broker. The insurance policy will be considered fully valid, and this condition will be considered waived by the insurer if he fails to inform the insurance company throughout the specified period that the insurance policy will be returned. If the insured customer considered the insurance policy inappropriate, the insurance company must be notified in writing during the free look period to consider the policy.    REFERENCE:3.3.4"}, {"Question": "Licensed companies shall not directly or indirectly provide inaccurate, misleading, exaggerated or deceptive statements or announcements, including but not limited to information on:", "1": "Name of insurance company issuing the insurance policy", "2": "The financial position of the insurance company issuing the insurance policy, which is not important for customers", "3": "Property insurance coverage", "4": "The price of insurance policy without indicating any other related fees.", "correct": "1", "reason": "Authorized companies should not disseminate inaccurate, misleading, exaggerated, or deceptive data or advertisements, directly or indirectly, including but not limited the information: Name of insurance company issuing the insurance policy.    REFERENCE:3.3.6"}, {"Question": "The insurance company must disclose the following information when the customer applies for an insurance policy:", "1": "Claims settlement procedures that the company is entitled to initiate", "2": "Complaints processing procedures", "3": "The insured\u2019s obligations and duties under the insurance policy", "4": "Requirements related to renewal of corporate insurance policies", "correct": 2, "reason": "When a customer applies for an insurance policy, the insurance company must disclose the complaints handling procedures.    REFERENCE:3.3.5"}, {"Question": "If the funds of insurance policy holders to be invested in a group of unit-linked funds, those funds must be specified, and such specification must include, at a minimum, the following:", "1": "Categories of assets in which the fund can invest in the Kingdom only", "2": "A rating for each fund in terms of risk and price volatility for offshore units", "3": "The criterion, if any, based on which the fund is measured", "4": "The currency in which the fund is priced locally, and no foreign currency is accepted.", "correct": "3", "reason": "The standard must be Illustrated, if the fund was measured based on a given standard.    REFERENCE:3.3.5"}, {"Question": "After making the deal, licensed companies must provide services to customers in a timely and appropriate manner, including to answer their inquiries, administrative requests, and the requests to amend insurance policies. In particular, the licensed companies must:", "1": "Provide certificates of insurance when requested by the customer", "2": "Submit written confirmation of any amendments to the insurance policy and any additional charges, but subject to the insured having paid the premiums, otherwise the insured shall not be notified of the same.", "3": "Issue receipts for any amounts received by any payment method, credit card or other form of automated bank transfer.", "4": "Pay the refundable amounts or any other fees payable to the customer according to the company\u2019s interest", "correct": "1", "reason": "Authorized companies must provide timely and appropriate post sale services to customers, customers, including response to their queries, administrative requests, and requests to amend insurance policies. In particular, they must do the following: Provide coverage certificates when requested by the customer.    REFERENCE:3.3.7"}, {"Question": "To settle the claims, the licensed companies must:", "1": "Respond to the claims received as per the days they specify for that purpose.", "2": "Provide the customer with the claim forms indicating all the information or procedures required to be filled in by the customer (including the beneficiary for the protection and saving insurance policy) in order to place the claim. Otherwise, the company may reject the claim", "3": "Acknowledge to the customer that the claims has been received and notify him of any missing information within (7) days of receiving the claim form.", "4": "Notify the customer orally in case of rejection and in writing upon acceptance of the claim", "correct": "3", "reason": "In accordance with claim settlement, authorized companies must do the following: Acknowledge to the customer that the claims have been received and notify him of any missing information within (7) days of receiving the claim form.    REFERENCE:3.3.7"}, {"Question": "The insurance policy is binding, is this a binding force for:", "1": "The insurance company only", "2": "The insured only", "3": "Both parties to the policy", "4": "Not binding on any party", "correct": "3", "reason": "Accordingly, this contract has general characteristics and special characteristics, which we will review as follows: Obligatory to the two parties: The reason for the obligation of each party to the insurance contract is the obligation of the other party. This means that the parties to the contract are committed to each other. The insurer commits to provide the guarantee while the insured commits to pay the premium. Consequently, the relationship between the parties is a contractual and reciprocal relationship.    REFERENCE:4.2.5"}, {"Question": "The comprehensive definition of an insurance policy must include:", "1": "The legal aspect only", "2": "The theoretical aspect only", "3": "The legal and theoretical aspects", "4": "Definition of any correct aspect", "correct": "3", "reason": "In this definition we find that there is a legal relationship between two parties: The first is the guarantor known as the insurer (the insurance company), and the second who is exposed to this risk is called the insured. This relationship established by the consent of both parties results in reciprocal obligations, whereas the insured pays a certain amount of money called premium, and the insurer pays a sum of money when the insured risk occurs. There is also another aspect in the insurance process that is the technical aspect, which is the idea of insurance itself. Without this technical aspect the definition of the insurance contract will be incomplete. The definitions given by the authors were generally incomplete may be because they took into consideration only one of the two aspects in the insurance process. Therefore, and in order to provide a comprehensive definition for the insurance contract, authors must take into consideration the two important aspects of the process: the legal aspect and the theoretical aspect.    REFERENCE:4.2"}, {"Question": "In order for an insurance policy to be a complete contract, it must have:", "1": "Offer only", "2": "Acceptance only", "3": "One party agrees to the terms of the contract", "4": "Both offer and acceptance", "correct": 4, "reason": "Consent is the expression of the will of each of the contracted parties, where these wills must meet.    REFERENCE:4.2.3"}, {"Question": "The consent under an insurance contract shall be of:", "1": "The insured, who is the person who contracts with an insurance company to insure himself against a specific risk", "2": "The Insurer, i.e. the insurance company", "3": "The insurer, i.e. the insurance company, and the second party (the insured), who contracts with the insurance company to procure an insurance", "4": "The reinsurer", "correct": "3", "reason": "\u2022 Identifying the contracted parties: The parties to the insurance contract are (the insurer), i.e. the insurance company, and the other party is the insured, who contracts with the insurance company to insure himself against a particular risk.    REFERENCE:4.2.3"}, {"Question": "The two parties to the insurance policy are:", "1": "The insured and insurance company", "2": "Insurance application and insurance policy", "3": "Insurance application and insurance offer", "4": "Insurance offer and insurance policy", "correct": "1", "reason": "\u2022 Identifying the contracted parties: The parties to the insurance contract are (the insurer), i.e. the insurance company, and the other party is the insured, who contracts with the insurance company to insure himself against a particular risk.    REFERENCE:4.2.3"}, {"Question": "One of the following is a defect of will in an insurance contract:", "1": "The high price of insurance premium", "2": "Insuring the Insured\u2019s property in one policy", "3": "Existence of consent with error and fraud", "4": "The insurance company rejects the insurance application", "correct": "3", "reason": "Will free from defects: The validity of the contract requires the existence of consent which must be true. Consent is not considered to be true unless stemming from a capable person. The defects of will are manifested in the following cases: The existence of consent with error and fraud    REFERENCE:4.2.3"}, {"Question": "The subject matter of insurance policy must:", "1": "Be acceptable to the insured", "2": "Be acceptable to the insurance broker", "3": "Contain any property that can be insured", "4": "Be legally acceptable and known to both parties", "correct": 4, "reason": "Third element: The subject matter of insurance (contracted) The insurance subject matter must be either an asset, benefit, obligation, an act, or an omission. The insurance subject matter must satisfy four conditions: \u2022 The subject matter must be legally correct: this means that the contract is not proper unless its subject matter, i.e. properties, business or benefits, are legitimate or permissible (lawful).    REFERENCE:4.2.3"}, {"Question": "The reason for the insurance contract is:", "1": "Direct purpose of insurance", "2": "Insurance parties", "3": "Subject matter of contract", "4": "The consent (offer & acceptance)", "correct": "1", "reason": "Fourth element: the purpose in insurance contract: The direct purpose that the obligor intends to reach from his obligation. In the insurance contract, it represents the motive for the insured to pay the insurance premium in order to obtain insurance protection. The purpose should be legitimate in order to make the will produces its effect.    REFERENCE:4.2.3"}, {"Question": "One of the characteristics of an insurance policy is that it is a netting contract, which means:", "1": "The insured receives compensation only", "2": "The competent authorities receive their fees", "3": "Insurance companies receive the premium only", "4": "Each party receives something in return for what he gives", "correct": 4, "reason": "Fifth element: The consideration in insurance contract: According to this element, and for the contract to be enforceable, each party has to provide something of value, whether money, goods, services, or any promise whereby the declaring party legally commits to make an act or an omission. Those for whom the commitment is made will have the right to expect that the promise be fulfilled or to claim its fulfilment.    REFERENCE:4.2.3"}, {"Question": "Probability in an insurance policy means:", "1": "The insured is exposed to inevitable risk", "2": "The insurance company provides coverage for a risk that is unlikely to occur", "3": "The insurance company provides coverage for pre-insurance risks", "4": "The insurance company provides coverage for potential and pre-insurance risks", "correct": 2, "reason": "Contingent contract The contingent contract is a contract that the parties thereof cannot know, at the time of contract conclusion, what is to give or take. The insurance contract is qualified as such because the payment of the indemnity (the sum insured) depends on the occurrence of the risk. The contract from the legal perspective stipulates the relationship between the insurer and the insured based on contractual provisions. The obligations of each of the parties is contingent to the occurrence of the risk and the time of occurrence.    REFERENCE:4.2.5"}, {"Question": "Utmost good faith principle can be defined as:", "1": "The insurance company provides coverage for pre-insurance risks", "2": "The insured does not cause an accident without intent", "3": "The insurance amount must be disclosed", "4": "The financial relationship between the insured and the insurance subject", "correct": "3", "reason": "Insurance contract is a contract of good faith: This means that the insurance contract must be implemented in good faith. This char acteristic plays a major role in the insurance contract, whether at conclusion or during implementation, and is greater than the role that this characteristic play in the other contracts. The insurer, in many circumstances, cannot have a real idea about the insured risk and its size except through the information given by the insured when applying for insurance.    REFERENCE:4.2.5"}, {"Question": "Utmost good faith principle applies on:", "1": "Insured", "2": "Insurance company only", "3": "Both the insurance applicant and the insurer", "4": "There is no obligation on the parties to contract to show good faith", "correct": "3", "reason": "Insurance contract is a contract of good faith: This means that the insurance contract must be implemented in good faith. This characteristic plays a major role in the insurance contract, whether at conclusion or during implementation, and is greater than the role that this characteristic play in the other contracts. The insurer, in many circumstances, cannot have a real idea about the insured risk and its size except through the information given by the insured when applying for insurance. Therefore, the applicant must be honest in making statements, which means that good faith, as one of the insurance contract characteristics, interferes in its conclusion as well as during implementation on the basis that the insured should do his best to limit the size of the risks when they occur and refrain from anything that would increase those risks. The insured also has to declare all circumstances that may increase the size of the risks, and refrain from causing the risks himself, and try to limit their extent and restrict risks in the narrowest scope. If the insured does not comply with the good faith principle, he will lose his right to the insurance. The reason behind it is that the intentions of the contracted parties are what the contract is all about.    REFERENCE:4.2.5"}, {"Question": "Material fact is a fact that:", "1": "Must not be disclosed", "2": "Affect the premium", "3": "Affect the conditions", "4": "Influence the decision of the underwriter in accepting or declining the risk", "correct": 4, "reason": "A material fact is any information that influences the decision of the insurer to determine contribution with 25% and more or on the policy terms or accepting the claim. Determining exactly what a material fact can be difficult especially for insureds who are new to insurance. A proposal form normally asks for those facts generally considered material by insurers. However, if there are other facts not covered by the proposal then the insured should voluntarily disclose them; staying silent is not an option. Many insurance companies remind potential insured to disclose any other information that may be relevant to the insurance. The general rule is; if in doubt regarding the relevance, disclose the information.    REFERENCE:4.1"}, {"Question": "The age of the insured is a material fact in:", "1": "Fire insurance", "2": "Store Robbery", "3": "Private motor insurance", "4": "All contractors risk", "correct": "3", "reason": "Motor insurance: purpose of using the vehicle or the age of the insurance applicant.    REFERENCE:4.1"}, {"Question": "A comprehensive vehicle insurance includes some material facts to help the underwriter evaluate the moral hazard effect:", "1": "Vehicle type", "2": "Vehicle use", "3": "The age of the insurance applicant", "4": "Previous losses", "correct": 4, "reason": "Facts that require disclosure include: \u2022 A full description of the subject matter of the insurance (Car, property, liability etc.). \u2022 Any other policies covering the same risk. \u2022 Previous insurance policies. Especially relevant if an insurance company has declined insurance or imposed special or restrictive terms. \u2022 Details of previous losses and insurance claims. \u2022 Any fact that increases the risk from the norm. For example, a car engine modified to make it go faster.    REFERENCE:4.1"}, {"Question": "Insurable interest can be defined as:", "1": "Financial relation between the insured and the subject matter of insurance", "2": "The right to claim from the third party", "3": "Duty of disclosure of all material facts", "4": "Any fact that increases the risk from the norm. For example, a car engine modified to make it go faster", "correct": "1", "reason": "Insurable Interest \u201cthe legal right to insurance arising from a legal financial relationship between the person and the insured item. \u201cInsurable Interest means that the person receiving the benefit of the insurance policy must have suffered a financial loss that is covered by the insurance policy.    REFERENCE:4.1"}, {"Question": "When insurable interest in the general insurance should be present?", "1": "At policy inception", "2": "During the policy validity", "3": "When loss occurs", "4": "At the beginning of the coverage", "correct": 4, "reason": "General insurance For all other policies, insurable interest must exist at policy inception, during the policy validity, and when the loss occurs. If there is an absence of insurable interest when the insurance starts then the contract may be considered invalid and if there is no insurable interest at the time of the loss then there will be no loss to the insured.    REFERENCE:4.1"}, {"Question": "What are the available options for providing indemnity?", "1": "Replacement with one of the insurance company\u2019s fixed assets", "2": "Giving a free insurance policy", "3": "Issuing a post-dated check for one year", "4": "Cash payment", "correct": 4, "reason": "Methods of providing indemnity: A. Cash payment: In the majority of cases, this is the most convenient method. Insurers reimburse the insured by a check or a transfer to his bank account. In accordance with SAMA\u2019s instructions. B. Repair: Insurers may arrange for a damaged item to be repaired at their expense. Collision damage to motor vehicles is a common example where insurers arrange repairs. In some cases, insurance companies own or have a financial interest in repair shops, which helps them to control costs. Alternatively, they may receive discounts from repairers due to the volume of business. C. Replacement: Insurers may choose to replace an item that has either been lost or damaged beyond repair. Glass, jewelry, house contents insurance are examples of replacement. Again, the insurance company usually gets the benefit of discounts for the volume of business they supply. D. Reinstatement: Reinstatement tends to refer to buildings or machinery and is similar to repair. Insurers may choose to rebuild the damaged building themselves, which is an option rarely exercised because of the problems it can cause to insurers. Normally, they would expect the insured to arrange the work and limit their role to verifying that the work is in order and within the policy terms, and in turn they will reimburse their insured.    REFERENCE:4.1"}, {"Question": "Who has the power to choose indemnity method?", "1": "Policyholder", "2": "Third party", "3": "Insurance company", "4": "The party affected by the loss.", "correct": "3", "reason": "Having established the meaning of the principle of indemnity, insurance contract states that the method of providing indemnity is at the option of insurers. The typical policy lays down four options and insurers will normally elect the option that is most convenient and least costly to them.    REFERENCE:4.1"}, {"Question": "What is the principle supported by the Contribution Principle and the Subrogation Principle?", "1": "Insurable interest", "2": "Indemnity", "3": "Proximate cause", "4": "Utmost good faith", "correct": 2, "reason": "When the insurer provide indemnity to the insured for a loss caused by third party, it is just and fair to let the person who caused the loss be financially responsible of the damages. Thus, the company has the right to subrogate on behalf of the insured in claiming indemnity from losses from the third party who caused it, after it provides indemnity for the insured. Subrogation supports the Principle of Indemnity and does not apply to insurance policies that are not contracts of Indemnity. If an insured takes out two insurance policies covering the same risk, he would have dual or double insurance. To allow recovery from both insurance companies would breach the principle of indemnity. Contribution is similar to subrogation; it exists to support the Principle of Indemnity and like subrogation, applies only to contracts of indemnity.    REFERENCE:4.1"}, {"Question": "The main committee that reports to the Board of Directors of the insurance company is:", "1": "Insurance Brokers Committee", "2": "Audit Committee", "3": "Insurance Agents Committee", "4": "Sales Representatives Committee", "correct": 2, "reason": "Audit Committee    REFERENCE:5.1.1"}, {"Question": "One of the major operations in the insurance companies is the underwriting process, which means:", "1": "Claims acceptance process", "2": "Distribution of insurance operations surplus", "3": "Acceptance of insuring the risk", "4": "The Company\u2019s underwriting process in the financial market", "correct": "3", "reason": "Underwriting is a primary function of any insurance company. It is the process by which the underwriter decides to accept or not to accept the insurance offer and sets the necessary conditions, price and premium. In other words, underwriting is the selection and pricing of risks, depending on the pricing tables and actuarial data. The essence of the underwriter\u203as role in an insurance company is to determine the risk degree of the policyholders, and to determine the prices of the appropriate insurance policies covering that risk. The insurance company may lose customers and make its competitors gain them if the underwriter\u2019s assessment of the risks is so severe that leads the premium to be excessive and unaffordable. It may also have to pay non-outstanding claims if the premiums received are not sufficient to pay compensation if the underwriting is unprofessional.    REFERENCE:5.2.2"}, {"Question": "The regulatory compliance officer in the insurance company is responsible for:", "1": "Observes employees work attendance", "2": "Applying probability and statistics theory used in pricing insurance products", "3": "Provision of advisory services related to insurance activity", "4": "Ensure compliance with applicable regulations and relevant directives", "correct": 4, "reason": "Audit Committee: The main functions and responsibilities of the Audit Committee are: \u2022 Ensuring compliance with applicable laws and regulations through the regulatory compliance officer and internal and external auditors.    REFERENCE:5.1.1"}, {"Question": "The process of reinsurance in insurance companies means:", "1": "Return the insurance premiums to the insured", "2": "The process of accepting the risk offered by the insured", "3": "Transfer of the insured risk burden from the insurance company to the reinsurance company", "4": "The investment process of collected insurance premiums", "correct": "3", "reason": "It is the process by which the insured risk burden is transferred from the insurance company to a reinsurance company. The reinsurer compensates the insurance company for the compensation payment made to the insured if they suffered damage or loss in the event of an accident. Reinsurance is the main risk management tool, simply reinsurance is insurance for insurers. Insurers buy insurance to cover risks they cannot individually incur. Reinsurance helps the insurance industry to provide protection for a large number of risks covered by insurance including large, concentrated, and complex risks.    REFERENCE:5.2.3"}, {"Question": "One of the following is considered a major selling channel in insurance companies:", "1": "Newspaper advertisements", "2": "Reinsurance Agreement", "3": "Social Responsibility of the company", "4": "Insurance Brokers", "correct": 4, "reason": "\u2022 Selling through insurance intermediaries: SAMA has licensed a number of intermediaries; the broker is a legal entity who, in exchange for a fee, negotiates with the company to complete the insurance process for the benefit of the insured. The insured may obtain independent advice or consultation about a large number of insurance types from the broker without paying a direct salary. For example, the broker may give advice on the insured\u2019s insurance needs, the best types of coverage and its limits, the best market and procedures for claims and documentation requirements and informing him of any changes in the market. Most business insurance operations are carried out in most developed insurance markets through registered and licensed intermediaries.    REFERENCE:1.2.5"}, {"Question": "The department that relates to the principle of compensation in insurance companies is:", "1": "Information Technology department", "2": "Investment department", "3": "Actuarial expert", "4": "Accidents and Claims department", "correct": 4, "reason": "All insurance companies licensed in the Kingdom of Saudi Arabia have departments to receive, process, and settle claims. Specific procedures are set up to receive, study, and settle insured\u2019s claims. The company must also keep files related to the claims of the insured and divide them into paid claims, claims under consideration or settlement, and rejected claims.    REFERENCE:5.2.4"}, {"Question": "One of the functions of reinsurance department in insurance companies is:", "1": "Investment in collected premiums", "2": "Transfer of risk from insurance companies to reinsurers", "3": "Direct compensation for vehicle accidents", "4": "Direct compensation for property accidents", "correct": 2, "reason": "It is the process by which the insured risk burden is transferred from the insurance company to a reinsurance company. The reinsurer compensates the insurance company for the compensation payment made to the insured if they suffered damage or loss in the event of an accident. Reinsurance is the main risk management tool, simply reinsurance is insurance for insurers. Insurers buy insurance to cover risks they cannot individually incur. Reinsurance helps the insurance industry to provide protection for a large number of risks covered by insurance including large, concentrated, and complex risks.    REFERENCE:5.2.3"}, {"Question": "Selling through an insurance agent is an example of:", "1": "Sale through insurance brokers", "2": "Sale through direct salespersons", "3": "Sale through call centers", "4": "Sale through a major sales channel", "correct": 4, "reason": "Channels of selling insurance \u2013 sale through agents    REFERENCE:1.2.5"}, {"Question": "The steps of identifying the insured applicant is known as:", "1": "Claims Settlement", "2": "Receiving claims", "3": "Customer Service", "4": "Underwriting", "correct": 4, "reason": "Stages of underwriting process: \u2022 Identifying the insurance applicant and the risk through the insurance form (in some types of insurance we may need supporting documents such as the report of the loss adjuster in the property insurance).    REFERENCE:5.2.2"}, {"Question": "The minimum permitted rating of reinsurance companies to which insurance companies must comply with in accordance of the instructions of the Saudi Central Bank:", "1": "AAA", "2": "BBB", "3": "CCC", "4": "DDD", "correct": 2, "reason": "Compliance Officer Responsibilities: \u2022 Follow-up with reinsurance companies and confirm the minimum rating of BBB.    REFERENCE:5.1.2"}, {"Question": "Insurance fraud is defined as:", "1": "Inability of a party to meet his obligations regarding a financial contract", "2": "Falsifying an insurance claim or increasing the insurance claim cost by increasing the damage cost", "3": "Rejecting the renewal of some of the major reinsurance treaties of insurance companies", "4": "Failure to increase the penetration rate in the insurance market", "correct": 2, "reason": "Fraud in insurance is creating a fake insurance claim or increasing insurance claim cost by increasing the damage cost or changing its nature by unlawful means to obtain undue gains. Fraud is divided into primary and secondary. Primary fraud is a person claiming an accident, injury, theft, or damage that does not exist, or claim that he has performed a service he has not performed, all for obtaining a legal gain from the insurance company. Secondary fraud is an honest and righteous person making a small lie or lies to maximize or increase his dues from the insurance company unduly.    REFERENCE:6.2"}, {"Question": "Solvency of insurance companies means:", "1": "The financial director\u2019s inability to fill the position", "2": "Actual claims in insurance companies exceeding the carrying amount of the insurance liabilities", "3": "Companies are able to meet their obligations to policyholders", "4": "Lack of specialized training programs working on raising the awareness of individuals", "correct": "3", "reason": "Generally, solvency means the ability to meet or pay obligations. In insurance, it is defined as \u201cthe ability of an insurance company or reinsurance company to permanently ensure its own resources to pay obligations arising from insurance or reinsurance business\u201d i.e. \u201cthe ability to pay obligations on maturity\u201d. The International Association of Insurance Supervisors has shown that any insurance company is solvent when it is able to meet its obligations for all contracts at any time (or at least in most circumstances). Insurance companies\u2019 solvency means that they have permanent financial ability to pay back the disasters they may suffer, i.e., that they are able to meet their obligations to policyholders on time. The importance of solvency is that it represents protection for insurance policyholders\u2019 interests by meeting their dues on time, in addition to ensuring the success, survival, and continuity of insurance companies\u2019 operations because of its economic and social importance. Furthermore, the composition of the solvency margin varies according to the different regulations of countries, but generally consists of capital, reserves and retained earnings. Due to the importance of the margin of solvency, the regulators of the insurance sector impose a mandatory minimum solvency margin in line with their size and risk.    REFERENCE:6.1.4"}, {"Question": "External fraudsters on insurance companies can be:", "1": "Employees on a vacation", "2": "Board of directors", "3": "Insurance brokers", "4": "Insurance representatives", "correct": "3", "reason": "Insurance brokers fraud    REFERENCE:6.2.2"}, {"Question": "One of the following is a negative effect of solvency:", "1": "Stop performing its obligations", "2": "Ask the insured to provide proper collateral or guarantee", "3": "Implement a strict schedule for paying dues of premiums or other", "4": "Putting restrictions on granting credit in terms of quality and quantity", "correct": "1", "reason": "\u2022 Companies are not meeting their obligations.    REFERENCE:6.1.4"}, {"Question": "One of the following is a negative effect of insolvency:", "1": "Companies inability to continue with social responsibility programs", "2": "Companies stopping to underwrite new insurance business", "3": "Not giving incentives to employees", "4": "Increase of fraud from several sources", "correct": 2, "reason": "\u2022 Companies have stopped offering some types of insurance, causing a decrease in corporate revenues.    REFERENCE:6.1.4"}, {"Question": "One of the following is a product development risk that insurance companies face:", "1": "Not following the actuary\u2019s instructions for selling a new product", "2": "Ensure the new product\u2019s compliance with the regulatory requirements", "3": "Prepare a report identifying the changes in risks and the insured behavior at the launch of the new product", "4": "Increase in insurance rates", "correct": "3", "reason": "Prepare a report on the changes in risks and the insured behavior from the date of launching the new product.    REFERENCE:6.1"}, {"Question": "One of the following is a procedure followed by insurance companies to face underwriting risk:", "1": "Not articulating policies and phrases clearly", "2": "Not giving importance to the completion of the insurance application by the insured", "3": "Ensure that insurance premiums include all costs", "4": "Not conducting periodic and sufficient review of the appropriateness of the insurance policies", "correct": "3", "reason": "\u2022 Ensure that premiums include the cost of policies, including indirect costs of marketing or any other charges.    REFERENCE:1.1.6"}, {"Question": "Identifying and applying proper mechanisms for the development of appropriate precautions; is one of the procedures undertaken by insurance companies to face:", "1": "Product development risk", "2": "Underwriting risk", "3": "Information technology risk", "4": "Claim settlement risk", "correct": 4, "reason": "Claim settlement risk    REFERENCE:6.1.3"}, {"Question": "To prepare for countering insurance risk, insurance companies do one of the following:", "1": "The high rate of policy cancellation", "2": "Using sound practices to manage company\u2019s assets", "3": "Implement a strict schedule for paying dues", "4": "putting restrictions on granting credit", "correct": "3", "reason": "\u2022 Implement a strict schedule for paying dues of premiums or other.    REFERENCE:6.1.5"}, {"Question": "One of the risks related to changes occurring in countries and affecting insurance companies\u2019 performance:", "1": "Increase in car accidents", "2": "Wars and political instability", "3": "Floods and storms", "4": "Increase of fraud from several sources", "correct": 2, "reason": "Wars and political instability    REFERENCE:8.6"}, {"Question": "What are the risks arising from determining the right value of premium by the company?", "1": "Settlement risk", "2": "Pricing risk", "3": "Marketing risks", "4": "financial risks", "correct": 2, "reason": "It is one of risks associated with the underwriting process, as it is one of its functions. It is a risk that arises from the process by which the company tries to determine the appropriate premium rate, and when the company faces pricing risk.    REFERENCE:6.1.2"}, {"Question": "When an insurance company faces pricing risk, it must:", "1": "Stop performing its obligations", "2": "Engage actuary to set prices for the product", "3": "Develop and implement appropriate mechanisms to set the appropriate precautions", "4": "Conduct a periodic evaluation of claims settlement procedures and principles to enhance their effectiveness and quality", "correct": 2, "reason": "\u2022 Engage actuarial experts in product pricing.    REFERENCE:6.1.2"}, {"Question": "Which of the following is not considered an obstacle to solvency risk:", "1": "Stop performing its obligations", "2": "Companies stop subscribing some types of insurance, causing reduction in the companies\u2019 revenues", "3": "Companies stop subscribing all types of insurance, and consequently the resources are substantially decreased", "4": "Placing restrictions on granting credit in terms of its quality and quantity", "correct": 4, "reason": "The solvency is highlighted as one of the obstacles because: \u2022 Companies are not meeting their obligations. \u2022 Companies have stopped offering some types of insurance, causing a decrease in corporate revenues. \u2022 Companies have stopped offering all types of insurance and hence a greater reduction in resources.    REFERENCE:6.1.4"}, {"Question": "What are the risks posed by the inability of the other party to fulfill its obligations, which is inferred from the insured\u2019s history of default in payment of premiums?", "1": "Settlement risk", "2": "Credit risks", "3": "Marketing risks", "4": "Financial risks", "correct": 2, "reason": "Credit risk associated with other party\u2019s inability to meet its obligations as evidenced by the history of the insured\u2019s late payment of premiums.    REFERENCE:6.1.5"}, {"Question": "When facing credit risk, the insurance company must:", "1": "Request the insured to provide the appropriate guarantee", "2": "Provide an appropriate information technology system to protect data security", "3": "Periodically review and continuously update the information technology system and develop disaster recovery plans", "4": "Use reliable and genuine software", "correct": "1", "reason": "Ask the insured to provide proper collateral or guarantee    REFERENCE:6.1.5"}, {"Question": "To address the information technology risks, the insurance company should:", "1": "Request the insured to provide the appropriate guarantee", "2": "Set a strict schedule for payment of dues, i.e. the premiums and other duties", "3": "Keep all financial and other information in a safe place", "4": "Place restrictions over credit in terms of its quality and quantity", "correct": "1", "reason": "\u2022 Keep all financial information and other information in a safe place.    REFERENCE:6.1.6"}, {"Question": "Which of the following is an example of fraud?", "1": "The insured discloses all facts to the insurance company", "2": "Demonstrating good faith in dealing with others", "3": "Buying shares in several insurance companies", "4": "Misallocation of the insured assets in order to submit claims at a later time", "correct": 4, "reason": "Insurance fraud is defined as any act or negligence intended to obtain dirty money or achieve illegal gain for the party who committed the fraud (which will be referred to in this research as \u201cthe fraudster\u201d) or for third parties. This can be achieved by, including but not limited to, the following means: \u2022 Deliberately present, conceal, withhold, or not disclose one or all of the material facts relating to a financial decision, process or perception of the insurance company\u2019s status. \u2022 Lack of responsibility, abuse of trust, and misuse of agency. \u2022 Poor distribution of insured assets in order to submit claims later.    REFERENCE:6.2"}, {"Question": "Which of the following is defined as fraud against an insurance company in the purchase and or execution of an insured product by a person (s) conspiring to receive payment or untrue coverage.", "1": "Internal fraud", "2": "Fraud of insurance policy holder", "3": "Fraud of brokers", "4": "External fraud", "correct": 2, "reason": "\u2022 Policyholder \u2013 insured fraud: defraud the insurance company by purchasing or/and developing a product insured by a person or persons through receiving false payment or coverage.    REFERENCE:6.2.2"}, {"Question": "Which of the following is one of the factors that increase the chance of internal fraud?", "1": "Remuneration and promotions policies", "2": "Age of company", "3": "Number of insurance companies", "4": "Number of insureds.", "correct": "1", "reason": "\u2022 Rewards and promotions policies: the motivation for fraud may be greater if the employee\u203as status and salary depend on achieving certain objectives.    REFERENCE:6.2.2"}, {"Question": "Which of the following is an example of brokers involved in insurance company fraud:", "1": "The claimant makes inconsistent statements either to the police, experts or third parties", "2": "Fabrication of incidents causing damage or loss covered by the policy", "3": "The insured person does not take any action to avoid or limit damage", "4": "Withholding premiums paid by the policyholder until the claim is paid", "correct": 4, "reason": "\u2022 Withholding premiums paid by the policyholder until the claim is paid. Q92 Answer: A \u2013 reference: 2.5.1 The Bank is responsible for monitoring Cooperative Insurance Companies in KSA through: \u2022 Approving insurance products for insurance companies.    REFERENCE:6.2.2"}, {"Question": "In order to obtain license, insurance and reinsurance service providers must meet several requirements, namely:", "1": "Obtaining an English proficiency certificate", "2": "Being over 30 years old", "3": "Having at least 10 years of experience in insurance companies", "4": "Obtaining a university degree with at least five years of insurance experience or a specialized insurance certificate", "correct": 4, "reason": "As for insurance practitioner, i.e. natural persons licensed to practice any profession related to insurance or reinsurance business and work for self-employed professionals, they must meet the following requirements to obtain SAMA\u2019s license: \u2022 Holding a university degree with at least five years of insurance experience or a specialized insurance certification. \u2022 Pass the approved examination for the required profession or obtain an equivalent qualification.    REFERENCE:2.8"}, {"Question": "Which authority is responsible for managing and supervising the investment environment of foreign investors in KSA and controlling insurance companies in which there are non-Saudi investors?", "1": "Saudi Central Bank", "2": "General Investment Authority", "3": "Ministry of Finance", "4": "Capital Market Authority", "correct": 2, "reason": "MISA is the authority responsible for managing and supervising investment environment for foreign investors in KSA, as well as controlling insurance companies involving non-Saudi investors.    REFERENCE:2.5.7"}, {"Question": "Which of the following is considered one of CMA functions:", "1": "Regulate and control the disclosure of information related to securities and issuers", "2": "Provide beneficiaries with explanatory brochures containing the policy, the scope and limits of coverage and the network of accredited providers at the beginning of coverage", "3": "Protect insured persons against unjustified financial losses and dishonest behavior in the insurance sector", "4": "Promote, develop and grow the insurance market in KSA, by innovating the tools to do so, and raise insurance awareness in the market", "correct": "1", "reason": "Organizing and controlling disclosure of information related to securities and issuers thereof.    REFERENCE:2.5.4"}, {"Question": "Which of the following is considered one of functions of the General Secretariat of the Council of Cooperative Health Insurance:", "1": "Protecting insured persons against unjustified financial losses and dishonest behavior in the insurance sector", "2": "Promoting market transparency by requiring insurance companies to publish reliable and accurate data to the public of those dealing with companies of this sector", "3": "Promoting, developing and growing the insurance market in KSA, by innovating the tools to do so, in addition to raising insurance awareness in the market", "4": "Renewing the accreditation of health facilities", "correct": 4, "reason": "\u2022 Renewal of Accreditation of Healthcare Facilities: Renewing healthcare facility accreditation comes as a control step with a regulatory role, and is one of the basic tools for maintaining quality levels in healthcare facilities to ensure they perform the role entrusted thereto to the fullest extent. Accreditation of healthcare providers is renewed annually or every two or three years for some of categories, after they fulfill accreditation renewal requirements, as an extension of the previous accreditation.    REFERENCE:2.5.3"}, {"Question": "............is the legal person who inspects and surveys the insured risk prior to insurance, surveys the damage after its occurrence to find out the causes of loss, adjust its value, and determine liability.", "1": "Actuarial Expert", "2": "b. Loss adjuster", "3": "Insurance Agents", "4": "Insurance Brokers", "correct": 2, "reason": "The loss adjuster and loss assessor is the legal person who inspects and surveys the insured risk prior to insurance, surveys the damage after its occurrence to find out the causes of loss, adjust its value, and determine liability.    REFERENCE:2.8.4"}, {"Question": "Najm for Insurance Services Company is an example of:", "1": "Actuarial Expert", "2": "Insurance Agents", "3": "Loss adjuster", "4": "Insurance Brokers", "correct": "3", "reason": "The following inspection and loss assessment companies have been licensed (up to the editing date of this academic material).    REFERENCE:2.8.4"}, {"Question": "..............is the legal person who, in return for payment, negotiates with the insurance companies to complete the insurance process for the insured.", "1": "Actuarial Expert", "2": "Insurance Agents", "3": "Loss adjuster", "4": "Insurance Brokers", "correct": 4, "reason": "The insurance broker is the legal person who, in return for payment, negotiates with the insurance companies to complete the insurance process for the insured.    REFERENCE:2.8.1"}, {"Question": "Which of the following is one of the reasons that led to the regulation of the insurance sector in KSA:", "1": "High costs of external insurance", "2": "Absence of an insurance regulatory authority", "3": "Accession to the World Trade Organization", "4": "Absence of reinsurance companies", "correct": "3", "reason": "Accession to the World Trade Organization.    REFERENCE:2.3"}]
+[
+  {
+    "Question": "Which of the following examples is speculative risk?",
+    "1": "A situation that has three possible outcomes, either loss, break-even or gain.",
+    "2": "A widespread natural disaster",
+    "3": "A situation which has only two possible outcomes, loss or break-even",
+    "4": "A loss which affects only a few people",
+    "correct": "1",
+    "reason": "Risks that may give rise to loss or gain, such as investments in stocks, gambling and betting, as these activities can bring financial gains or losses or nothing can happen.    REFERENCE:1.2.3"
+  },
+  {
+    "Question": "Insurance deals with risk on the basis of:",
+    "1": "Risk prevention",
+    "2": "Risk avoidance",
+    "3": "Risk transfer",
+    "4": "Risk removal",
+    "correct": "3",
+    "reason": "We can turn to the role of insurance in the face of risk, we must emphasize that insurance does not prevent or eliminate risks because cars still collide and buildings are exposed to fire (with or without insurance). However, the role of insurance is to transfer the risk from one party (insured) to another (insurer) (the insurance company).    REFERENCE:1.3"
+  },
+  {
+    "Question": "The law of large numbers assists insurers because:",
+    "1": "It helps make reliable claim predictions",
+    "2": "It helps determine overheads",
+    "3": "It helps make reliable income predictions",
+    "4": "It helps forecast the level of new production",
+    "correct": "1",
+    "reason": "Applying this principle to the insurance enables insurers to predict more accurately the future probability and volume of losses presented by contributors to the pool. It also helps to explain why insurers are willing to exchange statistical information as the greater knowledge is of assistance to everyone.    REFERENCE:1.3"
+  },
+  {
+    "Question": "For risk to be insured, it must be:",
+    "1": "Speculative and fortuitous",
+    "2": "Pure and fortuitous",
+    "3": "Inevitable and pure",
+    "4": "Speculative and inevitable",
+    "correct": "2",
+    "reason": "- The risks are pure ones: Generally, not knowing future events and whether there is a loss will occur, meaning that the risk has only two outcomes, either loss or no loss. - If the loss is fortuitous: The term \u201cfortuitous\u201d loss essentially means \u201caccidental\u201d loss. In this context, this means that any event must be beyond the control of the insured, that is, it must be accidental for the insured.    REFERENCE:1.2.4"
+  },
+  {
+    "Question": "One of the physical hazard factors for buildings:",
+    "1": "Type of building",
+    "2": "The age of the insurance applicant",
+    "3": "Number of insurance policies for the applicant",
+    "4": "The insurance applicant has bank account",
+    "correct": "1",
+    "reason": "\u2022 Physical hazards: Are the triggers or the physical hazard contributing factors in insured item that cause the loss occurrence or increase its severity, such as: bad electrical extension cord or driving a car over a street full of oil. They arise from the physical aspects of a risk, such as construction of a building and its location and type of vehicle and the way of driving it.    REFERENCE:1.5"
+  },
+  {
+    "Question": "Public interest can be defined as:",
+    "1": "The interests of the public or society as a whole.",
+    "2": "The conditions in the policy",
+    "3": "The laws of the country",
+    "4": "The exclusions in the policy",
+    "correct": "1",
+    "reason": "Is essentially anything that involves the interests of the public or society as a whole. Situations that may be legally valid, and at the same time may be ethically or morally wrong are against public policy, therefore are not in the public interest.    REFERENCE:1.2.5"
+  },
+  {
+    "Question": "What is meant by \u201ca peril\u201d?",
+    "1": "Increase the damage",
+    "2": "Decrease the damage",
+    "3": "Cause the damage",
+    "4": "Has no effect on the damage",
+    "correct": "3",
+    "reason": "Events and factors that cause/constitute the main cause of loss, e.g. accidents, earthquakes, storms, fires, explosions, and such causes are usually beyond control of an individual.    REFERENCE:1.5"
+  },
+  {
+    "Question": "What is meant by \u201ca hazard\u201d?",
+    "1": "Affect the extent of damage",
+    "2": "Cause the damage",
+    "3": "Decrease the damage",
+    "4": "Does not affect the damage",
+    "correct": "1",
+    "reason": "Hazards are conditions that increase size of loss or increase the chance of a loss occurrence. For example, precipitation on roads leads the driver not being able to see clearly, and this increases possibility of a collision with other vehicles.    REFERENCE:1.5"
+  },
+  {
+    "Question": "The difference between moral and behavior hazards is that:",
+    "1": "Moral is intentional while behavior can be seen",
+    "2": "Moral is intentional while behavior is unintentional",
+    "3": "Moral is unintentional while behavior is intentional",
+    "4": "All of the above",
+    "correct": "2",
+    "reason": "\u2022 Physical hazards: Are the triggers or the physical hazard contributing factors in insured item that cause the loss occurrence or increase its severity, such as: bad electrical extension cord or driving a car over a street full of oil. They arise from the physical aspects of a risk, such as construction of a building and its location and type of vehicle and the way of driving it. \u2022 Moral Hazard is hazard related to insurance applicant, which may increase possibility of a loss, due to his negligence, mismanagement, or lack of a sense of responsibility. It arises from intentional or unintentional unethical and illegal behavior of individuals. Usually the person insured and it could be the employees or management. Moral hazard is always more difficult to be detected because it is not physical or tangible and cannot be touched or seen, such as, dishonesty by the insured, or people who do not consider deliberately inflating an insurance claim as dishonest. In liability situations, third party claimants often exaggerate their injuries and property damage and sympathetic physicians, lawyers, body shops and contractors may support these exaggerations and increase the cost of the claims. \u2022 Attitudinal Hazard (Morale Hazard) Involves the increase in likelihood of risk or size of loss as a result of insured\u2019s neglect due to existence of insurance, or in other words arising from the position of insured, which is different from moral hazard, as there is no underlying bad intention to cause the loss. Poor morale hazard may eventually lead to physical loss or damage. A company\u2019s management and employees who are unorganized, untidy, or do not clean the factory floor, or do not follow correct safety procedures. (obey no smoking signs (for example,) or leave machinery unguarded, are all signs of poor morale hazard that could eventually lead to an accident. Their attitude and behavior have increased the risk of a peril. Morale hazard acts to increase both the frequency and severity of losses when such losses are covered by insurance.    REFERENCE:1.5"
+  },
+  {
+    "Question": "Why is it necessary for a risk to be financially measured in order to be insured?",
+    "1": "To be indemnified",
+    "2": "To have insurable interest",
+    "3": "To be pure risk",
+    "4": "To reduce the risk of loss",
+    "correct": "1",
+    "reason": "The loss should be measurable and identifiable: In the case of insurance on the loss of a car, it is easy to determine the extent of the damage caused to the car. While it is not possible to insure the change in a person\u2019s psychological state, because there is no unit of measure by which we can know this loss, and also it is not possible to determine its size.    REFERENCE:1.2.4"
+  },
+  {
+    "Question": "One of the following is considered a self-employment insurance profession",
+    "1": "Cooperative insurance companies",
+    "2": "Cooperative reinsurance companies",
+    "3": "Insurance brokerage companies",
+    "4": "Council of Cooperative Health Insurance (CCHI)",
+    "correct": "3",
+    "reason": "First- Insurance and Reinsurance Service: Insurance Brokers    REFERENCE:1.8.2"
+  },
+  {
+    "Question": "CCHI is one of the regulatory and supervisory authorities over insurance companies; CCHI main tasks are:",
+    "1": "Granting a business license to insurance brokers",
+    "2": "Selling medical insurance policies to insurance seekers",
+    "3": "Investing accumulated premiums from insurance companies",
+    "4": "Qualifying medical service providers",
+    "correct": "4",
+    "reason": "Functions of General Secretariat of the Council of Cooperative Health Insurance Accreditation of Healthcare Providers Renewal of Accreditation of Healthcare Facilities Qualification of Health Insurance Companies    REFERENCE:2.5.2"
+  },
+  {
+    "Question": "The entity that grants a license to actuarial firms is:",
+    "1": "Saudi Central Bank (SAMA)",
+    "2": "Ministry of Commerce",
+    "3": "Chamber of Commerce",
+    "4": "Insurance Dispute Resolution Committees",
+    "correct": "1",
+    "reason": "The entity that grants a license to actuarial firms is Saudi Central Bank.    REFERENCE:2.8.3"
+  },
+  {
+    "Question": "Insurance Claims Adjusters, an insurance profession that:",
+    "1": "Provides advisory services related to insurance activity",
+    "2": "Concludes documents with insurance companies",
+    "3": "Examines and inspects the subject of insurance before being insured",
+    "4": "Manages, reviews and settles insurance claims",
+    "correct": "4",
+    "reason": "Insurance claims adjuster manages, reviews and settles insurance claims.    REFERENCE:5.8.2"
+  },
+  {
+    "Question": "The insurance amount in the medical insurance policy approved by CCHI:",
+    "1": "Unlimited and policyholders can proceed with any value",
+    "2": "SAR 1 million",
+    "3": "SAR 500,000",
+    "4": "SAR 10 million",
+    "correct": "3",
+    "reason": "The insurance amount in the medical insurance policy approved by CCHI is SAR 5000.    REFERENCE:3.5.2"
+  },
+  {
+    "Question": "The Implementing Regulations issued by SAMA and related to risks that insurance companies are exposed to:",
+    "1": "Regulations for Supervision and Inspection Costs",
+    "2": "Regulation of Reinsurance Activities",
+    "3": "AML/CFT Introductory Course",
+    "4": "Foreign Investment Regulation",
+    "correct": "3",
+    "reason": "The Implementing Regulations issued by SAMA and related to risks that insurance companies are exposed to: SAMA\u2019s Insurance Supervision Department develops rules of Anti-Money Laundering and Counter-Terrorism Financing.    REFERENCE:2.5.1"
+  },
+  {
+    "Question": "Functions of General Secretariat of the Council of Cooperative Health Insurance include:",
+    "1": "Developing and implementing the operational policies and procedures",
+    "2": "Insurance companies",
+    "3": "Licensing hospitals and medical centers",
+    "4": "Renewing the residence of non-Saudi employees",
+    "correct": "3",
+    "reason": "One of the functions of General Secretariat of the Council of Cooperative Health Insurance is licensing hospitals and medical centers.    REFERENCE:2.5.2"
+  },
+  {
+    "Question": "One of the key obligations of health insurance companies is:",
+    "1": "Providing medicines and treatments",
+    "2": "Medical examination of patients",
+    "3": "Licensing of physicians and medical practitioners",
+    "4": "Giving approvals to provide medical treatment within 60 minutes",
+    "correct": "4",
+    "reason": "One of the key obligations of health insurance companies. The insurance company must quickly grant approvals to provide treatment to beneficiaries to service providers within (60) minutes.    REFERENCE:2.5.3"
+  },
+  {
+    "Question": "Subject to the law and under the supervision of the Capital Market Authority, insurance companies are required to offer shares to citizens to subscribe for at:",
+    "1": "100% of the insurance company\u2019s capital",
+    "2": "60% of the insurance company\u2019s capital",
+    "3": "50% of the insurance company\u2019s capital",
+    "4": "40% of the insurance company\u2019s capital",
+    "correct": "4",
+    "reason": "Since all insurance companies according to the Law must be public joint stock companies, they must offer part of their shares to public citizens at a rate of 40% of the company\u2019s capital value.    REFERENCE:2.4.5"
+  },
+  {
+    "Question": "Where there is a non-Saudi partner in an insurance company, he must obtain the license from:",
+    "1": "General Investment Authority",
+    "2": "Saudi Central Bank only",
+    "3": "Ministry of Commerce and Investment",
+    "4": "Ministry of Human Resources and Social Development",
+    "correct": "1",
+    "reason": "When there is a non-Saudi partner company in any insurance company, the license must be obtained from the General Investment Authority.    REFERENCE:2.5.6"
+  },
+  {
+    "Question": "One of the following is a standard personal insurance product",
+    "1": "Contractors\u2019 All Risks",
+    "2": "Factory Insurance",
+    "3": "Commercial Auto Insurance",
+    "4": "Home Insurance",
+    "correct": "4",
+    "reason": "Individuals insurance \u2013 House insurance    REFERENCE:3.2.1"
+  },
+  {
+    "Question": "Among the standard corporate insurance coverage",
+    "1": "Physicians\u2019 professional liability insurance",
+    "2": "Reinsurance Agreement",
+    "3": "Contractors equipment insurance",
+    "4": "Private Car Insurance",
+    "correct": "3",
+    "reason": "Company Insurance - Engineering Insurance    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "Among the insurance coverages for companies operating in the field of maritime transport:",
+    "1": "Travel insurance",
+    "2": "Emergency diseases affecting seamen",
+    "3": "Insurance covering personal accidents affecting seamen during vacation",
+    "4": "Securing goods during transportation",
+    "correct": "4",
+    "reason": "Company Insurance - Marine Insurance    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "The Fidelity Guarantee Insurance policy compensates the insured in the event of:",
+    "1": "Misappropriation of funds by an employee of the insured",
+    "2": "Robbing money in transit",
+    "3": "Damage to the insured\u2019s safe",
+    "4": "Theft of the insured\u2019s warehouse",
+    "correct": "1",
+    "reason": "Misappropriation of funds by an employee of the insured Q-25: Answer: D \u2013 reference: 1.2.3 It covers civil liability to third parties. The owner of the vehicle or driver may have a civil liability to compensate the third party as a result of an accident caused by the insured vehicle. In this case, the insurance company shall pay compensation for such liability up to a maximum of 10 million SR per incident during the period of validity of the policy for the damage to property, death or bodily injury, including legal expenses.    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "Which of the following is an engineering insurance:",
+    "1": "Motor insurance",
+    "2": "Healthcare",
+    "3": "Money insurance",
+    "4": "Contractor all risk insurance",
+    "correct": "4",
+    "reason": "Contractors risks insurance    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "Additional motor insurance include",
+    "1": "Driver medical insurance",
+    "2": "Professional liability insurance for the driver as a physician",
+    "3": "Driver\u2019s personal accident insurance",
+    "4": "Driver\u2019s home insurance",
+    "correct": "3",
+    "reason": "Personal Accidents Extension: This extension offers a coverage to personal injuries to the driver and/or passengers for an additional premium, so the insurer will compensate the insured for the death, and partial or total disability of the driver or passengers because of an insured accident.    REFERENCE:1.2.3"
+  },
+  {
+    "Question": "Damage to contractor equipment can be covered under:",
+    "1": "Motor insurance",
+    "2": "Contractors General Liability Insurance",
+    "3": "Machinery Breakdown and Deterioration of Stock (DoS) insurance",
+    "4": "Contractor Plant and Equipment insurance",
+    "correct": "4",
+    "reason": "Contractor\u2019s all risk policy is designed \u201cagainst all risks\u201d especially for engineering projects such as construction of buildings, construction of bridges, road works, etc., providing comprehensive protection for contractors and entrepreneurs as well as subcontractors against all risks they may be exposed to, except what is specifically excluded. Insurance coverage can be extended to include additional risks such as third-party liability insurance.    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "Among the main coverages for aviation hazards",
+    "1": "Diseases that affect pilots",
+    "2": "Damage to airport grounds",
+    "3": "Damage to pilots\u2019 homes",
+    "4": "Damage to pilots\u2019 vehicles",
+    "correct": "2",
+    "reason": "Aircraft Hull Liability Insurance: This policy covers loss or accidental damage to the aircraft on the basis of either replacement or repair of the damaged aircraft, as well as legal liability for accidental bodily injury (whether or not fatal) and any accidental damage that may affect third party property due to the aircraft itself, any passengers on board, or any objects or materials falling from it.    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "In order for insurance companies to accept insurance against deterioration of stock in refrigerators, the following insurance coverage must be available",
+    "1": "Fire insurance",
+    "2": "Boilers and digesters insurance",
+    "3": "Domestic workers\u2019 insurance",
+    "4": "Property insurance for shop owners.",
+    "correct": "4",
+    "reason": "Property insurance: for shop owners: Stores are one of the most important selling points in today\u2019s world. They open round the clock to compete and gain customers, so they are exposed to a lot of risks, including dealing with employees and business management, which requires thinking about managing all those risks. For this purpose, this product is designed to meet the needs of stores owners. This policy provides insurance coverage for all types of shops except for certain specific activities. Coverage under the policy includes standard coverage such as fire, lightning and violent theft (robbery), as well as the possibility of covering compensation for rent of an alternative unit in case the insured shop is damaged. This integrated policy also provides multiple optional covers such as damage to refrigerated inventories, fixed glass panels, cash, goods in transit, civil liability, subsequent loss, workers\u2019 compensation, personal accidents and employee fidelity insurance. Q31 Answer: A \u2013 reference: 3.3.2 Insurance Market Code of Conduct Regulations SAMA has issued the Insurance Market Code of Conduct Regulations in the Kingdom of Saudi Arabia; the purpose of these Regulations is: These regulations include general principles and minimum standards to be met by insurance companies, including branches of foreign insurance companies and insurance and reinsurance services companies authorized by SAMA to deal with their current and potential customers in the future.    REFERENCE:3.2.2"
+  },
+  {
+    "Question": "A general requirement in the regulations is integrity, which provides that:",
+    "1": "The licensed companies shall operate with integrity, transparently and fairly, and fulfill all of their obligations towards the customers in accordance with the regulations and instructions of the Saudi Central Bank.",
+    "2": "The licensed companies shall discriminate between their customers, both current and future customers, and shall provide reasonable reasons for refusing, canceling, or not renewing insurance policies.",
+    "3": "The licensed companies shall not take reasonable measures to ensure the validity and clarity of information provided to customers and to make such information available in written form.",
+    "4": "The licensed companies shall exercise due diligence towards small-scale customers, but this does not apply to large-scale customers.",
+    "correct": "1",
+    "reason": "Integrity is one of the general requirements in the regulations, which states: Authorized companies shall act in an honest, fair, and transparent manner and fulfill all their obligations to the customers under SAMA\u2019s regulations and instructions. If the obligations of insurance principles and practices were not fully codified into these regulations or in the Cooperative Insurance Companies Control Law and its Implementing Regulations, authorized companies may follow the best practices recognized internationally.    REFERENCE:3.3.4"
+  },
+  {
+    "Question": "Article 52 of the Regulations provides that (the insurance policy shall be written clearly and in a language that is easily understood by the general public, and shall include the following)",
+    "1": "The policy number, which shall be stated in all papers related to the policy.",
+    "2": "The insured\u2019s name and mailing address. The address of specific customers is not requested.",
+    "3": "Term of insurance for certain insurances only",
+    "4": "The type of insurance coverage granted without specifying the scope of coverage",
+    "correct": "1",
+    "reason": "Article 52 stipulates that the Insurance Policy shall be written in a clear way that can be read by the public at large. Q-34: Answer: C \u2013 reference: 3.3.4 A Free Look clause has to be incorporated in all Protection & Savings, which should provide a minimum of 21 days\u2019 period from the date of delivery of the policy to the insured to review it and evaluate its suitability and whether it provides the benefits stated by the agent or broker. The insurance policy will be considered fully valid, and this condition will be considered waived by the insurer if he fails to inform the insurance company throughout the specified period that the insurance policy will be returned. If the insured customer considered the insurance policy inappropriate, the insurance company must be notified in writing during the free look period to consider the policy.    REFERENCE:3.3.4"
+  },
+  {
+    "Question": "Licensed companies shall not directly or indirectly provide inaccurate, misleading, exaggerated or deceptive statements or announcements, including but not limited to information on:",
+    "1": "Name of insurance company issuing the insurance policy",
+    "2": "The financial position of the insurance company issuing the insurance policy, which is not important for customers",
+    "3": "Property insurance coverage",
+    "4": "The price of insurance policy without indicating any other related fees.",
+    "correct": "1",
+    "reason": "Authorized companies should not disseminate inaccurate, misleading, exaggerated, or deceptive data or advertisements, directly or indirectly, including but not limited the information: Name of insurance company issuing the insurance policy.    REFERENCE:3.3.6"
+  },
+  {
+    "Question": "The insurance company must disclose the following information when the customer applies for an insurance policy:",
+    "1": "Claims settlement procedures that the company is entitled to initiate",
+    "2": "Complaints processing procedures",
+    "3": "The insured\u2019s obligations and duties under the insurance policy",
+    "4": "Requirements related to renewal of corporate insurance policies",
+    "correct": "2",
+    "reason": "When a customer applies for an insurance policy, the insurance company must disclose the complaints handling procedures.    REFERENCE:3.3.5"
+  },
+  {
+    "Question": "If the funds of insurance policy holders to be invested in a group of unit-linked funds, those funds must be specified, and such specification must include, at a minimum, the following:",
+    "1": "Categories of assets in which the fund can invest in the Kingdom only",
+    "2": "A rating for each fund in terms of risk and price volatility for offshore units",
+    "3": "The criterion, if any, based on which the fund is measured",
+    "4": "The currency in which the fund is priced locally, and no foreign currency is accepted.",
+    "correct": "3",
+    "reason": "The standard must be Illustrated, if the fund was measured based on a given standard.    REFERENCE:3.3.5"
+  },
+  {
+    "Question": "After making the deal, licensed companies must provide services to customers in a timely and appropriate manner, including to answer their inquiries, administrative requests, and the requests to amend insurance policies. In particular, the licensed companies must:",
+    "1": "Provide certificates of insurance when requested by the customer",
+    "2": "Submit written confirmation of any amendments to the insurance policy and any additional charges, but subject to the insured having paid the premiums, otherwise the insured shall not be notified of the same.",
+    "3": "Issue receipts for any amounts received by any payment method, credit card or other form of automated bank transfer.",
+    "4": "Pay the refundable amounts or any other fees payable to the customer according to the company\u2019s interest",
+    "correct": "1",
+    "reason": "Authorized companies must provide timely and appropriate post sale services to customers, customers, including response to their queries, administrative requests, and requests to amend insurance policies. In particular, they must do the following: Provide coverage certificates when requested by the customer.    REFERENCE:3.3.7"
+  },
+  {
+    "Question": "To settle the claims, the licensed companies must:",
+    "1": "Respond to the claims received as per the days they specify for that purpose.",
+    "2": "Provide the customer with the claim forms indicating all the information or procedures required to be filled in by the customer (including the beneficiary for the protection and saving insurance policy) in order to place the claim. Otherwise, the company may reject the claim",
+    "3": "Acknowledge to the customer that the claims has been received and notify him of any missing information within (7) days of receiving the claim form.",
+    "4": "Notify the customer orally in case of rejection and in writing upon acceptance of the claim",
+    "correct": "3",
+    "reason": "In accordance with claim settlement, authorized companies must do the following: Acknowledge to the customer that the claims have been received and notify him of any missing information within (7) days of receiving the claim form.    REFERENCE:3.3.7"
+  },
+  {
+    "Question": "The insurance policy is binding, is this a binding force for:",
+    "1": "The insurance company only",
+    "2": "The insured only",
+    "3": "Both parties to the policy",
+    "4": "Not binding on any party",
+    "correct": "3",
+    "reason": "Accordingly, this contract has general characteristics and special characteristics, which we will review as follows: Obligatory to the two parties: The reason for the obligation of each party to the insurance contract is the obligation of the other party. This means that the parties to the contract are committed to each other. The insurer commits to provide the guarantee while the insured commits to pay the premium. Consequently, the relationship between the parties is a contractual and reciprocal relationship.    REFERENCE:4.2.5"
+  },
+  {
+    "Question": "The comprehensive definition of an insurance policy must include:",
+    "1": "The legal aspect only",
+    "2": "The theoretical aspect only",
+    "3": "The legal and theoretical aspects",
+    "4": "Definition of any correct aspect",
+    "correct": "3",
+    "reason": "In this definition we find that there is a legal relationship between two parties: The first is the guarantor known as the insurer (the insurance company), and the second who is exposed to this risk is called the insured. This relationship established by the consent of both parties results in reciprocal obligations, whereas the insured pays a certain amount of money called premium, and the insurer pays a sum of money when the insured risk occurs. There is also another aspect in the insurance process that is the technical aspect, which is the idea of insurance itself. Without this technical aspect the definition of the insurance contract will be incomplete. The definitions given by the authors were generally incomplete may be because they took into consideration only one of the two aspects in the insurance process. Therefore, and in order to provide a comprehensive definition for the insurance contract, authors must take into consideration the two important aspects of the process: the legal aspect and the theoretical aspect.    REFERENCE:4.2"
+  },
+  {
+    "Question": "In order for an insurance policy to be a complete contract, it must have:",
+    "1": "Offer only",
+    "2": "Acceptance only",
+    "3": "One party agrees to the terms of the contract",
+    "4": "Both offer and acceptance",
+    "correct": "4",
+    "reason": "Consent is the expression of the will of each of the contracted parties, where these wills must meet.    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "The consent under an insurance contract shall be of:",
+    "1": "The insured, who is the person who contracts with an insurance company to insure himself against a specific risk",
+    "2": "The Insurer, i.e. the insurance company",
+    "3": "The insurer, i.e. the insurance company, and the second party (the insured), who contracts with the insurance company to procure an insurance",
+    "4": "The reinsurer",
+    "correct": "3",
+    "reason": "\u2022 Identifying the contracted parties: The parties to the insurance contract are (the insurer), i.e. the insurance company, and the other party is the insured, who contracts with the insurance company to insure himself against a particular risk.    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "The two parties to the insurance policy are:",
+    "1": "The insured and insurance company",
+    "2": "Insurance application and insurance policy",
+    "3": "Insurance application and insurance offer",
+    "4": "Insurance offer and insurance policy",
+    "correct": "1",
+    "reason": "\u2022 Identifying the contracted parties: The parties to the insurance contract are (the insurer), i.e. the insurance company, and the other party is the insured, who contracts with the insurance company to insure himself against a particular risk.    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "One of the following is a defect of will in an insurance contract:",
+    "1": "The high price of insurance premium",
+    "2": "Insuring the Insured\u2019s property in one policy",
+    "3": "Existence of consent with error and fraud",
+    "4": "The insurance company rejects the insurance application",
+    "correct": "3",
+    "reason": "Will free from defects: The validity of the contract requires the existence of consent which must be true. Consent is not considered to be true unless stemming from a capable person. The defects of will are manifested in the following cases: The existence of consent with error and fraud    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "The subject matter of insurance policy must:",
+    "1": "Be acceptable to the insured",
+    "2": "Be acceptable to the insurance broker",
+    "3": "Contain any property that can be insured",
+    "4": "Be legally acceptable and known to both parties",
+    "correct": "4",
+    "reason": "Third element: The subject matter of insurance (contracted) The insurance subject matter must be either an asset, benefit, obligation, an act, or an omission. The insurance subject matter must satisfy four conditions: \u2022 The subject matter must be legally correct: this means that the contract is not proper unless its subject matter, i.e. properties, business or benefits, are legitimate or permissible (lawful).    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "The reason for the insurance contract is:",
+    "1": "Direct purpose of insurance",
+    "2": "Insurance parties",
+    "3": "Subject matter of contract",
+    "4": "The consent (offer & acceptance)",
+    "correct": "1",
+    "reason": "Fourth element: the purpose in insurance contract: The direct purpose that the obligor intends to reach from his obligation. In the insurance contract, it represents the motive for the insured to pay the insurance premium in order to obtain insurance protection. The purpose should be legitimate in order to make the will produces its effect.    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "One of the characteristics of an insurance policy is that it is a netting contract, which means:",
+    "1": "The insured receives compensation only",
+    "2": "The competent authorities receive their fees",
+    "3": "Insurance companies receive the premium only",
+    "4": "Each party receives something in return for what he gives",
+    "correct": "4",
+    "reason": "Fifth element: The consideration in insurance contract: According to this element, and for the contract to be enforceable, each party has to provide something of value, whether money, goods, services, or any promise whereby the declaring party legally commits to make an act or an omission. Those for whom the commitment is made will have the right to expect that the promise be fulfilled or to claim its fulfilment.    REFERENCE:4.2.3"
+  },
+  {
+    "Question": "Probability in an insurance policy means:",
+    "1": "The insured is exposed to inevitable risk",
+    "2": "The insurance company provides coverage for a risk that is unlikely to occur",
+    "3": "The insurance company provides coverage for pre-insurance risks",
+    "4": "The insurance company provides coverage for potential and pre-insurance risks",
+    "correct": "2",
+    "reason": "Contingent contract The contingent contract is a contract that the parties thereof cannot know, at the time of contract conclusion, what is to give or take. The insurance contract is qualified as such because the payment of the indemnity (the sum insured) depends on the occurrence of the risk. The contract from the legal perspective stipulates the relationship between the insurer and the insured based on contractual provisions. The obligations of each of the parties is contingent to the occurrence of the risk and the time of occurrence.    REFERENCE:4.2.5"
+  },
+  {
+    "Question": "Utmost good faith principle can be defined as:",
+    "1": "The insurance company provides coverage for pre-insurance risks",
+    "2": "The insured does not cause an accident without intent",
+    "3": "The insurance amount must be disclosed",
+    "4": "The financial relationship between the insured and the insurance subject",
+    "correct": "3",
+    "reason": "Insurance contract is a contract of good faith: This means that the insurance contract must be implemented in good faith. This char acteristic plays a major role in the insurance contract, whether at conclusion or during implementation, and is greater than the role that this characteristic play in the other contracts. The insurer, in many circumstances, cannot have a real idea about the insured risk and its size except through the information given by the insured when applying for insurance.    REFERENCE:4.2.5"
+  },
+  {
+    "Question": "Utmost good faith principle applies on:",
+    "1": "Insured",
+    "2": "Insurance company only",
+    "3": "Both the insurance applicant and the insurer",
+    "4": "There is no obligation on the parties to contract to show good faith",
+    "correct": "3",
+    "reason": "Insurance contract is a contract of good faith: This means that the insurance contract must be implemented in good faith. This characteristic plays a major role in the insurance contract, whether at conclusion or during implementation, and is greater than the role that this characteristic play in the other contracts. The insurer, in many circumstances, cannot have a real idea about the insured risk and its size except through the information given by the insured when applying for insurance. Therefore, the applicant must be honest in making statements, which means that good faith, as one of the insurance contract characteristics, interferes in its conclusion as well as during implementation on the basis that the insured should do his best to limit the size of the risks when they occur and refrain from anything that would increase those risks. The insured also has to declare all circumstances that may increase the size of the risks, and refrain from causing the risks himself, and try to limit their extent and restrict risks in the narrowest scope. If the insured does not comply with the good faith principle, he will lose his right to the insurance. The reason behind it is that the intentions of the contracted parties are what the contract is all about.    REFERENCE:4.2.5"
+  },
+  {
+    "Question": "Material fact is a fact that:",
+    "1": "Must not be disclosed",
+    "2": "Affect the premium",
+    "3": "Affect the conditions",
+    "4": "Influence the decision of the underwriter in accepting or declining the risk",
+    "correct": "4",
+    "reason": "A material fact is any information that influences the decision of the insurer to determine contribution with 25% and more or on the policy terms or accepting the claim. Determining exactly what a material fact can be difficult especially for insureds who are new to insurance. A proposal form normally asks for those facts generally considered material by insurers. However, if there are other facts not covered by the proposal then the insured should voluntarily disclose them; staying silent is not an option. Many insurance companies remind potential insured to disclose any other information that may be relevant to the insurance. The general rule is; if in doubt regarding the relevance, disclose the information.    REFERENCE:4.1"
+  },
+  {
+    "Question": "The age of the insured is a material fact in:",
+    "1": "Fire insurance",
+    "2": "Store Robbery",
+    "3": "Private motor insurance",
+    "4": "All contractors risk",
+    "correct": "3",
+    "reason": "Motor insurance: purpose of using the vehicle or the age of the insurance applicant.    REFERENCE:4.1"
+  },
+  {
+    "Question": "A comprehensive vehicle insurance includes some material facts to help the underwriter evaluate the moral hazard effect:",
+    "1": "Vehicle type",
+    "2": "Vehicle use",
+    "3": "The age of the insurance applicant",
+    "4": "Previous losses",
+    "correct": "4",
+    "reason": "Facts that require disclosure include: \u2022 A full description of the subject matter of the insurance (Car, property, liability etc.). \u2022 Any other policies covering the same risk. \u2022 Previous insurance policies. Especially relevant if an insurance company has declined insurance or imposed special or restrictive terms. \u2022 Details of previous losses and insurance claims. \u2022 Any fact that increases the risk from the norm. For example, a car engine modified to make it go faster.    REFERENCE:4.1"
+  },
+  {
+    "Question": "Insurable interest can be defined as:",
+    "1": "Financial relation between the insured and the subject matter of insurance",
+    "2": "The right to claim from the third party",
+    "3": "Duty of disclosure of all material facts",
+    "4": "Any fact that increases the risk from the norm. For example, a car engine modified to make it go faster",
+    "correct": "1",
+    "reason": "Insurable Interest \u201cthe legal right to insurance arising from a legal financial relationship between the person and the insured item. \u201cInsurable Interest means that the person receiving the benefit of the insurance policy must have suffered a financial loss that is covered by the insurance policy.    REFERENCE:4.1"
+  },
+  {
+    "Question": "When insurable interest in the general insurance should be present?",
+    "1": "At policy inception",
+    "2": "During the policy validity",
+    "3": "When loss occurs",
+    "4": "At the beginning of the coverage",
+    "correct": "4",
+    "reason": "General insurance For all other policies, insurable interest must exist at policy inception, during the policy validity, and when the loss occurs. If there is an absence of insurable interest when the insurance starts then the contract may be considered invalid and if there is no insurable interest at the time of the loss then there will be no loss to the insured.    REFERENCE:4.1"
+  },
+  {
+    "Question": "What are the available options for providing indemnity?",
+    "1": "Replacement with one of the insurance company\u2019s fixed assets",
+    "2": "Giving a free insurance policy",
+    "3": "Issuing a post-dated check for one year",
+    "4": "Cash payment",
+    "correct": "4",
+    "reason": "Methods of providing indemnity: A. Cash payment: In the majority of cases, this is the most convenient method. Insurers reimburse the insured by a check or a transfer to his bank account. In accordance with SAMA\u2019s instructions. B. Repair: Insurers may arrange for a damaged item to be repaired at their expense. Collision damage to motor vehicles is a common example where insurers arrange repairs. In some cases, insurance companies own or have a financial interest in repair shops, which helps them to control costs. Alternatively, they may receive discounts from repairers due to the volume of business. C. Replacement: Insurers may choose to replace an item that has either been lost or damaged beyond repair. Glass, jewelry, house contents insurance are examples of replacement. Again, the insurance company usually gets the benefit of discounts for the volume of business they supply. D. Reinstatement: Reinstatement tends to refer to buildings or machinery and is similar to repair. Insurers may choose to rebuild the damaged building themselves, which is an option rarely exercised because of the problems it can cause to insurers. Normally, they would expect the insured to arrange the work and limit their role to verifying that the work is in order and within the policy terms, and in turn they will reimburse their insured.    REFERENCE:4.1"
+  },
+  {
+    "Question": "Who has the power to choose indemnity method?",
+    "1": "Policyholder",
+    "2": "Third party",
+    "3": "Insurance company",
+    "4": "The party affected by the loss.",
+    "correct": "3",
+    "reason": "Having established the meaning of the principle of indemnity, insurance contract states that the method of providing indemnity is at the option of insurers. The typical policy lays down four options and insurers will normally elect the option that is most convenient and least costly to them.    REFERENCE:4.1"
+  },
+  {
+    "Question": "What is the principle supported by the Contribution Principle and the Subrogation Principle?",
+    "1": "Insurable interest",
+    "2": "Indemnity",
+    "3": "Proximate cause",
+    "4": "Utmost good faith",
+    "correct": "2",
+    "reason": "When the insurer provide indemnity to the insured for a loss caused by third party, it is just and fair to let the person who caused the loss be financially responsible of the damages. Thus, the company has the right to subrogate on behalf of the insured in claiming indemnity from losses from the third party who caused it, after it provides indemnity for the insured. Subrogation supports the Principle of Indemnity and does not apply to insurance policies that are not contracts of Indemnity. If an insured takes out two insurance policies covering the same risk, he would have dual or double insurance. To allow recovery from both insurance companies would breach the principle of indemnity. Contribution is similar to subrogation; it exists to support the Principle of Indemnity and like subrogation, applies only to contracts of indemnity.    REFERENCE:4.1"
+  },
+  {
+    "Question": "The main committee that reports to the Board of Directors of the insurance company is:",
+    "1": "Insurance Brokers Committee",
+    "2": "Audit Committee",
+    "3": "Insurance Agents Committee",
+    "4": "Sales Representatives Committee",
+    "correct": "2",
+    "reason": "Audit Committee    REFERENCE:5.1.1"
+  },
+  {
+    "Question": "One of the major operations in the insurance companies is the underwriting process, which means:",
+    "1": "Claims acceptance process",
+    "2": "Distribution of insurance operations surplus",
+    "3": "Acceptance of insuring the risk",
+    "4": "The Company\u2019s underwriting process in the financial market",
+    "correct": "3",
+    "reason": "Underwriting is a primary function of any insurance company. It is the process by which the underwriter decides to accept or not to accept the insurance offer and sets the necessary conditions, price and premium. In other words, underwriting is the selection and pricing of risks, depending on the pricing tables and actuarial data. The essence of the underwriter\u203as role in an insurance company is to determine the risk degree of the policyholders, and to determine the prices of the appropriate insurance policies covering that risk. The insurance company may lose customers and make its competitors gain them if the underwriter\u2019s assessment of the risks is so severe that leads the premium to be excessive and unaffordable. It may also have to pay non-outstanding claims if the premiums received are not sufficient to pay compensation if the underwriting is unprofessional.    REFERENCE:5.2.2"
+  },
+  {
+    "Question": "The regulatory compliance officer in the insurance company is responsible for:",
+    "1": "Observes employees work attendance",
+    "2": "Applying probability and statistics theory used in pricing insurance products",
+    "3": "Provision of advisory services related to insurance activity",
+    "4": "Ensure compliance with applicable regulations and relevant directives",
+    "correct": "4",
+    "reason": "Audit Committee: The main functions and responsibilities of the Audit Committee are: \u2022 Ensuring compliance with applicable laws and regulations through the regulatory compliance officer and internal and external auditors.    REFERENCE:5.1.1"
+  },
+  {
+    "Question": "The process of reinsurance in insurance companies means:",
+    "1": "Return the insurance premiums to the insured",
+    "2": "The process of accepting the risk offered by the insured",
+    "3": "Transfer of the insured risk burden from the insurance company to the reinsurance company",
+    "4": "The investment process of collected insurance premiums",
+    "correct": "3",
+    "reason": "It is the process by which the insured risk burden is transferred from the insurance company to a reinsurance company. The reinsurer compensates the insurance company for the compensation payment made to the insured if they suffered damage or loss in the event of an accident. Reinsurance is the main risk management tool, simply reinsurance is insurance for insurers. Insurers buy insurance to cover risks they cannot individually incur. Reinsurance helps the insurance industry to provide protection for a large number of risks covered by insurance including large, concentrated, and complex risks.    REFERENCE:5.2.3"
+  },
+  {
+    "Question": "One of the following is considered a major selling channel in insurance companies:",
+    "1": "Newspaper advertisements",
+    "2": "Reinsurance Agreement",
+    "3": "Social Responsibility of the company",
+    "4": "Insurance Brokers",
+    "correct": "4",
+    "reason": "\u2022 Selling through insurance intermediaries: SAMA has licensed a number of intermediaries; the broker is a legal entity who, in exchange for a fee, negotiates with the company to complete the insurance process for the benefit of the insured. The insured may obtain independent advice or consultation about a large number of insurance types from the broker without paying a direct salary. For example, the broker may give advice on the insured\u2019s insurance needs, the best types of coverage and its limits, the best market and procedures for claims and documentation requirements and informing him of any changes in the market. Most business insurance operations are carried out in most developed insurance markets through registered and licensed intermediaries.    REFERENCE:1.2.5"
+  },
+  {
+    "Question": "The department that relates to the principle of compensation in insurance companies is:",
+    "1": "Information Technology department",
+    "2": "Investment department",
+    "3": "Actuarial expert",
+    "4": "Accidents and Claims department",
+    "correct": "4",
+    "reason": "All insurance companies licensed in the Kingdom of Saudi Arabia have departments to receive, process, and settle claims. Specific procedures are set up to receive, study, and settle insured\u2019s claims. The company must also keep files related to the claims of the insured and divide them into paid claims, claims under consideration or settlement, and rejected claims.    REFERENCE:5.2.4"
+  },
+  {
+    "Question": "One of the functions of reinsurance department in insurance companies is:",
+    "1": "Investment in collected premiums",
+    "2": "Transfer of risk from insurance companies to reinsurers",
+    "3": "Direct compensation for vehicle accidents",
+    "4": "Direct compensation for property accidents",
+    "correct": "2",
+    "reason": "It is the process by which the insured risk burden is transferred from the insurance company to a reinsurance company. The reinsurer compensates the insurance company for the compensation payment made to the insured if they suffered damage or loss in the event of an accident. Reinsurance is the main risk management tool, simply reinsurance is insurance for insurers. Insurers buy insurance to cover risks they cannot individually incur. Reinsurance helps the insurance industry to provide protection for a large number of risks covered by insurance including large, concentrated, and complex risks.    REFERENCE:5.2.3"
+  },
+  {
+    "Question": "Selling through an insurance agent is an example of:",
+    "1": "Sale through insurance brokers",
+    "2": "Sale through direct salespersons",
+    "3": "Sale through call centers",
+    "4": "Sale through a major sales channel",
+    "correct": "4",
+    "reason": "Channels of selling insurance \u2013 sale through agents    REFERENCE:1.2.5"
+  },
+  {
+    "Question": "The steps of identifying the insured applicant is known as:",
+    "1": "Claims Settlement",
+    "2": "Receiving claims",
+    "3": "Customer Service",
+    "4": "Underwriting",
+    "correct": "4",
+    "reason": "Stages of underwriting process: \u2022 Identifying the insurance applicant and the risk through the insurance form (in some types of insurance we may need supporting documents such as the report of the loss adjuster in the property insurance).    REFERENCE:5.2.2"
+  },
+  {
+    "Question": "The minimum permitted rating of reinsurance companies to which insurance companies must comply with in accordance of the instructions of the Saudi Central Bank:",
+    "1": "AAA",
+    "2": "BBB",
+    "3": "CCC",
+    "4": "DDD",
+    "correct": "2",
+    "reason": "Compliance Officer Responsibilities: \u2022 Follow-up with reinsurance companies and confirm the minimum rating of BBB.    REFERENCE:5.1.2"
+  },
+  {
+    "Question": "Insurance fraud is defined as:",
+    "1": "Inability of a party to meet his obligations regarding a financial contract",
+    "2": "Falsifying an insurance claim or increasing the insurance claim cost by increasing the damage cost",
+    "3": "Rejecting the renewal of some of the major reinsurance treaties of insurance companies",
+    "4": "Failure to increase the penetration rate in the insurance market",
+    "correct": "2",
+    "reason": "Fraud in insurance is creating a fake insurance claim or increasing insurance claim cost by increasing the damage cost or changing its nature by unlawful means to obtain undue gains. Fraud is divided into primary and secondary. Primary fraud is a person claiming an accident, injury, theft, or damage that does not exist, or claim that he has performed a service he has not performed, all for obtaining a legal gain from the insurance company. Secondary fraud is an honest and righteous person making a small lie or lies to maximize or increase his dues from the insurance company unduly.    REFERENCE:6.2"
+  },
+  {
+    "Question": "Solvency of insurance companies means:",
+    "1": "The financial director\u2019s inability to fill the position",
+    "2": "Actual claims in insurance companies exceeding the carrying amount of the insurance liabilities",
+    "3": "Companies are able to meet their obligations to policyholders",
+    "4": "Lack of specialized training programs working on raising the awareness of individuals",
+    "correct": "3",
+    "reason": "Generally, solvency means the ability to meet or pay obligations. In insurance, it is defined as \u201cthe ability of an insurance company or reinsurance company to permanently ensure its own resources to pay obligations arising from insurance or reinsurance business\u201d i.e. \u201cthe ability to pay obligations on maturity\u201d. The International Association of Insurance Supervisors has shown that any insurance company is solvent when it is able to meet its obligations for all contracts at any time (or at least in most circumstances). Insurance companies\u2019 solvency means that they have permanent financial ability to pay back the disasters they may suffer, i.e., that they are able to meet their obligations to policyholders on time. The importance of solvency is that it represents protection for insurance policyholders\u2019 interests by meeting their dues on time, in addition to ensuring the success, survival, and continuity of insurance companies\u2019 operations because of its economic and social importance. Furthermore, the composition of the solvency margin varies according to the different regulations of countries, but generally consists of capital, reserves and retained earnings. Due to the importance of the margin of solvency, the regulators of the insurance sector impose a mandatory minimum solvency margin in line with their size and risk.    REFERENCE:6.1.4"
+  },
+  {
+    "Question": "External fraudsters on insurance companies can be:",
+    "1": "Employees on a vacation",
+    "2": "Board of directors",
+    "3": "Insurance brokers",
+    "4": "Insurance representatives",
+    "correct": "3",
+    "reason": "Insurance brokers fraud    REFERENCE:6.2.2"
+  },
+  {
+    "Question": "One of the following is a negative effect of solvency:",
+    "1": "Stop performing its obligations",
+    "2": "Ask the insured to provide proper collateral or guarantee",
+    "3": "Implement a strict schedule for paying dues of premiums or other",
+    "4": "Putting restrictions on granting credit in terms of quality and quantity",
+    "correct": "1",
+    "reason": "\u2022 Companies are not meeting their obligations.    REFERENCE:6.1.4"
+  },
+  {
+    "Question": "One of the following is a negative effect of insolvency:",
+    "1": "Companies inability to continue with social responsibility programs",
+    "2": "Companies stopping to underwrite new insurance business",
+    "3": "Not giving incentives to employees",
+    "4": "Increase of fraud from several sources",
+    "correct": "2",
+    "reason": "\u2022 Companies have stopped offering some types of insurance, causing a decrease in corporate revenues.    REFERENCE:6.1.4"
+  },
+  {
+    "Question": "One of the following is a product development risk that insurance companies face:",
+    "1": "Not following the actuary\u2019s instructions for selling a new product",
+    "2": "Ensure the new product\u2019s compliance with the regulatory requirements",
+    "3": "Prepare a report identifying the changes in risks and the insured behavior at the launch of the new product",
+    "4": "Increase in insurance rates",
+    "correct": "3",
+    "reason": "Prepare a report on the changes in risks and the insured behavior from the date of launching the new product.    REFERENCE:6.1"
+  },
+  {
+    "Question": "One of the following is a procedure followed by insurance companies to face underwriting risk:",
+    "1": "Not articulating policies and phrases clearly",
+    "2": "Not giving importance to the completion of the insurance application by the insured",
+    "3": "Ensure that insurance premiums include all costs",
+    "4": "Not conducting periodic and sufficient review of the appropriateness of the insurance policies",
+    "correct": "3",
+    "reason": "\u2022 Ensure that premiums include the cost of policies, including indirect costs of marketing or any other charges.    REFERENCE:1.1.6"
+  },
+  {
+    "Question": "Identifying and applying proper mechanisms for the development of appropriate precautions; is one of the procedures undertaken by insurance companies to face:",
+    "1": "Product development risk",
+    "2": "Underwriting risk",
+    "3": "Information technology risk",
+    "4": "Claim settlement risk",
+    "correct": "4",
+    "reason": "Claim settlement risk    REFERENCE:6.1.3"
+  },
+  {
+    "Question": "To prepare for countering insurance risk, insurance companies do one of the following:",
+    "1": "The high rate of policy cancellation",
+    "2": "Using sound practices to manage company\u2019s assets",
+    "3": "Implement a strict schedule for paying dues",
+    "4": "putting restrictions on granting credit",
+    "correct": "3",
+    "reason": "\u2022 Implement a strict schedule for paying dues of premiums or other.    REFERENCE:6.1.5"
+  },
+  {
+    "Question": "One of the risks related to changes occurring in countries and affecting insurance companies\u2019 performance:",
+    "1": "Increase in car accidents",
+    "2": "Wars and political instability",
+    "3": "Floods and storms",
+    "4": "Increase of fraud from several sources",
+    "correct": "2",
+    "reason": "Wars and political instability    REFERENCE:8.6"
+  },
+  {
+    "Question": "What are the risks arising from determining the right value of premium by the company?",
+    "1": "Settlement risk",
+    "2": "Pricing risk",
+    "3": "Marketing risks",
+    "4": "financial risks",
+    "correct": "2",
+    "reason": "It is one of risks associated with the underwriting process, as it is one of its functions. It is a risk that arises from the process by which the company tries to determine the appropriate premium rate, and when the company faces pricing risk.    REFERENCE:6.1.2"
+  },
+  {
+    "Question": "When an insurance company faces pricing risk, it must:",
+    "1": "Stop performing its obligations",
+    "2": "Engage actuary to set prices for the product",
+    "3": "Develop and implement appropriate mechanisms to set the appropriate precautions",
+    "4": "Conduct a periodic evaluation of claims settlement procedures and principles to enhance their effectiveness and quality",
+    "correct": "2",
+    "reason": "\u2022 Engage actuarial experts in product pricing.    REFERENCE:6.1.2"
+  },
+  {
+    "Question": "Which of the following is not considered an obstacle to solvency risk:",
+    "1": "Stop performing its obligations",
+    "2": "Companies stop subscribing some types of insurance, causing reduction in the companies\u2019 revenues",
+    "3": "Companies stop subscribing all types of insurance, and consequently the resources are substantially decreased",
+    "4": "Placing restrictions on granting credit in terms of its quality and quantity",
+    "correct": "4",
+    "reason": "The solvency is highlighted as one of the obstacles because: \u2022 Companies are not meeting their obligations. \u2022 Companies have stopped offering some types of insurance, causing a decrease in corporate revenues. \u2022 Companies have stopped offering all types of insurance and hence a greater reduction in resources.    REFERENCE:6.1.4"
+  },
+  {
+    "Question": "What are the risks posed by the inability of the other party to fulfill its obligations, which is inferred from the insured\u2019s history of default in payment of premiums?",
+    "1": "Settlement risk",
+    "2": "Credit risks",
+    "3": "Marketing risks",
+    "4": "Financial risks",
+    "correct": "2",
+    "reason": "Credit risk associated with other party\u2019s inability to meet its obligations as evidenced by the history of the insured\u2019s late payment of premiums.    REFERENCE:6.1.5"
+  },
+  {
+    "Question": "When facing credit risk, the insurance company must:",
+    "1": "Request the insured to provide the appropriate guarantee",
+    "2": "Provide an appropriate information technology system to protect data security",
+    "3": "Periodically review and continuously update the information technology system and develop disaster recovery plans",
+    "4": "Use reliable and genuine software",
+    "correct": "1",
+    "reason": "Ask the insured to provide proper collateral or guarantee    REFERENCE:6.1.5"
+  },
+  {
+    "Question": "To address the information technology risks, the insurance company should:",
+    "1": "Request the insured to provide the appropriate guarantee",
+    "2": "Set a strict schedule for payment of dues, i.e. the premiums and other duties",
+    "3": "Keep all financial and other information in a safe place",
+    "4": "Place restrictions over credit in terms of its quality and quantity",
+    "correct": "1",
+    "reason": "\u2022 Keep all financial information and other information in a safe place.    REFERENCE:6.1.6"
+  },
+  {
+    "Question": "Which of the following is an example of fraud?",
+    "1": "The insured discloses all facts to the insurance company",
+    "2": "Demonstrating good faith in dealing with others",
+    "3": "Buying shares in several insurance companies",
+    "4": "Misallocation of the insured assets in order to submit claims at a later time",
+    "correct": "4",
+    "reason": "Insurance fraud is defined as any act or negligence intended to obtain dirty money or achieve illegal gain for the party who committed the fraud (which will be referred to in this research as \u201cthe fraudster\u201d) or for third parties. This can be achieved by, including but not limited to, the following means: \u2022 Deliberately present, conceal, withhold, or not disclose one or all of the material facts relating to a financial decision, process or perception of the insurance company\u2019s status. \u2022 Lack of responsibility, abuse of trust, and misuse of agency. \u2022 Poor distribution of insured assets in order to submit claims later.    REFERENCE:6.2"
+  },
+  {
+    "Question": "Which of the following is defined as fraud against an insurance company in the purchase and or execution of an insured product by a person (s) conspiring to receive payment or untrue coverage.",
+    "1": "Internal fraud",
+    "2": "Fraud of insurance policy holder",
+    "3": "Fraud of brokers",
+    "4": "External fraud",
+    "correct": "2",
+    "reason": "\u2022 Policyholder \u2013 insured fraud: defraud the insurance company by purchasing or/and developing a product insured by a person or persons through receiving false payment or coverage.    REFERENCE:6.2.2"
+  },
+  {
+    "Question": "Which of the following is one of the factors that increase the chance of internal fraud?",
+    "1": "Remuneration and promotions policies",
+    "2": "Age of company",
+    "3": "Number of insurance companies",
+    "4": "Number of insureds.",
+    "correct": "1",
+    "reason": "\u2022 Rewards and promotions policies: the motivation for fraud may be greater if the employee\u203as status and salary depend on achieving certain objectives.    REFERENCE:6.2.2"
+  },
+  {
+    "Question": "Which of the following is an example of brokers involved in insurance company fraud:",
+    "1": "The claimant makes inconsistent statements either to the police, experts or third parties",
+    "2": "Fabrication of incidents causing damage or loss covered by the policy",
+    "3": "The insured person does not take any action to avoid or limit damage",
+    "4": "Withholding premiums paid by the policyholder until the claim is paid",
+    "correct": "4",
+    "reason": "\u2022 Withholding premiums paid by the policyholder until the claim is paid. Q92 Answer: A \u2013 reference: 2.5.1 The Bank is responsible for monitoring Cooperative Insurance Companies in KSA through: \u2022 Approving insurance products for insurance companies.    REFERENCE:6.2.2"
+  },
+  {
+    "Question": "In order to obtain license, insurance and reinsurance service providers must meet several requirements, namely:",
+    "1": "Obtaining an English proficiency certificate",
+    "2": "Being over 30 years old",
+    "3": "Having at least 10 years of experience in insurance companies",
+    "4": "Obtaining a university degree with at least five years of insurance experience or a specialized insurance certificate",
+    "correct": "4",
+    "reason": "As for insurance practitioner, i.e. natural persons licensed to practice any profession related to insurance or reinsurance business and work for self-employed professionals, they must meet the following requirements to obtain SAMA\u2019s license: \u2022 Holding a university degree with at least five years of insurance experience or a specialized insurance certification. \u2022 Pass the approved examination for the required profession or obtain an equivalent qualification.    REFERENCE:2.8"
+  },
+  {
+    "Question": "Which authority is responsible for managing and supervising the investment environment of foreign investors in KSA and controlling insurance companies in which there are non-Saudi investors?",
+    "1": "Saudi Central Bank",
+    "2": "General Investment Authority",
+    "3": "Ministry of Finance",
+    "4": "Capital Market Authority",
+    "correct": "2",
+    "reason": "MISA is the authority responsible for managing and supervising investment environment for foreign investors in KSA, as well as controlling insurance companies involving non-Saudi investors.    REFERENCE:2.5.7"
+  },
+  {
+    "Question": "Which of the following is considered one of CMA functions:",
+    "1": "Regulate and control the disclosure of information related to securities and issuers",
+    "2": "Provide beneficiaries with explanatory brochures containing the policy, the scope and limits of coverage and the network of accredited providers at the beginning of coverage",
+    "3": "Protect insured persons against unjustified financial losses and dishonest behavior in the insurance sector",
+    "4": "Promote, develop and grow the insurance market in KSA, by innovating the tools to do so, and raise insurance awareness in the market",
+    "correct": "1",
+    "reason": "Organizing and controlling disclosure of information related to securities and issuers thereof.    REFERENCE:2.5.4"
+  },
+  {
+    "Question": "Which of the following is considered one of functions of the General Secretariat of the Council of Cooperative Health Insurance:",
+    "1": "Protecting insured persons against unjustified financial losses and dishonest behavior in the insurance sector",
+    "2": "Promoting market transparency by requiring insurance companies to publish reliable and accurate data to the public of those dealing with companies of this sector",
+    "3": "Promoting, developing and growing the insurance market in KSA, by innovating the tools to do so, in addition to raising insurance awareness in the market",
+    "4": "Renewing the accreditation of health facilities",
+    "correct": "4",
+    "reason": "\u2022 Renewal of Accreditation of Healthcare Facilities: Renewing healthcare facility accreditation comes as a control step with a regulatory role, and is one of the basic tools for maintaining quality levels in healthcare facilities to ensure they perform the role entrusted thereto to the fullest extent. Accreditation of healthcare providers is renewed annually or every two or three years for some of categories, after they fulfill accreditation renewal requirements, as an extension of the previous accreditation.    REFERENCE:2.5.3"
+  },
+  {
+    "Question": "............is the legal person who inspects and surveys the insured risk prior to insurance, surveys the damage after its occurrence to find out the causes of loss, adjust its value, and determine liability.",
+    "1": "Actuarial Expert",
+    "2": "b. Loss adjuster",
+    "3": "Insurance Agents",
+    "4": "Insurance Brokers",
+    "correct": "2",
+    "reason": "The loss adjuster and loss assessor is the legal person who inspects and surveys the insured risk prior to insurance, surveys the damage after its occurrence to find out the causes of loss, adjust its value, and determine liability.    REFERENCE:2.8.4"
+  },
+  {
+    "Question": "Najm for Insurance Services Company is an example of:",
+    "1": "Actuarial Expert",
+    "2": "Insurance Agents",
+    "3": "Loss adjuster",
+    "4": "Insurance Brokers",
+    "correct": "3",
+    "reason": "The following inspection and loss assessment companies have been licensed (up to the editing date of this academic material).    REFERENCE:2.8.4"
+  },
+  {
+    "Question": "..............is the legal person who, in return for payment, negotiates with the insurance companies to complete the insurance process for the insured.",
+    "1": "Actuarial Expert",
+    "2": "Insurance Agents",
+    "3": "Loss adjuster",
+    "4": "Insurance Brokers",
+    "correct": "4",
+    "reason": "The insurance broker is the legal person who, in return for payment, negotiates with the insurance companies to complete the insurance process for the insured.    REFERENCE:2.8.1"
+  },
+  {
+    "Question": "Which of the following is one of the reasons that led to the regulation of the insurance sector in KSA:",
+    "1": "High costs of external insurance",
+    "2": "Absence of an insurance regulatory authority",
+    "3": "Accession to the World Trade Organization",
+    "4": "Absence of reinsurance companies",
+    "correct": "3",
+    "reason": "Accession to the World Trade Organization.    REFERENCE:2.3"
+  }
+]
